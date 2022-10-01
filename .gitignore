@@ -76,3 +76,14 @@ $RECYCLE.BIN/
 
 ### Editors ###
 .vscode/
+
+
+### Swift ###
+.DS_Store
+.build/
+/Packages/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/
+.netrc

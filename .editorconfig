@@ -1,0 +1,13 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+[opencc/emoji_cantonese.json]
+indent_style = space
+indent_size = 2
+
+[opencc/emoji_cantonese.txt]
+indent_style = tab
