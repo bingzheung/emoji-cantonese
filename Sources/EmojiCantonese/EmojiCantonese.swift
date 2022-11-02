@@ -72,6 +72,7 @@ public struct EmojiCantonese {
                         let convertedName: String = name.replacingOccurrences(of: "㔹", with: "叻")
                                 .replacingOccurrences(of: "睏", with: "瞓")
                                 .replacingOccurrences(of: "惗", with: "諗")
+                                .replacingOccurrences(of: "癐", with: "攰")
                         let instance: EmojiItem = EmojiItem(name: convertedName, emoji: emoji)
                         return instance
                 }
