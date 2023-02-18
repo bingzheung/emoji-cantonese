@@ -5,9 +5,9 @@ charset = utf-8
 end_of_line = lf
 insert_final_newline = true
 
-[opencc/emoji_cantonese.json]
+[*.txt]
+indent_style = tab
+
+[opencc/emoji.json]
 indent_style = space
 indent_size = 2
-
-[opencc/emoji_cantonese.txt]
-indent_style = tab
