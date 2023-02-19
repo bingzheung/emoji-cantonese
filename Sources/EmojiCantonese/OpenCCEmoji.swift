@@ -55,7 +55,7 @@ struct OpenCCEmoji: Hashable {
                 guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
                         fatalError("Filed to fetch contents of path: \(currentPath)")
                 }
-                let emojiPaths: [String] = contents.filter({ $0.hasPrefix("emoji-") && !($0.hasPrefix("emoji-0")) && !($0.hasPrefix("emoji-x")) }).sorted()
+                let emojiPaths: [String] = contents.filter({ $0.hasPrefix("emoji-") }).sorted()
                 let blocks = emojiPaths.map({ path -> [String] in
                         guard let content: String = try? String(contentsOfFile: path) else {
                                 fatalError("Failed to read content of path: \(path)")
