@@ -39,15 +39,8 @@ struct OpenCCEmoji: Hashable {
                 guard parts.count == 3 else { fatalError("Bad format: \(text)") }
                 let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
                 let names = parts[2].replacingOccurrences(of: "[", with: "").replacingOccurrences(of: "]", with: "").split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
-                let itemInstances = names.map { name -> OpenCCEmoji in
-                        let convertedName: String = name.replacingOccurrences(of: "㔹", with: "叻")
-                                .replacingOccurrences(of: "睏", with: "瞓")
-                                .replacingOccurrences(of: "惗", with: "諗")
-                                .replacingOccurrences(of: "癐", with: "攰")
-                        let instance: OpenCCEmoji = OpenCCEmoji(name: convertedName, emoji: emoji)
-                        return instance
-                }
-                return itemInstances
+                let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
+                return instances
         }
 
         private static func readEmojiLines() -> [String] {
