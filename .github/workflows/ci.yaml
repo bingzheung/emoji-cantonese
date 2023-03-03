@@ -5,10 +5,10 @@ on: [push, pull_request, release]
 #   DEVELOPER_DIR: /Applications/Xcode_14.3.app/Contents/Developer
 
 jobs:
-  swift-build:
+  swiftbuild:
     name: SwiftBuild
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: SwiftBuild
+      - uses: actions/checkout@v3
+      - name: Swift Build
         run: swift build
