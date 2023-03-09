@@ -1,43 +1,43 @@
-U+96F6	{ 零 }	[ 大寫〇 ]
-U+58F9	{ 壹 }	[ 大寫一 ]
-U+8CB3	{ 貳 }	[ 大寫二 ]
-U+53C1	{ 叁 }	[ 大寫三 ]
-U+8086	{ 肆 }	[ 大寫四 ]
-U+4F0D	{ 伍 }	[ 大寫五 ]
-U+9678	{ 陸 }	[ 大寫六 ]
-U+67D2	{ 柒 }	[ 大寫七 ]
-U+634C	{ 捌 }	[ 大寫八 ]
-U+7396	{ 玖 }	[ 大寫九 ]
-U+62FE	{ 拾 }	[ 大寫十 ]
-U+4F70	{ 佰 }	[ 大寫百 ]
-U+4EDF	{ 仟 }	[ 大寫千 ]
-U+2070	{ ⁰ }	[ 上標零, 零次方 ]
-U+B9	{ ¹ }	[ 上標一, 一次方 ]
-U+B2	{ ² }	[ 上標二, 二次方, 兩次方, 平方 ]
-U+B3	{ ³ }	[ 上標三, 三次方, 立方 ]
-U+2074	{ ⁴ }	[ 上標四, 四次方 ]
-U+2075	{ ⁵ }	[ 上標五, 五次方 ]
-U+2076	{ ⁶ }	[ 上標六, 六次方 ]
-U+2077	{ ⁷ }	[ 上標七, 七次方 ]
-U+2078	{ ⁸ }	[ 上標八, 八次方 ]
-U+2079	{ ⁹ }	[ 上標九, 九次方 ]
-U+2080	{ ₀ }	[ 下標零 ]
-U+2081	{ ₁ }	[ 下標一 ]
-U+2082	{ ₂ }	[ 下標二 ]
-U+2083	{ ₃ }	[ 下標三 ]
-U+2084	{ ₄ }	[ 下標四 ]
-U+2085	{ ₅ }	[ 下標五 ]
-U+2086	{ ₆ }	[ 下標六 ]
-U+2087	{ ₇ }	[ 下標七 ]
-U+2088	{ ₈ }	[ 下標八 ]
-U+2089	{ ₉ }	[ 下標九 ]
-U+BD	{ ½ }	[ 二分之一 ]
-U+2153	{ ⅓ }	[ 三分之一 ]
-U+2154	{ ⅔ }	[ 三分之二 ]
-U+BC	{ ¼ }	[ 四分之一 ]
-U+2155	{ ⅕ }	[ 五分之一 ]
-U+2159	{ ⅙ }	[ 六分之一 ]
-U+2150	{ ⅐ }	[ 七分之一 ]
-U+215B	{ ⅛ }	[ 八分之一 ]
-U+2151	{ ⅑ }	[ 九分之一 ]
-U+2152	{ ⅒ }	[ 十分之一 ]
+{ 零 }	大寫〇(daai6 se2 ling4)
+{ 壹 }	大寫一(daai6 se2 jat1)
+{ 貳 }	大寫二(daai6 se2 ji6)
+{ 叁 }	大寫三(daai6 se2 saam1)
+{ 肆 }	大寫四(daai6 se2 sei3)
+{ 伍 }	大寫五(daai6 se2 ng5)
+{ 陸 }	大寫六(daai6 se2 luk6)
+{ 柒 }	大寫七(daai6 se2 cat1)
+{ 捌 }	大寫八(daai6 se2 baat3)
+{ 玖 }	大寫九(daai6 se2 gau2)
+{ 拾 }	大寫十(daai6 se2 sap6)
+{ 佰 }	大寫百(daai6 se2 baak3)
+{ 仟 }	大寫千(daai6 se2 cin1)
+{ ⁰ }	上標零(soeng6 biu1 ling4), 零次方(ling4 ci3 fong1)
+{ ¹ }	上標一(soeng6 biu1 jat1), 一次方(jat1 ci3 fong1)
+{ ² }	上標二(soeng6 biu1 ji6), 二次方(ji6 ci3 fong1), 兩次方(loeng5 ci3 fong1), 平方(ping4 fong1)
+{ ³ }	上標三(soeng6 biu1 saam1), 三次方(saam1 ci3 fong1), 立方(lap6 fong1)
+{ ⁴ }	上標四(soeng6 biu1 sei3), 四次方(sei3 ci3 fong1)
+{ ⁵ }	上標五(soeng6 biu1 ng5), 五次方(ng5 ci3 fong1)
+{ ⁶ }	上標六(soeng6 biu1 luk6), 六次方(luk6 ci3 fong1)
+{ ⁷ }	上標七(soeng6 biu1 cat1), 七次方(cat1 ci3 fong1)
+{ ⁸ }	上標八(soeng6 biu1 baat3), 八次方(baat3 ci3 fong1)
+{ ⁹ }	上標九(soeng6 biu1 gau2), 九次方(gau2 ci3 fong1)
+{ ₀ }	下標零(haa6 biu1 ling4)
+{ ₁ }	下標一(haa6 biu1 jat1)
+{ ₂ }	下標二(haa6 biu1 ji6)
+{ ₃ }	下標三(haa6 biu1 saam1)
+{ ₄ }	下標四(haa6 biu1 sei3)
+{ ₅ }	下標五(haa6 biu1 ng5)
+{ ₆ }	下標六(haa6 biu1 luk6)
+{ ₇ }	下標七(haa6 biu1 cat1)
+{ ₈ }	下標八(haa6 biu1 baat3)
+{ ₉ }	下標九(haa6 biu1 gau2)
+{ ½ }	二分之一(ji6 fan6 zi1 jat1)
+{ ⅓ }	三分之一(saam1 fan6 zi1 jat1)
+{ ⅔ }	三分之二(saam1 fan1 zi1 ji6)
+{ ¼ }	四分之一(sei3 fan6 zi1 jat1)
+{ ⅕ }	五分之一(ng5 fan6 zi1 jat1)
+{ ⅙ }	六分之一(luk6 fan6 zi1 jat1)
+{ ⅐ }	七分之一(cat1 fan6 zi1 jat1)
+{ ⅛ }	八分之一(baat3 fan6 zi1 jat1)
+{ ⅑ }	九分之一(gau2 fan6 zi1 jat1)
+{ ⅒ }	十分之一(sap6 fan6 zi1 jat1)

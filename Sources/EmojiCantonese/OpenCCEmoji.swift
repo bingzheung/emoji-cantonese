@@ -9,8 +9,8 @@ struct OpenCCEmoji: Hashable {
                 let originalLines: [String] = readEmojiLines()
                 let converted = originalLines.map({ convertLine($0) })
                 let instances: [OpenCCEmoji] = converted.flatMap({ $0 }).uniqued()
-                let simplifiedInstances = instances.map({ OpenCCEmoji(name: $0.name.simplified(), emoji: $0.emoji) })
-                let allInstances: [OpenCCEmoji] = (instances + simplifiedInstances).uniqued()
+                // let simplifiedInstances = instances.map({ OpenCCEmoji(name: $0.name.simplified(), emoji: $0.emoji) })
+                let allInstances: [OpenCCEmoji] = instances // (instances + simplifiedInstances).uniqued()
                 let names: [String] = allInstances.map(\.name).uniqued()
                 let openCCEmojiLines: [String] = names.map({ name -> String in
                         let emojis = allInstances.filter({ $0.name == name }).map({ $0.emoji })
@@ -31,14 +31,13 @@ struct OpenCCEmoji: Hashable {
         }
 
         private static func convertLine(_ text: String) -> [OpenCCEmoji] {
-                // U+1F34F\t{ 🍏 }\t[ 青蘋果, 蘋果 ]
-                // 0: U+1F34F
-                // 1: { 🍏 }
-                // 2: [ 青蘋果, 蘋果 ]
+                // { 🍏 }\t青蘋果(jyutping1; jyutping2), 蘋果(jyutping)
+                // 0: { 🍏 }
+                // 2: 青蘋果(), 蘋果()
                 let parts = text.split(separator: "\t")
-                guard parts.count == 3 else { fatalError("Bad format: \(text)") }
-                let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
-                let names = parts[2].replacingOccurrences(of: "[", with: "").replacingOccurrences(of: "]", with: "").split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                guard parts.count == 2 else { fatalError("Bad format: \(text)") }
+                let emoji = parts[0].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
+                let names = parts[1].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0 .trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
                 return instances
         }

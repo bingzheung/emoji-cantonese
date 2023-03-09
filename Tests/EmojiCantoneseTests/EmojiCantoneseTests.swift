@@ -1,5 +1,4 @@
 import XCTest
-@testable import EmojiCantonese
 
 final class EmojiCantoneseTests: XCTestCase {
         func testExample() throws {

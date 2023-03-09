@@ -1,6 +1,6 @@
-U+F8FF	{  }	[ 蘋果 ]
-U+AE	{ ® }	[ 註冊商標, 註冊 ]
-U+2122	{ ™ }	[ 商標 ]
-U+2120	{ ℠ }	[ 服務商標 ]
-U+A9	{ © }	[ 版權 ]
-U+2117	{ ℗ }	[ 錄音版權 ]
+{  }	蘋果(ping4 gwo2)
+{ ® }	註冊商標(zyu3 caak3 soeng1 biu1), 註冊(zyu3 caak3)
+{ ™ }	商標(soeng1 biu1)
+{ ℠ }	服務商標(fuk6 mou6 soeng1 biu1)
+{ © }	版權(baan2 kyun4)
+{ ℗ }	錄音版權(luk6 jam1 baan2 kyun4)
