@@ -50,7 +50,7 @@
 { 🛰 }	人造衛星(jan4 zou6 wai6 sing1), 衛星(wai6 sing1)
 { 🚀 }	火箭(fo2 zin3)
 { 🛸 }	飛碟(fei1 dip2; fei1 dip6), 不明飛行物(bat1 ming4 fei1 hang4 mat6)
-{ 🚁 }	直升機(zik6 sing1 gei1)
+{ 🚁 }	直昇機(zik6 sing1 gei1)
 { 🛶 }	獨木舟(duk6 muk6 zau1)
 { ⛵️ }	遊艇(jau4 teng5)
 { 🚤 }	賽艇(coi3 teng5)

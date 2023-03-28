@@ -1739,7 +1739,7 @@
 飛碟	fei1 dip2
 飛碟	fei1 dip6
 不明飛行物	bat1 ming4 fei1 hang4 mat6
-直升機	zik6 sing1 gei1
+直昇機	zik6 sing1 gei1
 獨木舟	duk6 muk6 zau1
 遊艇	jau4 teng5
 賽艇	coi3 teng5
@@ -2141,7 +2141,7 @@
 條形圖	tiu4 jing4 tou4
 長條圖	coeng4 tiu4 tou4
 直方圖	zik6 fong1 tou4
-上升圖表	soeng6 sing1 tou4 biu2
+上昇圖表	soeng6 sing1 tou4 biu2
 下降圖表	haa6 gong3 tou4 biu2
 螺旋記事本	lo4 syun4 gei3 si6 bun2
 日曆	jat6 lik6

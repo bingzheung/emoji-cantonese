@@ -172,7 +172,7 @@
 { 📑 }	書籤(syu1 cim1)
 { 🧾 }	收據(sau1 geoi3)
 { 📊 }	條形圖(tiu4 jing4 tou4), 長條圖(coeng4 tiu4 tou4), 直方圖(zik6 fong1 tou4)
-{ 📈 }	上升圖表(soeng6 sing1 tou4 biu2)
+{ 📈 }	上昇圖表(soeng6 sing1 tou4 biu2)
 { 📉 }	下降圖表(haa6 gong3 tou4 biu2)
 { 🗒 }	螺旋記事本(lo4 syun4 gei3 si6 bun2)
 { 🗓 }	日曆(jat6 lik6)
