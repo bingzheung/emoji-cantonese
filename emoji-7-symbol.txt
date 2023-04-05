@@ -163,7 +163,7 @@
 { 🔢 }	數字輸入(sou3 zi6 syu1 jap6), 數字鍵(sou3 zi6 gin6)
 { #️⃣ }	井號鍵(zeng2 hou6 gin6), 井號(zeng2 hou6)
 { *️⃣ }	星號鍵(sing1 hou6 gin6), 星號(sing1 hou6)
-{ ⏏️ }	彈出(daan6 ceot1)
+{ ⏏️ }	彈出(daan6 ceot1), 推出(teoi1 ceot1)
 { ▶️ }	向右(hoeng3 jau6), 開始播放(hoi1 ci2 bo3 fong3)
 { ⏸ }	暫停播放(zaam6 ting4 bo3 fong3)
 { ⏯ }	開始暫停(hoi1 ci2 zaam6 ting4)
