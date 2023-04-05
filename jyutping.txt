@@ -1,14 +1,16 @@
+笑容	siu3 jung4
 露齒笑	lou6 ci2 siu3
-笑面	siu3 min2
-開懷大笑	hoi1 waai4 daai6 siu3
+笑口常開	siu3 hau2 soeng4 hoi1
 眉開眼笑	mei4 hoi1 ngaan5 siu3
+開懷大笑	hoi1 waai4 daai6 siu3
 好笑	hou2 siu3
 笑容滿面	siu3 jung4 mun5 min6
-露齒大笑	lou6 ci2 daai6 siu3
+歡笑	fun1 siu3
 笑死	siu3 sei2
 忍淚笑	jan2 leoi6 siu3
 可憐	ho2 lin4
 眼溼溼	ngaan5 sap1 sap1
+流汗笑	lau4 hon6 siu3
 尷尬	gaam3 gaai3
 破涕爲笑	po3 tai3 wai4 siu3
 笑淚	siu3 leoi6
@@ -21,8 +23,10 @@
 光環	gwong1 waan4
 頭頂光環	tau4 deng2 gwong1 waan4
 天使	tin1 si3
+微笑	mei4 siu3
 假笑	gaa2 siu3
-倒轉	dou3 zyun3
+倒轉	dou2 zyun3
+顛倒	din1 dou2
 得意洋洋	dak1 ji3 joeng4 joeng4
 佻皮	tiu3 pei4
 單眼	daan1 ngaan5
@@ -241,6 +245,7 @@
 雙手向上	soeng1 sau2 hoeng3 soeng6
 雙手	soeng1 sau2
 愛心手勢	oi3 sam1 sau2 sai3
+愛心	oi3 sam1
 歡呼	fun1 fu1
 揚手	joeng4 sau2
 鼓掌	gu2 zoeng2
@@ -2213,21 +2218,28 @@
 上鎖	soeng5 so2
 開鎖	hoi1 so2
 解鎖	gaai2 so2
-紅心	hung4 sam1
-愛心	oi3 sam1
+粉紅色愛心	fan2 hung4 sik1 oi3 sam1
+粉紅愛心	fan2 hung4 oi3 sam1
+粉紅心	fan2 hung4 sam1
 紅色愛心	hung4 sik1 oi3 sam1
+紅心	hung4 sam1
 橙色愛心	caang4 sik1 oi3 sam1
 橙心	caang4 sam1
 黃色愛心	wong4 sik1 oi3 sam1
 黃心	wong4 sam1
 綠色愛心	luk6 sik1 oi3 sam1
 綠心	luk6 sam1
+淺藍色愛心	cin2 laam4 sik1 oi3 sam1
+淺藍愛心	cin2 laam4 oi3 sam1
+淺藍心	cin2 laam4 sam1
 藍色愛心	laam4 sik1 oi3 sam1
 藍心	laam4 sam1
 紫色愛心	zi2 sik1 oi3 sam1
 紫心	zi2 sam1
 黑色愛心	hak1 sik1 oi3 sam1
 黑心	hak1 sam1
+灰色愛心	fui1 sik1 oi3 sam1
+灰心	fui1 sam1
 白色愛心	baak6 sik1 oi3 sam1
 白心	baak6 sam1
 褐色愛心	hot3 sik1 oi3 sam1
@@ -3035,6 +3047,12 @@
 省略	saang2 loek6
 刪節	saan1 zit3
 破折號	po3 zit3 hou6
+參攷標誌	caam1 haau2 biu1 zi3
+參攷標記	caam1 haau2 biu1 gei3
+參攷記號	caam1 haau2 gei3 hou6
+參攷號	caam1 haau2 hou6
+參攷	caam1 haau2
+米印	mai5 jan3
 根號	gan1 hou6
 因爲	jan1 wai6
 所以	so2 ji5
