@@ -4,6 +4,7 @@
 眉開眼笑	mei4 hoi1 ngaan5 siu3
 開懷大笑	hoi1 waai4 daai6 siu3
 好笑	hou2 siu3
+哈哈	haa1 haa1
 笑容滿面	siu3 jung4 mun5 min6
 歡笑	fun1 siu3
 笑死	siu3 sei2
@@ -12,6 +13,8 @@
 眼溼溼	ngaan5 sap1 sap1
 流汗笑	lau4 hon6 siu3
 尷尬	gaam3 gaai3
+哈哈哈	haa1 haa1 haa1
+哈哈哈哈	haa1 haa1 haa1 haa1
 破涕爲笑	po3 tai3 wai4 siu3
 笑淚	siu3 leoi6
 閉翳	bai3 ai3
@@ -1699,9 +1702,7 @@
 摩托車	mo1 tok3 ce1
 摩托	mo1 tok3
 三輪車	saam1 leon4 ce1
-輪胎	leon4 taai1
 輪胎	leon4 toi1
-車胎	ce1 taai1
 車胎	ce1 toi1
 備胎	bei6 toi1
 警車燈	ging2 ce1 dang1
@@ -2471,6 +2472,7 @@
 井號	zeng2 hou6
 星號鍵	sing1 hou6 gin6
 彈出	daan6 ceot1
+推出	teoi1 ceot1
 向右	hoeng3 jau6
 開始播放	hoi1 ci2 bo3 fong3
 暫停播放	zaam6 ting4 bo3 fong3
@@ -2978,7 +2980,6 @@
 大寫鎖定	daai6 se2 so2 ding6
 脫離	tyut3 lei4
 逃逸	tou4 jat6
-推出	teoi1 ceot1
 製表	zai3 biu2
 退格	teoi3 gaak3
 向後刪除	hoeng3 hau6 saan1 ceoi4
@@ -3034,7 +3035,7 @@
 下標九	haa6 biu1 gau2
 二分之一	ji6 fan6 zi1 jat1
 三分之一	saam1 fan6 zi1 jat1
-三分之二	saam1 fan1 zi1 ji6
+三分之二	saam1 fan6 zi1 ji6
 四分之一	sei3 fan6 zi1 jat1
 五分之一	ng5 fan6 zi1 jat1
 六分之一	luk6 fan6 zi1 jat1
@@ -3042,6 +3043,8 @@
 八分之一	baat3 fan6 zi1 jat1
 九分之一	gau2 fan6 zi1 jat1
 十分之一	sap6 fan6 zi1 jat1
+百分號	baak3 fan6 hou6
+千分號	cin1 fan6 hou6
 省略號	saang2 loek6 hou6
 刪節號	saan1 zit3 hou6
 省略	saang2 loek6
