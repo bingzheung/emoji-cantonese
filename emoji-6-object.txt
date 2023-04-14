@@ -93,7 +93,7 @@
 { ⚗️ }	蒸餾器(zing1 lau6 hei3)
 { 🔭 }	望遠鏡(mong6 jyun5 geng3)
 { 🔬 }	顯微鏡(hin2 mei4 geng3)
-{ 🕳 }	𥥅(lung1), 窿(lung1)
+{ 🕳️ }	𥥅(lung1), 窿(lung1)
 { 🩻 }	倫琴射線(leon4 kam4 se6 sin3)
 { 🩹 }	創可貼(cong3 ho2 tip3)
 { 🩺 }	聽診器(ting1 can2 hei3)
