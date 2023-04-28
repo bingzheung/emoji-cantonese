@@ -67,7 +67,7 @@
 { 🚥 }	紅綠燈(hung4 luk6 dang1), 信號燈(seon3 hou6 dang1), 交通號標(gaau1 tung1 hou6 biu1), 交通燈(gaau1 tung1 dang1)
 { 🚏 }	公交車站(gung1 gaau1 ce1 zaam6)
 { 🗺 }	地圖(dei6 tou4)
-{ 🗿 }	復活節島(fuk6 wut6 zit3 dou2)
+{ 🗿 }	復活節島(fuk6 wut6 zit3 dou2), 巨石像(geoi6 sek6 zoeng6), 巨石(geoi6 sek6), 石像(sek6 zoeng6)
 { 🗽 }	自由女神像(zi6 jau4 neoi5 san4 zoeng6), 自由女神(zi6 jau4 neoi5 san4)
 { 🗼 }	東京塔(dung1 ging1 taap3)
 { 🏰 }	歐洲城堡(au1 zau1 sing4 bou2), 城堡(sing4 bou2)

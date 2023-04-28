@@ -87,3 +87,8 @@ xcuserdata/
 DerivedData/
 .swiftpm/
 .netrc
+
+
+### Project files ###
+symbol.txt
+cache.*
