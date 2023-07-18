@@ -289,6 +289,8 @@
 搖滾手勢	jiu4 gwan2 sau2 sai3
 冇問題	mou5 man6 tai4
 好	hou2
+可以	ho2 ji5
+可	ho2
 捏	nip6
 意大利手勢	ji3 daai6 lei6 sau2 sai3
 覆手	fuk1 sau2
@@ -1167,15 +1169,14 @@
 芙蓉	fu4 jung4
 芙蓉花	fu4 jung4 faa1
 櫻花	jing1 faa1
+櫻	jing1
 黃花	wong4 faa1
 花	faa1
 向日葵	hoeng3 jat6 kwai4
 葵花	kwai4 faa1
 太陽	taai3 joeng4
-日頭	jat6 tau4
-日頭	jat6 tau2
-熱頭	jit6 tau4
-熱頭	jit6 tau2
+日頭	jit6 tau4
+日頭	jit6 tau2
 望月	mong6 jyut6
 滿月	mun5 jyut6
 月亮	jyut6 loeng6
@@ -1198,6 +1199,7 @@
 美洲	mei5 zau1
 地球	dei6 kau4
 歐洲	au1 zau1
+非洲	fei1 zau1
 亞洲	aa3 zau1
 行星	haang4 sing1
 行星	hang4 sing1
@@ -1767,6 +1769,9 @@
 公交車站	gung1 gaau1 ce1 zaam6
 地圖	dei6 tou4
 復活節島	fuk6 wut6 zit3 dou2
+巨石像	geoi6 sek6 zoeng6
+巨石	geoi6 sek6
+石像	sek6 zoeng6
 自由女神像	zi6 jau4 neoi5 san4 zoeng6
 自由女神	zi6 jau4 neoi5 san4
 東京塔	dung1 ging1 taap3
@@ -2302,8 +2307,6 @@
 帳戶	zoeng3 wu6
 原子符號	jyun4 zi2 fu4 hou6
 原子	jyun4 zi2
-可	ho2
-可以	ho2 ji5
 電離輻射	din6 lei4 fuk1 se6
 輻射	fuk1 se6
 生物危害	sang1 mat6 ngai4 hoi6
@@ -2492,17 +2495,17 @@
 左箭頭	zo2 zin3 tau4
 上箭頭	soeng6 zin3 tau4
 下箭頭	haa6 zin3 tau4
-右上箭頭	jau6 soeng6 zin3 tau2
+右上箭頭	jau6 soeng6 zin3 tau4
 右上	jau6 soeng6
-右下箭頭	jau6 haa6 zin3 tau2
+右下箭頭	jau6 haa6 zin3 tau4
 右下	jau6 haa6
-左下箭頭	zo2 haa6 zin3 tau2
+左下箭頭	zo2 haa6 zin3 tau4
 左下	zo2 haa6
-左上箭頭	zo2 soeng6 zin3 tau2
+左上箭頭	zo2 soeng6 zin3 tau4
 左上	zo2 soeng6
-上下箭頭	soeng6 haa6 zin3 tau2
+上下箭頭	soeng6 haa6 zin3 tau4
 上下	soeng6 haa6
-左右箭頭	zo2 jau6 zin3 tau2
+左右箭頭	zo2 jau6 zin3 tau4
 左右	zo2 jau6
 向右回轉	hoeng3 jau6 wui4 zyun2
 向左回轉	hoeng3 zo2 wui4 zyun2
@@ -2512,10 +2515,10 @@
 隨機	ceoi4 gei1
 循環	ceon4 waan4
 單曲循環	daan1 kuk1 ceon4 waan4
-逆時針箭頭	jik6 si4 zam1 zin3 tau2
+逆時針箭頭	jik6 si4 zam1 zin3 tau4
 同步	tung4 bou6
 更新	gang1 san1
-順時針箭頭	seon6 si4 zam1 zin3 tau2
+順時針箭頭	seon6 si4 zam1 zin3 tau4
 音樂	jam1 ngok6
 加號	gaa1 hou6
 加號	gaa1 hou2
@@ -2539,13 +2542,13 @@
 註冊	zyu3 caak3
 證人	zing3 jan4
 作證	zok3 zing3
-結束箭頭	git3 cuk1 zin3 tau2
-返回箭頭	faan2 wui4 zin3 tau2
-開啓箭頭	hoi1 kai2 zin3 tau2
-啓用箭頭	kai2 jung6 zin3 tau2
-置頂箭頭	zi3 deng2 zin3 tau2
+結束箭頭	git3 cuk1 zin3 tau4
+返回箭頭	faan2 wui4 zin3 tau4
+開啓箭頭	hoi1 kai2 zin3 tau4
+啓用箭頭	kai2 jung6 zin3 tau4
+置頂箭頭	zi3 deng2 zin3 tau4
 置頂	zi3 deng2
-即將箭頭	zik1 zoeng1 zin3 tau2
+即將箭頭	zik1 zoeng1 zin3 tau4
 波浪線	bo1 long6 sin3
 捲曲環	gyun2 kuk1 waan4
 雙捲曲環	soeng1 gyun2 kuk1 waan4
@@ -2987,6 +2990,13 @@
 向前刪除	hoeng3 cin4 saan1 ceoi4
 服務商標	fuk6 mou6 soeng1 biu1
 錄音版權	luk6 jam1 baan2 kyun4
+男	naam4
+女	neoi5
+向左箭頭	hoeng3 zo2 zin3 tau4
+向上箭頭	hoeng3 soeng6 zin3 tau4
+向右箭頭	hoeng3 jau6 zin3 tau4
+箭頭	zin3 tau4
+向下箭頭	hoeng3 haa6 zin3 tau4
 大寫〇	daai6 se2 ling4
 大寫一	daai6 se2 jat1
 大寫二	daai6 se2 ji6
