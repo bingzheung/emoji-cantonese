@@ -142,7 +142,7 @@
 { 🫰 }	錢銀(cin2 ngan2), 着數(zoek6 sou3)
 { 🤟 }	愛你手勢(oi3 nei5 sau2 sai3), 愛你(oi3 nei5)
 { 🤘 }	觸角手勢(cuk1 gok3 sau2 sai3), 搖滾手勢(jiu4 gwan2 sau2 sai3)
-{ 👌 }	冇問題(mou5 man6 tai4), 好(hou2)
+{ 👌 }	冇問題(mou5 man6 tai4), 好(hou2), 可以(ho2 ji5), 可(ho2)
 { 🤌 }	捏(nip6), 意大利手勢(ji3 daai6 lei6 sau2 sai3)
 { 🤏 }	捏(nip6)
 { 🫳 }	覆手(fuk1 sau2)
