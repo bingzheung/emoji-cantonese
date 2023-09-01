@@ -16,6 +16,7 @@
 { ˧ }	調值三(diu6 zik6 saam1)
 { ˨ }	調值二(diu6 zik6 ji6)
 { ˩ }	調值一(diu6 zik6 jat1)
+{ Ø }	零聲母(ling4 sing1 mou5)
 { ㋿ }	令和(ling6 wo4), 日本年號(jat6 bun2 nin4 hou6)
 { ㍻ }	平成(ping4 sing4), 日本年號(jat6 bun2 nin4 hou6)
 { ㍼ }	昭和(ciu1 wo4), 日本年號(jat6 bun2 nin4 hou6)

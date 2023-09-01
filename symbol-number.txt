@@ -43,3 +43,4 @@
 { ⅒ }	十分之一(sap6 fan6 zi1 jat1)
 { % }	百分號(baak3 fan6 hou6)
 { ‰ }	千分號(cin1 fan6 hou6)
+{ ‱ }	萬分號(maan6 fan6 hou6)

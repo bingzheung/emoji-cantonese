@@ -138,7 +138,7 @@
 { 🍀 }	四葉草(sei3 jip6 cou2), 幸運草(hang6 wan6 cou2), 草(cou2)
 { 🎍 }	松樹裝飾(cung4 syu6 zong1 sik1), 節節高(zit3 zit3 gou1), 門松(mun4 cung4), 竹節(zuk1 zit3)
 { 🪴 }	盆栽(pun4 zoi1)
-{ 🎋 }	七夕樹(cat1 zik6 syu6), 許願樹(heoi2 jyun6 syu6), 七夕節(cat1 zik6 zit3), 七夕(cat1 zik6)
+{ 🎋 }	七夕樹(cat1 zik6 syu6), 許願樹(heoi2 jyun6 syu6), 七夕節(cat1 zik6 zit3), 乞巧節(hat1 haau2 zit3), 七夕(cat1 zik6), 乞巧(hat1 haau2)
 { 🍃 }	落葉(lok6 jip6)
 { 🍂 }	枯葉(fu1 jip6), 落葉(lok6 jip6)
 { 🍁 }	楓葉(fung1 jip6)
