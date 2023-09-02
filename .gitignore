@@ -81,8 +81,10 @@ $RECYCLE.BIN/
 ### Swift ###
 .DS_Store
 .build/
-/Packages/
-*.xcodeproj
+Packages/
+Package.resolved
+Package.pins
+*.xcodeproj/
 xcuserdata/
 DerivedData/
 .swiftpm/
@@ -90,5 +92,6 @@ DerivedData/
 
 
 ### Project files ###
+jyutping.txt
 symbol.txt
 cache.*
