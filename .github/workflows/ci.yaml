@@ -5,10 +5,10 @@ env:
   DEVELOPER_DIR: /Applications/Xcode_15.0.app/Contents/Developer
 
 jobs:
-  swiftbuild:
-    name: SwiftBuild
+  run-swift-code:
+    name: RunSwift
     runs-on: macos-13
     steps:
       - uses: actions/checkout@v3
-      - name: Swift Build
-        run: swift build
+      - name: Swift Run
+        run: swift run -c release
