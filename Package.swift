@@ -4,8 +4,9 @@ import PackageDescription
 
 let package = Package(
         name: "EmojiCantonese",
+        platforms: [.macOS(.v13)],
         products: [
-                .executable(name: "emojicantonese", targets: ["EmojiCantonese"])
+                .executable(name: "EmojiCantonese", targets: ["EmojiCantonese"])
         ],
         targets: [
                 .executableTarget(

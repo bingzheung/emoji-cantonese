@@ -115,7 +115,7 @@
 { 🛤 }	鐵軌(tit3 gwai2)
 { 🛣 }	機動車道(gei1 dung6 ce1 dou6)
 { 🗾 }	日本地圖(jat6 bun2 dei6 tou4), 日本(jat6 bun2)
-{ 🎑 }	賞月(soeng2 jyut6; soeng2 jyut2)
+{ 🎑 }	賞月(soeng2 jyut6; soeng2 jyut2), 中秋節(zung1 cau1 zit3), 中秋(zung1 cau1), 八月十五(baat3 jyut6 sap6 ng5)
 { 🏞 }	國家公園(gwok3 gaa1 gung1 jyun2; gwok3 gaa1 gung1 jyun4)
 { 🌅 }	日出(jat6 ceot1), 朝陽(ziu1 joeng4)
 { 🌄 }	日出(jat6 ceot1), 朝陽(ziu1 joeng4), 山間日出(saan1 gaan1 jat6 ceot1)
