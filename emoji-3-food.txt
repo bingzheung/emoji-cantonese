@@ -70,7 +70,7 @@
 { 🍛 }	咖喱飯(gaa3 lei1 faan6)
 { 🍣 }	壽司(sau6 si1)
 { 🍱 }	日式便當(jat6 sik1 bin6 dong3), 便當(bin6 dong3), 便當盒(bin6 dong3 hap6)
-{ 🥟 }	餃(gaau2), 餃子(gaau2 zi2), 水餃(seoi2 gaau2)
+{ 🥟 }	餃(gaau2), 餃子(gaau2 zi2), 水餃(seoi2 gaau2), 扁食(bin2 sik6), 角(gok3)
 { 🦪 }	蠔(hou4), 生蠔(saang1 hou4), 牡蠣(maau5 lai6)
 { 🍤 }	油炸蝦(jau4 zaa3 haa1), 炸蝦(zaa3 haa1), 蝦尾(haa1 mei5), 蝦(haa1)
 { 🍙 }	飯團(faan6 tyun4)
