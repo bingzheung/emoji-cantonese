@@ -36,7 +36,7 @@ struct OpenCCEmoji: Hashable {
                 // 2: 青蘋果(), 蘋果()
                 let parts = text.split(separator: "\t")
                 guard parts.count == 2 else { fatalError("Bad format: \(text)") }
-                let emoji = parts[0].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
+                let emoji = parts[0].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
                 let names = parts[1].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0 .trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
                 return instances

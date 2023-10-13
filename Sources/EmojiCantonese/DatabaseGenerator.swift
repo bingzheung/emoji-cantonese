@@ -82,7 +82,7 @@ struct DatabaseGenerator {
                 // 2: 青蘋果(jyutping1; jyutping2), 蘋果(jyutping)
                 let parts = text.split(separator: "\t")
                 guard parts.count == 2 else { fatalError("Bad format: \(text)") }
-                let emoji = parts[0].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
+                let emoji = parts[0].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
                 let codePointText = emoji.symbolCodePointText
                 let names = parts[1].split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 let entryBlocks = names.map { item -> [SymbolEntry] in
