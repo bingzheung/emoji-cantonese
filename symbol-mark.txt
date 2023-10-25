@@ -6,7 +6,7 @@
 { ℗ }	錄音版權(luk6 jam1 baan2 kyun4)
 { ¥ }	人民幣(jan4 man4 bai6), 日元(jat6 jyun4)
 { ₩ }	韓元(hon4 jyun4)
-{ $ }	美元(mei5 jyun4)
+{ $ }	美元(mei5 jyun4), 美金(mei5 gam1)
 { £ }	英鎊(jing1 bong6)
 { € }	歐元(au1 jyun4)
 { ♂ }	男性(naam4 sing3), 男(naam4)
