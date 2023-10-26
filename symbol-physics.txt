@@ -1,5 +1,5 @@
 { ° }	度(dou6)
 { ℃ }	攝氏度(sip3 si6 dou6)
 { ℉ }	華氏度(waa4 si6 dou6)
-{ † }	匕首(bei3 sau2)
+{ † }	匕首(bei2 sau2)
 { ℏ }	約化普朗克常數(joek3 faa3 pou2 long5 hak1 soeng4 sou3)

@@ -77,7 +77,7 @@
 { 🍚 }	米飯(mai5 faan6), 飯(faan6)
 { 🍘 }	米餅(mai5 beng2)
 { 🍥 }	魚餅(jyu4 beng2)
-{ 🥠 }	幸運餅乾(hang6 wan6 b2ng2 gon1)
+{ 🥠 }	幸運餅乾(hang6 wan6 beng2 gon1)
 { 🥮 }	月餅(jyut6 beng2; jyut6 bing2), 中秋節(zung1 cau1 zit3), 中秋(zung1 cau1), 八月十五(baat3 jyut6 sap6 ng5)
 { 🍢 }	關東煮(gwaan1 dung1 zyu2)
 { 🍡 }	日本糰子(jat6 bun2 tyun4 zi2), 糰子(tyun4 zi2)
