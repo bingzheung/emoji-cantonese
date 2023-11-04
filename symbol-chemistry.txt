@@ -1,1 +1,4 @@
 { H₂O }	水(seoi2), 水分子(seoi2 fan1 zi2), 一氧化二氫(jat1 joeng5 faa3 ji6 hing1)
+{ H₂ }	氫氣(hing1 hei3)
+{ N₂ }	氮氣(daam6hei3)
+{ O₂ }	氧氣(joeng5 hei3)
