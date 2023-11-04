@@ -92,6 +92,7 @@ DerivedData/
 
 
 ### Project files ###
+EmojiJyutping.txt
 jyutping.txt
 symbol.txt
 cache.*

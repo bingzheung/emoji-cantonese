@@ -15,7 +15,7 @@ struct JyutpingGenerator {
                 let converted = originalLines.map({ convertLine($0) })
                 let entries: [JyutpingEntry] = converted.flatMap({ $0 }).uniqued()
                 let product: String = entries.map(\.description).joined(separator: "\n") + "\n"
-                let destinationPath: String = "jyutping.txt"
+                let destinationPath: String = "EmojiJyutping.txt"
                 if FileManager.default.fileExists(atPath: destinationPath) {
                         try? FileManager.default.removeItem(atPath: destinationPath)
                 }
