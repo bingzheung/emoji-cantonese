@@ -45,7 +45,7 @@
 { 😖 }	苦惱(fu2 nou5)
 { 😫 }	煩躁(faan4 cou3), 勞累(lou4 leoi6), 疲憊(pei4 bei6), 難過(naan4 gwo3)
 { 😩 }	厭倦(jim3 gyun6)
-{ 🥺 }	請求(cing2 kau4; ceng2 kau4), 可憐(ho2 lin4)
+{ 🥺 }	請求(cing2 kau4; ceng2 kau4), 懇求(han2 kau4), 可憐(ho2 lin4), 卑微(bei1 mei4)
 { 😢 }	可惜(ho2 sik1), 眼淚(ngaan5 leoi6)
 { 😭 }	淚流滿面(leoi6 lau4 mun5 min6), 流淚(lau4 leoi6), 悲傷(bei1 soeng1)
 { 😤 }	唔忿(m4 fan5), 怒(nou6)
