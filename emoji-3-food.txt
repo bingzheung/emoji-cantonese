@@ -45,7 +45,7 @@
 { 🧇 }	格仔餅(gaak3 zai2 beng2)
 { 🥓 }	培根(pui4 gan1)
 { 🥩 }	牛扒(ngau4 paa2)
-{ 🍗 }	雞肶(gai1 bei2), 鴨肶(aap3 bei2), 鵝肶(ngo4 bei2)
+{ 🍗 }	雞髀(gai1 bei2), 鴨髀(aap3 bei2), 鵝髀(ngo4 bei2), 雞肶(gai1 bei2), 鴨肶(aap3 bei2), 鵝肶(ngo4 bei2)
 { 🍖 }	骨頭肉(gwat1 tau4 juk6)
 { 🦴 }	骨(gwat1), 骨頭(gwat1 tau4)
 { 🌭 }	熱狗(jit6 gau2)

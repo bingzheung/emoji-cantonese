@@ -111,7 +111,7 @@
 { 🦜 }	鸚鵡(jing1 mou5)
 { 🦢 }	天鵝(tin1 ngo4)
 { 🦩 }	火烈鳥(fo2 lit6 niu5)
-{ 🕊️ }	白鴿(baak6 gaap3; baak6 gaap2), 鴿(gaap3), 和平鴿(wo4 ping4 gaap3)
+{ 🕊️ }	白鴿(baak6 gaap3), 鴿(gaap3), 和平鴿(wo4 ping4 gaap3)
 { 🐇 }	兔(tou3), 兔仔(tou3 zai2), 玉兔(juk6 tou3), 月兔(jyut6 tou3)
 { 🦝 }	浣熊(wun2 hung4; wun5 hung4)
 { 🦨 }	臭鼬(cau3 jau6)
