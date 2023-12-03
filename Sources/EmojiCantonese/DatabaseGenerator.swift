@@ -40,7 +40,7 @@ struct DatabaseGenerator {
                         let entries = lines.map({ convertLine($0, category: category) }).flatMap({ $0 })
                         instances.append(contentsOf: entries)
                 }
-                let product = instances.uniqued().map(\.description).joined(separator: "\n")
+                let product = instances.uniqued().map(\.description).joined(separator: "\n") + "\n"
                 let destinationPath: String = "symbol.txt"
                 if FileManager.default.fileExists(atPath: destinationPath) {
                         try? FileManager.default.removeItem(atPath: destinationPath)
