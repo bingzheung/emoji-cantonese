@@ -99,7 +99,7 @@
 { 🎬 }	場記板(coeng4 gei3 baan2)
 { 🎤 }	咪(mai1), 話筒(waa6 tung2)
 { 🎧 }	耳機(ji5 gei1)
-{ 🎼 }	樂譜(ngok6 pou2)
+{ 🎼 }	樂譜(ngok6 pou2), 曲譜(kuk1 pou2)
 { 🎹 }	音樂鍵盤(jam1 ngok6 gin6 pun4), 鋼琴鍵(gong3 kam4 gin6), 鋼琴(gong3 kam4)
 { 🪇 }	沙槌(saa1 ceoi4), 砂槌(saa1 ceoi4)
 { 🥁 }	擊鼓(gik1 gu2), 敲鼓(haau1 gu2), 打鼓(daa2 gu2)
