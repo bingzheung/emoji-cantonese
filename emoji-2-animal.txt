@@ -129,7 +129,7 @@
 { 🌵 }	仙人掌(sin1 jan4 zoeng2)
 { 🎄 }	聖誕樹(sing3 daan3 syu6), 聖誕(sing3 daan3)
 { 🌲 }	常青樹(soeng4 cing1 syu6), 常綠喬木(soeng4 luk6 kiu4 muk6), 松樹(cung4 syu6)
-{ 🌳 }	樹(syu6)
+{ 🌳 }	樹(syu6), 樹木(syu6 muk6)
 { 🌴 }	棕櫚樹(zung1 leoi4 syu6), 棕櫚(zung1 leoi4; zung1 leoi5)
 { 🪵 }	木頭(muk6 tau4), 木(muk6)
 { 🌱 }	幼苗(jau3 miu4), 苗(miu4)
