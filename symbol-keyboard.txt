@@ -1,7 +1,7 @@
 { ⌘ }	命令(ming6 ling6)
 { ⌥ }	選項(syun2 hong6)
 { ⌃ }	控制(hung3 zai3)
-{ ⇧ }	變檔(bin3 dong3), 上檔(soeng6 dong3), 換檔(wun6 dong3)
+{ ⇧ }	變檔(bin3 dong3), 上檔(soeng5 dong3), 換檔(wun6 dong3)
 { ⇪ }	大寫鎖定(daai6 se2 so2 ding6)
 { ⎋ }	脫離(tyut3 lei4), 逃逸(tou4 jat6)
 { ⏏ }	彈出(daan6 ceot1), 推出(teoi1 ceot1)
