@@ -68,7 +68,7 @@
 { 🪚 }	手鋸(sau2 geoi3), 鋸(geoi3)
 { 🔩 }	螺絲(lo4 si1)
 { ⚙️ }	齒輪(ci2 leon4)
-{ 🪤 }	捕鼠器(bou6 syu2 hei3)
+{ 🪤 }	捕鼠器(bou6 syu2 hei3), 老鼠夾(lou5 syu2 gaap3), 老鼠籠(lou5 syu2 lung4)
 { 🧱 }	磚(zyun1), 磚頭(zyun1 tau4), 磚塊(zyun1 faai3)
 { ⛓ }	鐵鏈(tit3 lin4), 鏈(lin4)
 { 🧲 }	攝石(sip3 sek6), 磁鐵(ci4 tit3), 磁石(ci4 sek6)
