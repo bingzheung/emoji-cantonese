@@ -2,3 +2,6 @@
 { H₂ }	氫氣(hing1 hei3)
 { N₂ }	氮氣(daam6 hei3)
 { O₂ }	氧氣(joeng5 hei3)
+{ CH₄ }	甲烷(gaap3 jyun4)
+{ C₂H₅OH }	乙醇(jyut3 seon4), 酒精(zau2 zing1)
+{ C₁₂H₁₅N }	甲基苯丙胺(gaap3 gei1 bun2 bing2 on3), 甲基安非他命(gaap3 gei1 on1 fei1 taa1 ming6), 冰毒(bing1 duk6)
