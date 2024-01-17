@@ -271,7 +271,7 @@
 { ♦️ }	方塊(fong1 faai3), 階磚(gaai1 zyun1)
 { 🃏 }	小丑牌(siu2 cau2 paai4)
 { 🎴 }	花紙牌(faa1 zi2 paai4)
-{ 🀄️ }	麻雀中(maa4 zoek2 zung1), 中(zung1)
+{ 🀄 }	麻雀中(maa4 zoek2 zung1), 中(zung1)
 { 🕐 }	一點正(jat1 dim2 zing3), 一點鐘(jat1 dim2 zung1), 一點(jat1 dim2)
 { 🕑 }	兩點正(loeng5 dim2 zing3), 兩點鐘(loeng5 dim2 zung1), 兩點(loeng5 dim2)
 { 🕒 }	三點正(saam1 dim2 zing3), 三點鐘(saam1 dim2 zung1), 三點(saam1 dim2)
