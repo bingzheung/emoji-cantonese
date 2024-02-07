@@ -3,7 +3,7 @@
 { 😄 }	好笑(hou2 siu3), 哈哈(haa1 haa1)
 { 😁 }	笑容滿面(siu3 jung4 mun5 min6), 歡笑(fun1 siu3)
 { 😆 }	笑死(siu3 sei2)
-{ 🥹 }	忍淚笑(jan2 leoi6 siu3), 可憐(ho2 lin4), 眼溼溼(ngaan5 sap1 sap1)
+{ 🥹 }	忍淚笑(jan2 leoi6 siu3), 可憐(ho2 lin4), 眼溼溼(ngaan5 sap1 sap1), 委屈(wai2 wat1)
 { 😅 }	流汗笑(lau4 hon6 siu3), 尷尬(gaam3 gaai3)
 { 🤣 }	笑死(siu3 sei2), 哈哈哈(haa1 haa1 haa1), 哈哈哈哈(haa1 haa1 haa1 haa1)
 { 😂 }	笑死(siu3 sei2), 破涕爲笑(po3 tai3 wai4 siu3)

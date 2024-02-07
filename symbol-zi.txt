@@ -36,7 +36,6 @@
 { 🩫 }	車(geoi1)
 { 🩬 }	砲(paau3)
 { 🩭 }	卒(zeot1)
-{ の }	日語之(jat6 jyu5 zi1), 日文之(jat6 man2 zi1)
 { ㋿ }	令和(ling6 wo4), 日本年號(jat6 bun2 nin4 hou6)
 { ㍻ }	平成(ping4 sing4), 日本年號(jat6 bun2 nin4 hou6)
 { ㍼ }	昭和(ciu1 wo4), 日本年號(jat6 bun2 nin4 hou6)

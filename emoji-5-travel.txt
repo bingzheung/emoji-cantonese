@@ -19,7 +19,7 @@
 { 🛴 }	滑板車(waat6 baan2 ce1)
 { 🚲 }	單車(daan1 ce1), 腳踏車(goek3 daap6 ce1), 自行車(zi6 hang4 ce1)
 { 🛵 }	電動單車(din6 dung6 daan1 ce1), 電動自行車(din6 dung6 zi6 hang4 ce1)
-{ 🏍 }	摩托車(mo1 tok3 ce1), 摩托(mo1 tok3)
+{ 🏍 }	摩托車(mo1 tok3 ce1), 摩托(mo1 tok3), 電單車(din6 daan1 ce1)
 { 🛺 }	三輪車(saam1 leon4 ce1)
 { 🛞 }	輪胎(leon4 toi1), 車胎(ce1 toi1), 備胎(bei6 toi1)
 { 🚨 }	警車燈(ging2 ce1 dang1), 警燈(ging2 dang1), 警示燈(ging2 si6 dang1)

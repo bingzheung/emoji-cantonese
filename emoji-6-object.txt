@@ -149,7 +149,7 @@
 { 🏮 }	居酒屋燈籠(geoi1 zau2 uk1 dang1 lung4)
 { 🎐 }	風鈴(fung1 ling4)
 { 🪩 }	鏡球(geng3 kau4)
-{ 🧧 }	封包(fung1 baau1), 勵事(lai6 si6), 利事(lei6 si6), 利是(lei6 si6; lai6 si6), 紅包(hung4 baau1)
+{ 🧧 }	利是(lei6 si6; lai6 si6), 封包(fung1 baau1), 紅包(hung4 baau1)
 { ✉️ }	郵件(jau4 gin2)
 { 📩 }	來信(loi4 seon3)
 { 📨 }	來信(loi4 seon3), 閱讀郵件(jyut6 duk6 jau4 gin2)
