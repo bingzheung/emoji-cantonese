@@ -63,6 +63,10 @@ struct Checker {
                 let blocks = names.split(separator: ",", omittingEmptySubsequences: false).map({ $0.trimmingCharacters(in: .whitespaces) })
                 for block in blocks {
                         let parts = block.split(separator: "(")
+                        guard parts.count == 2 else {
+                                print("LineText: \(text)")
+                                throw CheckerError.badLineFormat
+                        }
                         let cantonese = parts[0]
                         let romanizations = parts[1].dropLast().split(separator: ";").map({ $0.trimmingCharacters(in: .whitespaces) })
                         let isFineWord: Bool = cantonese.filter({ $0.isPunctuation || $0.isWhitespace || $0.isASCII }).isEmpty
