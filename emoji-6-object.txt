@@ -184,7 +184,7 @@
 { 🗃 }	存檔盒(cyun4 dong2 hap6)
 { 🗳 }	投票箱(tau4 piu3 soeng1)
 { 🗄 }	文件櫃(man4 gin2 gwai6)
-{ 📋 }	剪貼板(zin2 tip3 baan2), 剪切板(zin2 cit3 baan2)
+{ 📋 }	剪貼板(zin2 tip3 baan2), 剪切板(zin2 cit3 baan2), 剪貼簿(zin2 tip3 bou2)
 { 📁 }	文件夾(man4 gin2 gaap3), 資料夾(zi1 liu2 gaap3), 檔案夾(dong2 on3 gaap3)
 { 📂 }	文件夾(man4 gin2 gaap3), 資料夾(zi1 liu2 gaap3), 檔案夾(dong2 on3 gaap3)
 { 🗂 }	文件夾(man4 gin2 gaap3), 資料夾(zi1 liu2 gaap3), 檔案夾(dong2 on3 gaap3)
