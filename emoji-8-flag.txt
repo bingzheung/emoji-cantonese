@@ -140,7 +140,7 @@
 { 🇲🇴 }	澳門(ou3 mun2; ou3 mun4)
 { 🇲🇬 }	馬達加斯加(maa5 daat6 gaa1 si1 gaa1)
 { 🇲🇼 }	馬拉維(maa5 laai1 wai4)
-{ 🇲🇾 }	馬來西亞(maa5 loi4 sai1 aa3), 大馬(daai6 maa5)
+{ 🇲🇾 }	馬來西亞(maa5 loi4 sai1 aa3), 大馬(daai6 maa5), 馬來亞(maa5 loi4 aa3), 馬拉(maa5 laai1), 馬來(maa5 loi4)
 { 🇲🇻 }	馬爾代夫(maa5 ji5 doi6 fu1)
 { 🇲🇱 }	馬里(maa5 lei5)
 { 🇲🇹 }	馬耳他(maa5 ji5 taa1)
