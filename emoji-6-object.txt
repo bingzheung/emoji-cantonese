@@ -158,7 +158,7 @@
 { 💌 }	情書(cing4 syu1)
 { 📥 }	收信箱(sau1 seon3 soeng1), 信箱(seon3 soeng1)
 { 📤 }	發件箱(faat3 gin2 soeng1)
-{ 📦 }	封裝(fung1 zong1), 禮品(lai5 ban2), 快遞(faai3 dai6)
+{ 📦 }	封裝(fung1 zong1), 包裝(baau1 zong1), 箱(soeng1), 箱仔(soeng1 zai2), 盒(hap6), 盒仔(hap6 zai2)
 { 🏷 }	標籤(biu1 cim1)
 { 🪧 }	標語(biu1 jyu5)
 { 📪 }	冇來信(mou5 loi4 seon3)
