@@ -45,7 +45,7 @@
 { 🕯 }	蠟燭(laap6 zuk1)
 { 🪔 }	油燈(jau4 dang1)
 { 🧯 }	滅火器(mit6 fo2 hei3)
-{ 🛢 }	油桶(jau4 tung2), 石油(sik6 jau4; sek6 jau4)
+{ 🛢 }	油桶(jau4 tung2), 石油(sek6 jau4)
 { 💸 }	紙幣(zi2 bai6)
 { 💵 }	美元(mei5 jyun4), 美金(mei5 gam1)
 { 💴 }	日元(jat6 jyun4)
