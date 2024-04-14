@@ -52,7 +52,7 @@
 { 🌭 }	熱狗(jit6 gau2)
 { 🍔 }	漢堡包(hon3 bou2 baau1), 漢堡(hon3 bou2), 巨無霸(geoi6 mou4 baa3)
 { 🍟 }	薯條(syu4 tiu2; syu4 tiu4), 炸薯條(zaa3 syu4 tiu2; zaa3 syu4 tiu4)
-{ 🍕 }	披薩(pei1 saat3), 比薩(bei2 saat3)
+{ 🍕 }	意大利薄餅(ji3 daai6 lei6 bok6 beng2), 披薩(pei1 saat3), 比薩(bei2 saat3)
 { 🫓 }	麪餅(min6 beng2)
 { 🥪 }	三文治(saam1 man4 zi6), 山域治(saan1 wik6 zi6), 三明治(saam1 ming4 zi6)
 { 🥙 }	阿拉伯薄麪包三明治(aa3 laai1 baak3 bok6 min6 baau1 saam1 ming4 zi6)
