@@ -87,7 +87,7 @@
 { 😮 }	擘嘴(maak3 zeoi2), 擘口(maak3 hau2), 張嘴(zoeng1 zeoi2), 張口(zoeng1 hau2), 喫驚(hek3 geng1), 大喫一驚(daai6 hek3 jat1 geng1), 驚訝(ging1 ngaa6), 目瞪口呆(muk6 cing4 hau2 ngoi4)
 { 😲 }	喫驚(hek3 geng1), 大喫一驚(daai6 hek3 jat1 geng1), 驚訝(ging1 ngaa6), 目瞪口呆(muk6 cing4 hau2 ngoi4)
 { 🥱 }	瞌眼睏(hap1 ngaan5 kwan3; hap1 ngaan5 fan3; hap1 ngaan5 han3), 瞌眼瞓(hap1 ngaan5 fan3), 瞌睡(hap1 seoi6)
-{ 😴 }	睏覺(kwan3 gaau3; fan3 gaau3; han3 gaau3), 瞓覺(fan3 gaau3), 瞌眼睏(hap1 ngaan5 kwan3; hap1 ngaan5 fan3; hap1 ngaan5 han3), 瞌眼瞓(hap1 ngaan5 fan3), 瞌睡(hap1 seoi6)
+{ 😴 }	睏覺(kwan3 gaau3; fan3 gaau3; han3 gaau3), 瞓覺(fan3 gaau3), 熟睡(suk6 seoi6), 睡熟(seoi6 suk6), 瞌眼睏(hap1 ngaan5 kwan3; hap1 ngaan5 fan3; hap1 ngaan5 han3), 瞌眼瞓(hap1 ngaan5 fan3), 瞌睡(hap1 seoi6)
 { 🤤 }	流口水(lau4 hau2 seoi2)
 { 😪 }	疲勞(pei4 lou4)
 { 😮‍💨 }	攰(gui6), 癐(gui6), 好攰(hou2 gui6), 好癐(hou2 gui6), 抵力(dai2 lik6), 好抵力(hou2 dai2 lik6)

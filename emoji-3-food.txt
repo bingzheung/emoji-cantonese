@@ -3,7 +3,7 @@
 { 🍐 }	梨(lei4)
 { 🍊 }	柑橘(gam1 gwat1), 橘(gwat1), 柑(gam1), 橙(caang4; caang2), 橘子(gwat1 zi2), 柑子(gam1 zi2), 橙子(caang4 zi2), 柑桔(gam1 gat1), 桔(gat1), 桔子(gat1 zi2)
 { 🍋 }	檸檬(ning4 mung1)
-{ 🍋‍🟩 }	青檸(cing1 ning4; ceng1 ning4)
+{ 🍋‍🟩 }	青檸(cing1 ning4; ceng1 ning4), 青檸檬(cing1 ning4 mung1; ceng1 ning4 mung1)
 { 🍌 }	蕉(ziu1), 香蕉(hoeng1 ziu1)
 { 🍉 }	西瓜(sai1 gwaa1)
 { 🍇 }	葡萄(pou4 tou4)
