@@ -23,7 +23,7 @@
 { 🏹 }	射箭(se6 zin3)
 { 🎣 }	釣魚(diu3 jyu2)
 { 🤿 }	潛水(cim4 seoi2)
-{ 🥊 }	拳擊(kyun4 gik1)
+{ 🥊 }	拳擊(kyun4 gik1), 打拳(daa2 kyun4; daa2 kyun2)
 { 🥋 }	武術服(mou5 seot6 fuk6)
 { 🎽 }	運動背心(wan6 dung6 bui3 sam1), 運動衫(wan6 dung6 saam1)
 { 🛹 }	滑板(waat6 baan2)
