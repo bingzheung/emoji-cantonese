@@ -100,7 +100,7 @@
 { 🏤 }	郵局(jau4 guk6; jau4 guk2), 歐洲郵局(au1 zau1 jau4 guk6)
 { 🏥 }	醫院(ji1 jyun2)
 { 🏦 }	銀行(ngan4 hong4)
-{ 🏨 }	旅館(leoi5 gun2), 賓館(ban1 gun2), 客棧(haak3 zaan2; haak3 zaan6), 飯店(faan6 dim3), 酒店(zau2 dim3)
+{ 🏨 }	旅館(leoi5 gun2), 賓館(ban1 gun2), 客棧(haak3 zaan6; haak3 zaan2), 飯店(faan6 dim3), 酒店(zau2 dim3)
 { 🏪 }	便利店(bin6 lei6 dim3)
 { 🏫 }	學校(hok6 haau6)
 { 🏩 }	愛情旅館(oi3 cing4 leoi5 gun2), 戀愛旅館(lyun2 oi3 leoi5 gun2), 情侶旅館(cing4 leoi5 leoi5 gun2)
