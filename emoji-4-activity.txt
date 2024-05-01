@@ -21,7 +21,7 @@
 { 🪁 }	風箏(fung1 zang1)
 { 🛝 }	滑梯(waat6 tai1)
 { 🏹 }	射箭(se6 zin3)
-{ 🎣 }	釣魚(diu3 jyu2)
+{ 🎣 }	釣魚(diu3 jyu2), 漁(jyu4)
 { 🤿 }	潛水(cim4 seoi2)
 { 🥊 }	拳擊(kyun4 gik1), 打拳(daa2 kyun4; daa2 kyun2), 搏擊(bok3 gik1)
 { 🥋 }	武術服(mou5 seot6 fuk6)
