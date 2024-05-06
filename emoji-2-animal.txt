@@ -28,7 +28,7 @@
 { 🪿 }	鵝(ngo4), 鵝仔(ngo4 zai2)
 { 🦆 }	鴨(aap3), 鴨仔(aap3 zai2)
 { 🐦‍⬛ }	黑鳥(hak1 niu5), 玄鳥(jyun4 niu5), 黑雀(hak1 zoek3), 黑色雀仔(hak1 sik1 zoek3 zai2)
-{ 🦅 }	鷹(jing1), 蒼鷹(cong1 jing1)
+{ 🦅 }	鷹(jing1), 蒼鷹(cong1 jing1), 雕(diu1)
 { 🦉 }	貓頭鷹(maau1 tau4 jing1)
 { 🦇 }	蝙蝠(pin1 fuk1)
 { 🐺 }	狼頭(long4 tau4), 狼(long4)
