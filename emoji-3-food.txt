@@ -75,7 +75,7 @@
 { 🦪 }	蠔(hou4), 生蠔(saang1 hou4), 牡蠣(maau5 lai6)
 { 🍤 }	油炸蝦(jau4 zaa3 haa1), 炸蝦(zaa3 haa1), 蝦尾(haa1 mei5), 蝦(haa1), 蝦公(haa1 gung1)
 { 🍙 }	飯團(faan6 tyun4)
-{ 🍚 }	米飯(mai5 faan6), 飯(faan6)
+{ 🍚 }	米飯(mai5 faan6), 飯(faan6), 食飯(sik6 faan6), 喫飯(hek3 faan6), 喫飯(jaak3 faan6)
 { 🍘 }	米餅(mai5 beng2)
 { 🍥 }	魚餅(jyu4 beng2)
 { 🥠 }	幸運餅乾(hang6 wan6 beng2 gon1), 幸運曲奇(hang6 wan6 kuk1 kei4)
