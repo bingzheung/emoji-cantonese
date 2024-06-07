@@ -30,7 +30,7 @@
 { 🛼 }	輪滑鞋(leon4 waat6 haai4)
 { 🛷 }	雪橇(syut3 hiu1)
 { ⛸ }	冰鞋(bing1 haai4)
-{ 🥌 }	冰壺石(bing1 wu2 sek6), 冰壺(bing1 wu2)
+{ 🥌 }	冰壺石(bing1 wu4 sek6), 冰壺(bing1 wu4)
 { 🎿 }	滑雪屐(waat6 syut3 kek6), 滑雪板(waat6 syut3 baan2)
 { ⛷ }	滑雪(waat6 syut3)
 { 🏂 }	滑雪(waat6 syut3), 單板滑雪(daan1 baan2 waat6 syut3)

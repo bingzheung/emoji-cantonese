@@ -83,7 +83,7 @@
 { 🛡 }	盾(teon5), 盾牌(teon5 paai4)
 { 🚬 }	菸(jin1), 香菸(hoeng1 jin1), 食菸(sik6 jin1), 食支菸(sik6 zi1 jin1)
 { ⚰️ }	棺材(gun1 coi4)
-{ 🪦 }	墓碑(mou6 bei1)
+{ 🪦 }	墓碑(mou6 bei1), 墓(mou6)
 { ⚱️ }	骨灰盒(gwat1 fui1 hap2)
 { 🏺 }	雙耳瓶(soeng1 ji5 ping4)
 { 🔮 }	水晶球(seoi2 zing1 kau4)
