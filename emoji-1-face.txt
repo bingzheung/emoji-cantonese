@@ -170,7 +170,7 @@
 { 🫵 }	手指指(sau2 zi2 zi2)
 { 🦶 }	腳底(goek3 dai2), 腳板底(goek3 baan2 dai2), 腳(goek3)
 { 🦵 }	腳(goek3), 下肢(haa6 zi1)
-{ 🦿 }	機械腳(gei1 haai6 goek3), 義肢(ji6 zi1)
+{ 🦿 }	機械腳(gei1 haai6 goek3), 義肢(ji6 zi1), 假肢(gaa2 zi1)
 { 💄 }	口紅(hau2 hung4)
 { 💋 }	紅脣(hung4 seon4), 脣(seon4)
 { 👄 }	嘴脣(zeoi2 seon4), 脣(seon4)

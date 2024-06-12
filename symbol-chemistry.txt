@@ -6,3 +6,4 @@
 { C₂H₅OH }	乙醇(jyut3 seon4), 酒精(zau2 zing1)
 { C₁₂H₁₅N }	甲基苯丙胺(gaap3 gei1 bun2 bing2 on3), 甲基安非他命(gaap3 gei1 on1 fei1 taa1 ming6), 冰毒(bing1 duk6)
 { H₂SO₄ }	硫酸(lau4 syun1)
+{ C₁₂H₂₂O₁₄Zn }	葡萄糖酸鋅(pou4 tou4 tong4 syun1 san1)
