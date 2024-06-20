@@ -111,7 +111,7 @@
 { 🪕 }	五弦琴(ng5 jin4 kam4)
 { 🎻 }	小提琴(siu2 tai4 kam4)
 { 🪈 }	長笛(coeng4 dik6; coeng4 dek2; coeng4 dek6), 笛(dik6; dek6; dek2)
-{ 🎲 }	骰(tau4)
+{ 🎲 }	骰(tau4), 骰子(tau4 zi2), 色(sik1), 色子(sik1 zi2)
 { ♟ }	國際象棋(gwok3 zai3 zoeng6 kei2)
 { 🎯 }	標靶(biu1 baa2)
 { 🎳 }	保齡球(bou2 ling4 kau4)
