@@ -75,7 +75,7 @@
 { 🐆 }	豹(paau3)
 { 🦓 }	斑馬(baan1 maa5)
 { 🦍 }	大猩猩(daai6 sing1 sing1), 猩猩(sing1 sing1)
-{ 🦧 }	紅毛猩猩(hung4 mou4 sing1 sing1)
+{ 🦧 }	紅毛猩猩(hung4 mou4 sing1 sing1), 紅猩猩(hung4 sing1 sing1)
 { 🦣 }	猛獁象(maang5 maa5 zoeng6)
 { 🐘 }	象(zoeng6), 大笨象(daai6 ban6 zoeng6), 大象(daai6 zoeng6)
 { 🦛 }	河馬(ho4 maa5)

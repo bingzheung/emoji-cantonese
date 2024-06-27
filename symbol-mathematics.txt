@@ -26,3 +26,4 @@
 { ∝ }	正比於(zing3 bei2 jyu1)
 { ∅ }	空集(hung1 zaap6)
 { ° }	度(dou6)
+{ a² + b² = c² }	勾股定理(ngau1 gu2 ding6 lei5)
