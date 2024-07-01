@@ -81,7 +81,7 @@
 { ⛔️ }	禁止(gam3 zi2), 拒絕(keoi5 zyut6)
 { 📛 }	名卡(ming4 kaa1)
 { 🚫 }	禁止(gam3 zi2), 拒絕(keoi5 zyut6)
-{ 💯 }	一百分(jat1 baak3 fan1), 滿分(mun5 fan1)
+{ 💯 }	一百分(jat1 baak3 fan1), 滿分(mun5 fan1), 完全正確(jyun4 cyun4 zing3 kok3), 完全同意(jyun4 cyun4 tung4 ji3), 冇錯(mou5 co3), 啱晒(ngaam1 saai3), 百分百(baak3 fan6 baak3), 百分之一百(baak3 fan6 zi1 jat1 baak3)
 { 💢 }	憤怒(fan5 nou6), 氣憤(hei3 fan5)
 { ♨️ }	溫泉(wan1 cyun4)
 { 🚷 }	行人禁止通行(hang4 jan4 gam3 zi2 tung1 hang4), 行人禁止(hang4 jan4 gam3 zi2), 禁止行人(gam3 zi2 hang4 jan4)
