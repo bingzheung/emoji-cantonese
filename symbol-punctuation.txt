@@ -2,6 +2,7 @@
 { —— }	破折號(po3 zit3 hou6), 破折(po3 zit3)
 { ※ }	參攷標誌(caam1 haau2 biu1 zi3), 參攷標記(caam1 haau2 biu1 gei3), 參攷記號(caam1 haau2 gei3 hou6), 參攷號(caam1 haau2 hou6), 參攷(caam1 haau2), 米印(mai5 jan3)
 { · }	間隔號(gaan3 gaak3 hou6), 間隔(gaan3 gaak3)
+{ ・ }	全寬中點(cyun4 fun1 zung1 dim2), 中點(zung1 dim3), 中點號(zung1 dim3 hou6)
 { ‘ }	左單引號(zo2 daan1 jan5 hou6), 單引號(daan1 jan5 hou6), 彎引號(waan1 jan5 hou6)
 { ’ }	右單引號(jau6 daan1 jan5 hou6), 單引號(daan1 jan5 hou6), 彎引號(waan1 jan5 hou6)
 { “ }	左雙引號(zo2 soeng1 jan5 hou6), 雙引號(soeng1 jan5 hou6), 彎引號(waan1 jan5 hou6)
