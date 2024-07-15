@@ -174,7 +174,7 @@
 { 🌒 }	峨眉月(ngo4 mei4 jyut6), 眉月(mei4 jyut6)
 { 🌓 }	上弦月(soeng6 jin4 jyut6), 弦月(jin4 jyut6), 半月(bun3 jyut6)
 { 🌔 }	上凸月(soeng6 dat6 jyut6), 盈凸月(jing4 dat6 jyut6), 凸月(dat6 jyut6)
-{ 🌙 }	新月(san1 jyut6), 彎月(waan1 jyut6), 月亮(jyut6 loeng6), 月(jyut6), 太陰(taai3 jam1)
+{ 🌙 }	新月(san1 jyut6), 彎月(waan1 jyut6), 月牙(jyut6 ngaa4), 月亮(jyut6 loeng6), 月(jyut6), 太陰(taai3 jam1)
 { 🌎 }	美洲(mei5 zau1), 地球(dei6 kau4)
 { 🌍 }	歐洲(au1 zau1), 非洲(fei1 zau1), 地球(dei6 kau4)
 { 🌏 }	亞洲(aa3 zau1), 地球(dei6 kau4)
