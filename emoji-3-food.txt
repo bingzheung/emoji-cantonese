@@ -20,7 +20,7 @@
 { 🍆 }	矮瓜(ai2 gwaa1), 茄瓜(ke2 gwaa1; ke4 gwaa1), 茄子(ke2 zi2; ke4 zi2), 茄(ke2; ke4)
 { 🥑 }	牛油果(ngau4 jau4 gwo2), 鱷梨(ngok6 lei4), 酪梨(lok3 lei4)
 { 🫛 }	豌豆莢(wun2 dau6 gaap3), 豌豆(wun2 dau6), 雪豆(syut3 dau6)
-{ 🥦 }	西蘭花(sai1 laan4 faa1)
+{ 🥦 }	西藍花(sai1 laam4 faa1), 西蘭花(sai1 laan4 faa1), 椰菜花(je4 coi3 faa1), 花椰菜(faa1 je4 coi3), 青花菜(ceng1 faa1 coi3), 花菜(faa1 coi3), 菜花(coi3 faa1)
 { 🥬 }	綠葉蔬菜(luk6 jip6 so1 coi3), 蔬菜(so1 coi3), 青菜(ceng1 coi3; cing1 coi3), 菜(coi3), 白菜(baak6 coi3)
 { 🥒 }	青瓜(ceng1 gwaa1; cing1 gwaa1), 黃瓜(wong4 gwaa1)
 { 🌶 }	辣椒(laat6 ziu1), 椒(ziu1)
