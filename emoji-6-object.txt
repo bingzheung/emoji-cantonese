@@ -4,7 +4,7 @@
 { 💻 }	筆記本電腦(bat1 gei3 bun2 din6 nou5), 手提電腦(sau2 tai4 din6 nou5), 電腦(din6 nou5)
 { ⌨️ }	鍵盤(gin6 pun4; gin6 pun2)
 { 🖥 }	電腦(din6 nou5)
-{ 🖨 }	打印機(daa2 jan3 gei1)
+{ 🖨 }	打印機(daa2 jan3 gei1), 打印(daa2 jan3), 列印機(lit6 jan3 gei1), 列印(lit6 jan3), 印(jan3)
 { 🖱 }	鼠標(syu2 biu1), 滑鼠(waat6 syu2)
 { 🖲 }	軌跡球(gwai2 zik1 kau4)
 { 🕹 }	操縱桿(cou1 zung3 gon1)
