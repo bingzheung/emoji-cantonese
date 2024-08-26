@@ -7,6 +7,7 @@
 { ⎋ }	脫離(tyut3 lei4), 逃逸(tou4 jat6)
 { ⏏ }	彈出(daan6 ceot1), 推出(teoi1 ceot1)
 { ⇥ }	製表(zai3 biu2), 製表符(zai3 biu2 fu4)
+{ ⏎ }	換行(wun6 hong4), 換行符(wun6 hong4 fu4), 回車(wui4 ce1)
 { ↵ }	換行(wun6 hong4), 換行符(wun6 hong4 fu4), 回車(wui4 ce1)
 { ⌅ }	進入(zeon3 jap6)
 { ⌫ }	退格(teoi3 gaak3), 向後刪除(hoeng3 hau6 saan1 ceoi4), 向左刪除(hoeng3 zo2 saan1 ceoi4), 向後刪(hoeng3 hau6 saan1), 向左刪(hoeng3 zo2 saan1), 刪除(saan1 ceoi4), 刪(saan1)
