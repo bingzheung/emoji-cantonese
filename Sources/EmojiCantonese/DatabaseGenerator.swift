@@ -8,7 +8,8 @@ private struct SymbolEntry: CustomStringConvertible, Hashable {
         let shortcut: Int
         let ping: Int
         var description: String {
-                let blocks: [String] = [category.description, codepoint, cantonese, romanization, shortcut.description, ping.description]
+                // let blocks: [String] = [category.description, codepoint, cantonese, romanization, shortcut.description, ping.description]
+                let blocks: [String] = [category.description, codepoint, cantonese, romanization]
                 return blocks.joined(separator: "\t")
         }
 }
@@ -100,9 +101,7 @@ struct DatabaseGenerator {
                 return entryBlocks.flatMap({ $0 }).uniqued()
         }
         private static func shortcutCode(of text: String) -> Int {
-                let syllables = text.split(separator: " ").filter({ !$0.isEmpty })
-                let anchors = syllables.map(\.first).compactMap({ $0 })
-                let anchorsText = String(anchors)
-                return anchorsText.hash
+                let anchors = text.split(separator: " ").compactMap(\.first)
+                return String(anchors).hash
         }
 }
