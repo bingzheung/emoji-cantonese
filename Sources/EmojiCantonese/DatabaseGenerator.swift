@@ -5,10 +5,7 @@ private struct SymbolEntry: CustomStringConvertible, Hashable {
         let codepoint: String
         let cantonese: String
         let romanization: String
-        let shortcut: Int
-        let ping: Int
         var description: String {
-                // let blocks: [String] = [category.description, codepoint, cantonese, romanization, shortcut.description, ping.description]
                 let blocks: [String] = [category.description, codepoint, cantonese, romanization]
                 return blocks.joined(separator: "\t")
         }
@@ -53,7 +50,7 @@ struct DatabaseGenerator {
                 }
         }
         private static func categoryCode(of path: String) -> Int {
-                guard !path.hasPrefix("symbol-") else { return 9 }
+                guard !(path.hasPrefix("symbol-")) else { return 9 }
                 guard let first = path.dropFirst(6).first else { fatalError("bad path: \(path)") }
                 switch first {
                 case "1":
@@ -90,18 +87,9 @@ struct DatabaseGenerator {
                         let blocks = item.split(separator: "(")
                         let word = blocks[0].trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
                         let romanizations = blocks[1].replacingOccurrences(of: ")", with: "").split(separator: ";").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
-                        let entries = romanizations.map { romanization -> SymbolEntry in
-                                let shortcut = shortcutCode(of: romanization)
-                                let ping = romanization.removedSpacesTones().hash
-                                let entry = SymbolEntry(category: category, codepoint: codePointText, cantonese: word, romanization: romanization, shortcut: shortcut, ping: ping)
-                                return entry
-                        }
+                        let entries = romanizations.map({ SymbolEntry(category: category, codepoint: codePointText, cantonese: word, romanization: $0) })
                         return entries
                 }
                 return entryBlocks.flatMap({ $0 }).uniqued()
-        }
-        private static func shortcutCode(of text: String) -> Int {
-                let anchors = text.split(separator: " ").compactMap(\.first)
-                return String(anchors).hash
         }
 }
