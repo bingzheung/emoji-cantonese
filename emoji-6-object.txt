@@ -122,7 +122,7 @@
 { 🧽 }	海綿(hoi2 min4)
 { 🪣 }	膠桶(gaau1 tung2), 水桶(seoi2 tung2), 桶(tung2)
 { 🧴 }	乳液瓶(jyu5 jik6 ping4)
-{ 🛎 }	服務鈴(fuk6 mou6 ling4), 鐘仔(zung1 zai2), 叮叮(ding1 ding1)
+{ 🛎 }	服務鈴(fuk6 mou6 ling4), 鐘鈴(zung1 ling4), 鐘仔(zung1 zai2), 鈴(ling4), 叮叮(ding1 ding1)
 { 🔑 }	鎖匙(so2 si4), 匙(si4)
 { 🗝 }	鎖匙(so2 si4), 匙(si4)
 { 🚪 }	門(mun4), 門戶(mun4 wu6), 門口(mun4 hau2)

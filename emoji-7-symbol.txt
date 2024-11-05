@@ -262,7 +262,7 @@
 { 🔇 }	靜音(zing6 jam1)
 { 🔉 }	中等音量(zung1 dang2 jam1 loeng6)
 { 🔊 }	大音量(daai6 jam1 loeng6)
-{ 🔔 }	鐘鈴(zung1 ling4), 鐘(zung1), 鈴(ling4), 響鈴(hoeng2 ling4)
+{ 🔔 }	鐘鈴(zung1 ling4), 鐘(zung1), 鐘仔(zung1 zai2), 鈴(ling4), 響鈴(hoeng2 ling4)
 { 🔕 }	靜音(zing6 jam1)
 { 📣 }	擴音器(kwok3 jam1 hei3; kwong3 jam1 hei3), 啦啦隊(laa1 laa1 deoi2)
 { 📢 }	擴音器(kwok3 jam1 hei3; kwong3 jam1 hei3)
