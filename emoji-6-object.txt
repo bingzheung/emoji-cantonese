@@ -137,7 +137,7 @@
 { 🪟 }	窗(coeng1), 窗戶(coeng1 wu6), 窗口(coeng1 hau2)
 { 🛍 }	購物袋(kau3 mat6 doi2)
 { 🛒 }	購物車(kau3 mat6 ce1)
-{ 🎁 }	禮盒(lai5 hap2; lai5 hap6)
+{ 🎁️ }	禮盒(lai5 hap2; lai5 hap6), 禮品盒(lai5 ban2 hap6), 禮品(lai5 ban2), 禮物(lai5 mat6), 賀禮(ho6 lai5)
 { 🎈 }	氣球(hei3 kau4)
 { 🎏 }	鯉魚旗(lei5 jyu4 kei4)
 { 🎀 }	絲帶(si1 daai2), 緞帶(dyun6 daai2), 蝴蝶結(wu4 dip6 git3)
