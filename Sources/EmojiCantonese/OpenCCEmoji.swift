@@ -31,13 +31,10 @@ struct OpenCCEmoji: Hashable {
         }
 
         private static func convertLine(_ text: String) -> [OpenCCEmoji] {
-                // { 🍏 }\t青蘋果(jyutping1; jyutping2), 蘋果(jyutping)
-                // 0: { 🍏 }
-                // 2: 青蘋果(), 蘋果()
-                let parts = text.split(separator: "\t")
-                guard parts.count == 2 else { fatalError("Bad format: \(text)") }
-                let emoji = parts[0].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
-                let names = parts[1].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0 .trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                let parts = text.split(separator: "\t").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                guard parts.count == 3 else { fatalError("Bad format: \(text)") }
+                let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
+                let names = parts[2].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0 .trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
                 return instances
         }

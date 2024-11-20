@@ -1,4 +1,4 @@
-{ ℃ }	攝氏度(sip3 si6 dou6)
-{ ℉ }	華氏度(waa4 si6 dou6)
-{ † }	匕首(bei2 sau2)
-{ E = mc² }	質能方程(zat1 nang4 fong1 cing4)
+2103	{ ℃ }	攝氏度(sip3 si6 dou6)
+2109	{ ℉ }	華氏度(waa4 si6 dou6)
+2020	{ † }	匕首(bei2 sau2)
+45.20.3D.20.6D.63.B2	{ E = mc² }	質能方程(zat1 nang4 fong1 cing4)

@@ -39,12 +39,12 @@ struct Checker {
                 }
                 for line in sourceLines {
                         let parts = line.split(separator: "\t", omittingEmptySubsequences: false)
-                        guard parts.count == 2 else {
+                        guard parts.count == 3 else {
                                 print("LineText: \(line)")
                                 throw CheckerError.badLineFormat
                         }
-                        let emojiPart = parts[0]
-                        let names = parts[1]
+                        let emojiPart = parts[1]
+                        let names = parts[2]
                         try checkEmojiPart(text: line, emojiPart: emojiPart)
                         try checkNames(text: line, names: names)
                 }

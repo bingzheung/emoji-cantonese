@@ -27,12 +27,9 @@ struct JyutpingGenerator {
         }
 
         private static func convertLine(_ text: String) -> [JyutpingEntry] {
-                // { 🍏 }\t青蘋果(jyutping1; jyutping2), 蘋果(jyutping)
-                // 0: { 🍏 }
-                // 2: 青蘋果(jyutping1; jyutping2), 蘋果(jyutping)
-                let parts = text.split(separator: "\t")
-                guard parts.count == 2 else { fatalError("Bad format: \(text)") }
-                let names = parts[1].split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                let parts = text.split(separator: "\t").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                guard parts.count == 3 else { fatalError("Bad format: \(text)") }
+                let names = parts[2].split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 let entryBlocks = names.map { item -> [JyutpingEntry] in
                         let blocks = item.split(separator: "(")
                         let word = blocks[0].trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
