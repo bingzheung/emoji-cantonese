@@ -20,7 +20,7 @@ struct DatabaseGenerator {
                 guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
                         fatalError("Failed to fetch contents of path: \(currentPath)")
                 }
-                let paths: [String] = contents.filter({ $0.hasPrefix("emoji-") || $0.hasPrefix("symbol-") }).sorted()
+                let paths: [String] = contents.filter({ $0.hasPrefix("emoji-") || $0.hasPrefix("symbol-") || $0.hasPrefix("extra-emoji") }).sorted()
                 var instances: [SymbolEntry] = []
                 for path in paths {
                         let category: Int = categoryCode(of: path)
@@ -50,7 +50,7 @@ struct DatabaseGenerator {
                 }
         }
         private static func categoryCode(of path: String) -> Int {
-                guard !(path.hasPrefix("symbol-")) else { return 9 }
+                guard path.hasPrefix("emoji-") else { return 9 }
                 guard let first = path.dropFirst(6).first else { fatalError("bad path: \(path)") }
                 switch first {
                 case "1":

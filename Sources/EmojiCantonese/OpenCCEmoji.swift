@@ -11,7 +11,7 @@ struct OpenCCEmoji: Hashable {
                 let instances: [OpenCCEmoji] = converted.flatMap({ $0 }).uniqued()
                 // let simplifiedInstances = instances.map({ OpenCCEmoji(name: $0.name.simplified(), emoji: $0.emoji) })
                 let allInstances: [OpenCCEmoji] = instances // (instances + simplifiedInstances).uniqued()
-                let names: [String] = allInstances.map(\.name).uniqued()
+                let names: [String] = allInstances.map(\.name).uniqued().sortedWithUnicodeCodePoint()
                 let openCCEmojiLines: [String] = names.map({ name -> String in
                         let emojis = allInstances.filter({ $0.name == name }).map({ $0.emoji })
                         let emojiText = emojis.uniqued().joined(separator: " ")
@@ -44,7 +44,7 @@ struct OpenCCEmoji: Hashable {
                 guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
                         fatalError("Filed to fetch contents of path: \(currentPath)")
                 }
-                let emojiPaths: [String] = contents.filter({ $0.hasPrefix("emoji-") }).sorted()
+                let emojiPaths: [String] = contents.filter({ $0.hasPrefix("emoji-") || $0.hasPrefix("extra-emoji") }).sorted()
                 let blocks = emojiPaths.map({ path -> [String] in
                         guard let content: String = try? String(contentsOfFile: path) else {
                                 fatalError("Failed to read content of path: \(path)")
@@ -61,5 +61,38 @@ struct OpenCCEmoji: Hashable {
                 })
                 let lines: [String] = blocks.flatMap({ $0 }).uniqued()
                 return lines
+        }
+}
+
+private extension Array where Element == String {
+        func sortedWithUnicodeCodePoint() -> [Element] {
+                return self.sorted { (lhs, rhs) -> Bool in
+                        if lhs == rhs {
+                                fatalError("Duplicated line: \(lhs)")
+                        } else if lhs.hasPrefix(rhs) {
+                                return false
+                        } else if rhs.hasPrefix(lhs) {
+                                return true
+                        } else {
+                                let lhsCodes: [UInt32] = lhs.compactMap(\.unicodeScalars.first?.value)
+                                let rhsCodes: [UInt32] = rhs.compactMap(\.unicodeScalars.first?.value)
+                                let lhsCount: Int = lhsCodes.count
+                                let rhsCount: Int = rhsCodes.count
+                                let minLength: Int = Swift.min(lhsCount, rhsCount)
+                                var isAscending: Bool = false
+                                for index in 0..<minLength {
+                                        if lhsCodes[index] < rhsCodes[index] {
+                                                isAscending = true
+                                                break
+                                        } else if lhsCodes[index] > rhsCodes[index] {
+                                                isAscending = false
+                                                break
+                                        } else {
+                                                isAscending = false
+                                        }
+                                }
+                                return isAscending
+                        }
+                }
         }
 }
