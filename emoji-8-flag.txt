@@ -49,7 +49,7 @@
 1F1E8.1F1FB	{ 🇨🇻 }	佛得角(fat6 dak1 gok3)
 1F1E7.1F1F6	{ 🇧🇶 }	博奈爾(bok3 noi6 ji5)
 1F1F0.1F1FE	{ 🇰🇾 }	開曼羣島(hoi1 maan6 kwan4 dou2), 開曼(hoi1 maan6)
-1F1E8.1F1EB	{ 🇨🇫 }	中非共和國(zung1 fei1 gung6 wo4 gwok3)
+1F1E8.1F1EB	{ 🇨🇫 }	中非共和國(zung1 fei1 gung6 wo4 gwok3), 中非(zung1 fei1)
 1F1F9.1F1E9	{ 🇹🇩 }	乍得(zaa3 dak1)
 1F1E8.1F1F1	{ 🇨🇱 }	智利(zi3 lei6)
 1F1E8.1F1F3	{ 🇨🇳 }	中國(zung1 gwok3), 中華人民共和國(zung1 waa4 jan4 man4 gung6 wo4 gwok3), 中國大陸(zung1 gwok3 daai6 luk6), 五星紅旗(ng5 sing1 hung4 kei4)

@@ -66,7 +66,7 @@
 1F96B	{ 🥫 }	罐頭(gun3 tau2)
 1FAD9	{ 🫙 }	樽(zeon1), 空樽(hung1 zeon1)
 1F35D	{ 🍝 }	意大利麪(ji3 daai6 lei6 min6), 意麪(ji3 min6)
-1F35C	{ 🍜 }	湯麪(tong1 min6), 食麪(sik6 min6), 麪(min6)
+1F35C	{ 🍜 }	湯麪(tong1 min6), 食麪(sik6 min6), 麪(min6), 麪條(min6 tiu4), 喫面(hek3 min6)
 1F372	{ 🍲 }	食物(sik6 mat6), 火鍋(fo2 wo1), 香鍋(hoeng1 wo1), 打邊爐(daa2 bin1 lou4), 邊爐(bin1 lou4)
 1F35B	{ 🍛 }	咖喱飯(gaa3 lei1 faan6), 蓋飯(goi3 faan6; koi3 faan6)
 1F363	{ 🍣 }	壽司(sau6 si1)

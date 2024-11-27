@@ -49,7 +49,7 @@
 1F4BA	{ 💺 }	座位(zo6 wai2; zo6 wai6)
 1F6F0	{ 🛰 }	人造衛星(jan4 zou6 wai6 sing1), 衛星(wai6 sing1)
 1F680	{ 🚀 }	火箭(fo2 zin3)
-1F6F8	{ 🛸 }	飛碟(fei1 dip2; fei1 dip6), 不明飛行物(bat1 ming4 fei1 hang4 mat6)
+1F6F8	{ 🛸 }	飛碟(fei1 dip6; fei1 dip2), 不明飛行物(bat1 ming4 fei1 hang4 mat6)
 1F681	{ 🚁 }	直昇機(zik6 sing1 gei1), 牢大(lou4 daai6)
 1F6F6	{ 🛶 }	獨木舟(duk6 muk6 zau1), 獨木船(duk6 muk6 syun4)
 26F5.FE0F	{ ⛵️ }	帆船(faan4 syun4), 船(syun4)
