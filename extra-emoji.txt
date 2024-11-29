@@ -5,3 +5,7 @@
 1F91C.1F3FF	{ 🤜🏿 }	黑拳(hak1 kyun2; hak1 kyun4)
 1F468.1F3FB	{ 👨🏻 }	男人(naam4 jan2; naam4 jan4), 男子(naam4 zi2), 爸爸(baa4 baa1; baa1 baa1), 阿爸(aa3 baa4; aa3 baa1), 爸(baa1), 爹地(de1 di4), 老豆(lou5 dau6)
 1F469.1F3FB	{ 👩🏻 }	女人(neoi5 jan2; neoi5 jan4), 女子(neoi5 zi2), 女(neoi5), 靚女(leng3 neoi2; leng3 neoi5), 美女(mei5 neoi5), 媽媽(maa4 maa1; maa1 maa1), 媽咪(maa1 mi4; maa1 mi1), 阿媽(aa3 maa1), 媽(maa1), 老母(lou5 mou5; lou5 mou2)
+1F470.1F3FB.200D.2640.FE0F	{ 👰🏻‍♀️ }	婚紗(fan1 saa1), 新娘(san1 noeng4), 新婦(san1 fu5; san1 pou5; sam1 pou5)
+1F478.1F3FB	{ 👸🏻 }	公主(gung1 zyu2), 王妃(wong4 fei1), 王女(wong4 neoi5)
+1F467.1F3FB	{ 👧🏻 }	女童(neoi5 tung4), 細𡀔女(sai3 lou6 neoi2), 女孩(neoi5 hoi4; neoi5 haai4), 兒童(ji4 tung4), 細𡀔(sai3 lou6), 孩童(hoi4 tung4; haai4 tung4), 小孩(siu2 hoi4; siu2 haai4), 孩子(hoi4 zi2; haai4 zi2)
+1F466.1F3FB	{ 👦🏻 }	男童(naam4 tung4), 細𡀔仔(sai3 lou6 zai2), 男孩(naam4 hoi4; naam4 haai4), 兒童(ji4 tung4), 細𡀔(sai3 lou6), 孩童(hoi4 tung4; haai4 tung4), 小孩(siu2 hoi4; siu2 haai4), 孩子(hoi4 zi2; haai4 zi2)
