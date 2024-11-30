@@ -70,7 +70,7 @@
 1F40B	{ 🐋 }	鯨(king4), 鯨魚(king4 jyu4)
 1F988	{ 🦈 }	鯊魚(saa1 jyu4), 鯊(saa1)
 1F9AD	{ 🦭 }	海豹(hoi2 paau3)
-1F40A	{ 🐊 }	鰐魚(ngok6 jyu4), 鰐(ngok6)
+1F40A	{ 🐊 }	鱷魚(ngok6 jyu4), 鱷(ngok6)
 1F405	{ 🐅 }	老虎(lou5 fu2), 大蟲(daai6 cung4), 虎(fu2)
 1F406	{ 🐆 }	豹(paau3)
 1F993	{ 🦓 }	斑馬(baan1 maa5)
