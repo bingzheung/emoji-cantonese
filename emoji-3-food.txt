@@ -31,7 +31,7 @@
 1F9C4	{ 🧄 }	蒜(syun3), 蒜頭(syun3 tau4), 大蒜(daai6 syun3)
 1F9C5	{ 🧅 }	洋蔥(joeng4 cung1)
 1F954	{ 🥔 }	馬鈴薯(maa5 ling4 syu4), 薯仔(syu4 zai2), 土豆(tou2 dau6)
-1F360	{ 🍠 }	番薯(faan1 syu4; faan1 syu2), 紅薯(hung4 syu4), 甜薯(tim4 syu4)
+1F360	{ 🍠 }	番薯(faan1 syu4; faan1 syu2), 紅薯(hung4 syu4), 甜薯(tim4 syu4), 地瓜(dei6 gwaa1)
 1FADA	{ 🫚 }	薑(goeng1)
 1F950	{ 🥐 }	牛角麪包(ngau4 gok3 min6 baau1)
 1F96F	{ 🥯 }	麪包圈(min6 baau1 hyun1)
