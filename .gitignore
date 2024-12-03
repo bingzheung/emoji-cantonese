@@ -95,4 +95,5 @@ DerivedData/
 EmojiJyutping.txt
 jyutping.txt
 symbol.txt
+opencc/emoji_cantonese.txt
 cache.*

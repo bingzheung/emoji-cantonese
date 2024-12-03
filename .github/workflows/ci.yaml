@@ -12,3 +12,22 @@ jobs:
       - uses: actions/checkout@v4
       - name: Swift Run
         run: swift run -c release
+      - name: Checkout Downstream
+        if: github.event_name != 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          repository: rime/rime-emoji-cantonese
+          path: ./rime-emoji-cantonese
+      - name: Reflect Changes to Downstream
+        if: github.event_name != 'pull_request'
+        run: |
+          cd rime-emoji-cantonese
+          cp ../opencc/* opencc
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            UPSTREAM_SHA=$(git -C .. rev-parse HEAD)
+            git commit -m "Update from upstream https://github.com/bingzheung/emoji-cantonese/commit/$UPSTREAM_SHA"
+            git push origin master
+          fi
