@@ -16,6 +16,7 @@ private struct SymbolEntry: CustomStringConvertible, Hashable {
 struct DatabaseGenerator {
 
         static func generate() {
+                let destinationPath: String = "output/symbol.txt"
                 let currentPath: String = FileManager.default.currentDirectoryPath
                 guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
                         fatalError("Failed to fetch contents of path: \(currentPath)")
@@ -39,7 +40,6 @@ struct DatabaseGenerator {
                         instances.append(contentsOf: entries)
                 }
                 let product = instances.uniqued().map(\.description).joined(separator: "\n") + "\n"
-                let destinationPath: String = "symbol.txt"
                 if FileManager.default.fileExists(atPath: destinationPath) {
                         try? FileManager.default.removeItem(atPath: destinationPath)
                 }

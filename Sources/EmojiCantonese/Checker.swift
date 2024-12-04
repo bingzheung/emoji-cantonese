@@ -10,6 +10,7 @@ enum CheckerError: Error {
 struct Checker {
 
         static func check() {
+                ensureOutputFolder()
                 let currentPath: String = FileManager.default.currentDirectoryPath
                 guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
                         fatalError("Failed to fetch contents of path: \(currentPath)")
@@ -17,6 +18,16 @@ struct Checker {
                 let paths: [String] = contents.filter({ $0.hasPrefix("emoji-") || $0.hasPrefix("symbol-") || $0.hasPrefix("extra-emoji") }).sorted()
                 for path in paths {
                         try! check(filePath: path)
+                }
+        }
+        private static func ensureOutputFolder() {
+                let outputFolderPath: String = "output"
+                if !(FileManager.default.fileExists(atPath: outputFolderPath)) {
+                        do {
+                                try FileManager.default.createDirectory(atPath: outputFolderPath, withIntermediateDirectories: false)
+                        } catch {
+                                print(error.localizedDescription)
+                        }
                 }
         }
 

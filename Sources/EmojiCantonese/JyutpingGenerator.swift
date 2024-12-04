@@ -1,26 +1,46 @@
 import Foundation
 
-private struct JyutpingEntry: CustomStringConvertible, Hashable {
+private struct JyutpingEntry: CustomStringConvertible, Hashable, Comparable {
         let word: String
         let romanization: String
         var description: String {
-                return word + "\t" + romanization
+                return word + String.tab + romanization
+        }
+        private static let englishLocale: Locale = Locale(identifier: "en")
+        static func < (lhs: JyutpingEntry, rhs: JyutpingEntry) -> Bool {
+                let romanizationCompare = lhs.romanization.compare(rhs.romanization, locale: englishLocale)
+                guard romanizationCompare == .orderedSame else { return romanizationCompare == .orderedAscending }
+                let words: [String] = [lhs.word, rhs.word]
+                let sortedWords: [String] = words.sortedWithUnicodeCodePoint()
+                return sortedWords[0] == words[0]
         }
 }
 
 struct JyutpingGenerator {
 
         static func generate() {
+                let emojiJyutpingPath: String = "output/EmojiJyutping.txt"
+                let dictPath: String = "output/dict.yaml"
+                let essayPath: String = "output/essay.txt"
                 let originalLines: [String] = readFileLines()
                 let converted = originalLines.map({ convertLine($0) })
                 let entries: [JyutpingEntry] = converted.flatMap({ $0 }).uniqued()
-                let product: String = entries.map(\.description).joined(separator: "\n") + "\n"
-                let destinationPath: String = "EmojiJyutping.txt"
-                if FileManager.default.fileExists(atPath: destinationPath) {
-                        try? FileManager.default.removeItem(atPath: destinationPath)
+                let emojiJyutpingContent: String = entries.map(\.description).joined(separator: String.newLine) + String.newLine
+                let dictContent: String = entries.sorted().map(\.description).joined(separator: String.newLine) + String.newLine
+                let essayContent: String = entries.map(\.word).uniqued().sortedWithUnicodeCodePoint().joined(separator: String.newLine) + String.newLine
+                if FileManager.default.fileExists(atPath: emojiJyutpingPath) {
+                        try? FileManager.default.removeItem(atPath: emojiJyutpingPath)
+                }
+                if FileManager.default.fileExists(atPath: dictPath) {
+                        try? FileManager.default.removeItem(atPath: dictPath)
+                }
+                if FileManager.default.fileExists(atPath: essayPath) {
+                        try? FileManager.default.removeItem(atPath: essayPath)
                 }
                 do {
-                        try product.write(toFile: destinationPath, atomically: true, encoding: .utf8)
+                        try emojiJyutpingContent.write(toFile: emojiJyutpingPath, atomically: true, encoding: .utf8)
+                        try dictContent.write(toFile: dictPath, atomically: true, encoding: .utf8)
+                        try essayContent.write(toFile: essayPath, atomically: true, encoding: .utf8)
                 } catch {
                         print(error.localizedDescription)
                 }

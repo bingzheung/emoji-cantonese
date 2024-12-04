@@ -2,16 +2,6 @@ import Foundation
 
 extension String {
 
-        /// Convert traditional characters to simplified
-        /// - Returns: Simplified characters
-        func simplified() -> String {
-                return applyingTransform(Self.s2t_transform, reverse: true) ?? self
-        }
-        private static let s2t_transform = StringTransform("Simplified-Traditional")
-}
-
-extension String {
-
         /// A subsequence that only contains tones (1-6)
         var tones: String {
                 return self.filter(\.isTone)
@@ -28,6 +18,12 @@ extension String {
         func removedSpacesTones() -> String {
                 return self.filter({ !$0.isSpaceOrTone })
         }
+}
+
+extension String {
+        static let space: String = "\u{20}"
+        static let tab: String = "\t"
+        static let newLine: String = "\n"
 }
 
 extension String {

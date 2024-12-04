@@ -6,20 +6,18 @@ struct OpenCCEmoji: Hashable {
         let emoji: String
 
         static func generate() {
+                let destinationPath: String = "output/emoji.txt"
                 let originalLines: [String] = readEmojiLines()
                 let converted = originalLines.map({ convertLine($0) })
                 let instances: [OpenCCEmoji] = converted.flatMap({ $0 }).uniqued()
-                // let simplifiedInstances = instances.map({ OpenCCEmoji(name: $0.name.simplified(), emoji: $0.emoji) })
-                let allInstances: [OpenCCEmoji] = instances // (instances + simplifiedInstances).uniqued()
-                let names: [String] = allInstances.map(\.name).uniqued().sortedWithUnicodeCodePoint()
+                let names: [String] = instances.map(\.name).uniqued().sortedWithUnicodeCodePoint()
                 let openCCEmojiLines: [String] = names.map({ name -> String in
-                        let emojis = allInstances.filter({ $0.name == name }).map({ $0.emoji })
-                        let emojiText = emojis.uniqued().joined(separator: " ")
-                        let line = name + "\t" + name + " " + emojiText
+                        let emojis = instances.filter({ $0.name == name }).map(\.emoji)
+                        let emojiText = emojis.uniqued().joined(separator: String.space)
+                        let line = name + String.tab + name + String.space + emojiText
                         return line
                 })
-                let product: String = openCCEmojiLines.uniqued().joined(separator: "\n") + "\n"
-                let destinationPath: String = "opencc/emoji_cantonese.txt"
+                let product: String = openCCEmojiLines.uniqued().joined(separator: String.newLine) + String.newLine
                 if FileManager.default.fileExists(atPath: destinationPath) {
                         try? FileManager.default.removeItem(atPath: destinationPath)
                 }
@@ -64,7 +62,7 @@ struct OpenCCEmoji: Hashable {
         }
 }
 
-private extension Array where Element == String {
+extension Array where Element == String {
         func sortedWithUnicodeCodePoint() -> [Element] {
                 return self.sorted { (lhs, rhs) -> Bool in
                         if lhs == rhs {

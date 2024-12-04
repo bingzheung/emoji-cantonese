@@ -128,7 +128,7 @@
 1F6C3	{ 🛃 }	海關(hoi2 gwaan1)
 1F6C4	{ 🛄 }	行李領取(hang4 lei5 ling5 ceoi2)
 1F6C5	{ 🛅 }	行李寄存(hang4 lei5 gei3 cyun4)
-1F6DC	{ 🛜 }	無線(mou4 sin3)
+1F6DC	{ 🛜 }	無線(mou4 sin3), 無線網(mou4 sin3 mong5), 無線網絡(mou4 sin3 mong5 lok3)
 1F6B9	{ 🚹 }	男性(naam4 sing3)
 1F6BA	{ 🚺 }	女性(neoi5 sing3)
 1F6BC	{ 🚼 }	嬰兒(jing1 ji4)

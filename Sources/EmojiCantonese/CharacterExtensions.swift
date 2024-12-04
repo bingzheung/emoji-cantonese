@@ -16,6 +16,12 @@ extension Character {
 }
 
 extension Character {
+        static let space: Character = "\u{20}"
+        static let tab: Character = "\t"
+        static let separator: Character = "'"
+}
+
+extension Character {
 
         /// UNICODE code points. Example: é = ["U+65", "U+301"]
         var codePoints: [String] {
@@ -75,6 +81,6 @@ extension Character {
 
         /// A Boolean value indicating whether this character represents a separator ( ' ).
         var isSeparator: Bool {
-                return self == "'"
+                return self == Character.separator
         }
 }
