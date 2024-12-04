@@ -1,0 +1,14 @@
+1F18E	{ 🆎 }	AB型, AB型血
+1F3E7	{ 🏧 }	ATM
+1F170.FE0F	{ 🅰️ }	A型, A型血
+1F171.FE0F	{ 🅱️ }	B型, B型血
+1F9EC	{ 🧬 }	DNA
+1F194	{ 🆔 }	ID
+1FAAA	{ 🪪 }	ID
+1F196	{ 🆖 }	NG
+1F197	{ 🆗 }	OK
+1F17E.FE0F	{ 🅾️ }	O型, O型血
+1F198	{ 🆘 }	SOS
+1F6DC	{ 🛜 }	WIFI, WLAN
+1F6BE	{ 🚾 }	WC
+1FA7B	{ 🩻 }	X光

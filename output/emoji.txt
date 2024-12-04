@@ -1,3 +1,21 @@
+AB型	AB型 🆎
+AB型血	AB型血 🆎
+ATM	ATM 🏧
+A型	A型 🅰️
+A型血	A型血 🅰️
+B型	B型 🅱️
+B型血	B型血 🅱️
+DNA	DNA 🧬
+ID	ID 🆔 🪪
+NG	NG 🆖
+OK	OK 🆗
+O型	O型 🅾️
+O型血	O型血 🅾️
+SOS	SOS 🆘
+WC	WC 🚾
+WIFI	WIFI 🛜
+WLAN	WLAN 🛜
+X光	X光 🩻
 〇	〇 0️⃣
 〇鍵	〇鍵 0️⃣
 㖿	㖿 ✌️

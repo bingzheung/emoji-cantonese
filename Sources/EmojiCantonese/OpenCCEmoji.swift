@@ -7,9 +7,10 @@ struct OpenCCEmoji: Hashable {
 
         static func generate() {
                 let destinationPath: String = "output/emoji.txt"
+                let letteredInstances = processLetteredEmoji()
                 let originalLines: [String] = readEmojiLines()
-                let converted = originalLines.map({ convertLine($0) })
-                let instances: [OpenCCEmoji] = converted.flatMap({ $0 }).uniqued()
+                let emojiInstances = originalLines.map({ convertLine($0) }).flatMap({ $0 })
+                let instances: [OpenCCEmoji] = (letteredInstances + emojiInstances).uniqued()
                 let names: [String] = instances.map(\.name).uniqued().sortedWithUnicodeCodePoint()
                 let openCCEmojiLines: [String] = names.map({ name -> String in
                         let emojis = instances.filter({ $0.name == name }).map(\.emoji)
@@ -28,11 +29,33 @@ struct OpenCCEmoji: Hashable {
                 }
         }
 
+        private static func processLetteredEmoji() -> [OpenCCEmoji] {
+                let path: String = "lettered-emoji.txt"
+                guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else { fatalError("Failed to read content of path: \(path)") }
+                let sourceLines = sourceContent
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                        .trimmingCharacters(in: .controlCharacters)
+                        .components(separatedBy: .newlines)
+                        .filter({ !$0.isEmpty })
+                        .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        .filter({ !$0.isEmpty })
+                        .uniqued()
+                let entries = sourceLines.map { line -> [OpenCCEmoji] in
+                        let parts = line.split(separator: "\t").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        guard parts.count == 3 else { fatalError("Bad format: \(line)") }
+                        let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
+                        let names = parts[2].split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
+                        return instances
+                }
+                return entries.flatMap({ $0 })
+        }
+
         private static func convertLine(_ text: String) -> [OpenCCEmoji] {
                 let parts = text.split(separator: "\t").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 guard parts.count == 3 else { fatalError("Bad format: \(text)") }
                 let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
-                let names = parts[2].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0 .trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                let names = parts[2].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                 let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
                 return instances
         }
