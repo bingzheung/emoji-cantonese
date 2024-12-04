@@ -79,7 +79,6 @@ $RECYCLE.BIN/
 
 
 ### Swift ###
-.DS_Store
 .build/
 Packages/
 Package.resolved
@@ -93,6 +92,5 @@ DerivedData/
 
 ### Project files ###
 EmojiJyutping.txt
-jyutping.txt
 symbol.txt
 cache.*

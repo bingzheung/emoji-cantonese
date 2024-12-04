@@ -6,4 +6,4 @@
 25B2	{ ▲ }	黑三角(hak1 saam1 gok3), 黑色三角形(hak1 sik1 saam1 gok3 jing4)
 25B3	{ △ }	三角(saam1 gok3), 三角形(saam1 gok3 jing4)
 25C7	{ ◇ }	菱形(ling4 jing4)
-25CB	{ ○ }	圓(jyun4), 圓形(jyun4 jing4), 圓圈(jyun4 hyun1)
+25CB	{ ○ }	圓(jyun4), 圓形(jyun4 jing4), 圓圈(jyun4 hyun1), 圈(hyun1)

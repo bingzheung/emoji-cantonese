@@ -8,9 +8,10 @@ struct OpenCCEmoji: Hashable {
         static func generate() {
                 let destinationPath: String = "output/emoji.txt"
                 let letteredInstances = processLetteredEmoji()
-                let originalLines: [String] = readEmojiLines()
-                let emojiInstances = originalLines.map({ convertLine($0) }).flatMap({ $0 })
-                let instances: [OpenCCEmoji] = (letteredInstances + emojiInstances).uniqued()
+                let faceEmojiInstances = processEmoji1Face()
+                let otherEmojiInstances = processOtherEmojis()
+                let extraEmojiInstances = processExtraEmoji()
+                let instances: [OpenCCEmoji] = (letteredInstances + faceEmojiInstances + otherEmojiInstances + extraEmojiInstances).uniqued()
                 let names: [String] = instances.map(\.name).uniqued().sortedWithUnicodeCodePoint()
                 let openCCEmojiLines: [String] = names.map({ name -> String in
                         let emojis = instances.filter({ $0.name == name }).map(\.emoji)
@@ -29,7 +30,110 @@ struct OpenCCEmoji: Hashable {
                 }
         }
 
-        private static func processLetteredEmoji() -> [OpenCCEmoji] {
+        private static func convertLine(_ text: String) -> [OpenCCEmoji] {
+                let parts = text.split(separator: "\t").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                guard parts.count == 3 else { fatalError("Bad format: \(text)") }
+                let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
+                let names = parts[2].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
+                return instances
+        }
+
+        private static func processEmoji1Face() -> [OpenCCEmoji] {
+                let currentPath: String = FileManager.default.currentDirectoryPath
+                guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
+                        fatalError("Filed to fetch contents of path: \(currentPath)")
+                }
+                guard let path = contents.filter({ $0 == "emoji-1-face.txt" }).first else { fatalError("Filed to fetch content of emoji-1-face.txt") }
+                guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else { fatalError("Failed to read content of path: \(path)") }
+                let sourceLines: [String] = sourceContent
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                        .trimmingCharacters(in: .controlCharacters)
+                        .components(separatedBy: .newlines)
+                        .filter({ !$0.isEmpty })
+                        .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        .filter({ !$0.isEmpty })
+                        .uniqued()
+                let entries = sourceLines.map({ convertLine($0) }).flatMap({ $0 }).map({ $0.mappedSkin() })
+                return entries
+        }
+        private static func processOtherEmojis() -> [OpenCCEmoji] {
+                let currentPath: String = FileManager.default.currentDirectoryPath
+                guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
+                        fatalError("Filed to fetch contents of path: \(currentPath)")
+                }
+                let emojiPaths: [String] = contents.filter({  $0 != "emoji-1-face.txt" && $0.hasPrefix("emoji-") }).sorted()
+                let blocks = emojiPaths.map({ path -> [String] in
+                        guard let content: String = try? String(contentsOfFile: path, encoding: .utf8) else {
+                                fatalError("Failed to read content of path: \(path)")
+                        }
+                        let lines: [String] = content
+                                .trimmingCharacters(in: .whitespacesAndNewlines)
+                                .trimmingCharacters(in: .controlCharacters)
+                                .components(separatedBy: .newlines)
+                                .filter({ !$0.isEmpty })
+                                .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                                .filter({ !$0.isEmpty })
+                                .uniqued()
+                        return lines
+                })
+                let lines: [String] = blocks.flatMap({ $0 }).uniqued()
+                let entries = lines.map({ convertLine($0) }).flatMap({ $0 })
+                return entries
+        }
+        private static func processExtraEmoji() -> [OpenCCEmoji] {
+                let currentPath: String = FileManager.default.currentDirectoryPath
+                guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
+                        fatalError("Filed to fetch contents of path: \(currentPath)")
+                }
+                guard let path = contents.filter({ $0 == "extra-emoji.txt" }).first else { fatalError("Filed to fetch content of extra-emoji.txt") }
+                guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else { fatalError("Failed to read content of path: \(path)") }
+                let sourceLines: [String] = sourceContent
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                        .trimmingCharacters(in: .controlCharacters)
+                        .components(separatedBy: .newlines)
+                        .filter({ !$0.isEmpty })
+                        .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        .filter({ !$0.isEmpty })
+                        .uniqued()
+                let entries = sourceLines.map({ convertLine($0) }).flatMap({ $0 })
+                return entries
+        }
+}
+
+private extension OpenCCEmoji {
+        func mappedSkin() -> OpenCCEmoji {
+                if let lightSkinTone = Self.skinMapList[self.emoji] {
+                        return OpenCCEmoji(name: self.name, emoji: lightSkinTone)
+                } else {
+                        return self
+                }
+        }
+        static let skinMapList: [String: String] = {
+                let path: String = "light-skin-tone.txt"
+                guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else { fatalError("Failed to read content of path: \(path)") }
+                let sourceLines = sourceContent
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                        .trimmingCharacters(in: .controlCharacters)
+                        .components(separatedBy: .newlines)
+                        .filter({ !$0.isEmpty })
+                        .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        .filter({ !$0.isEmpty })
+                        .uniqued()
+                var mapList: [String: String] = [:]
+                _ = sourceLines.map { line in
+                        let parts = line.split(separator: "|")
+                        guard parts.count == 2 else { fatalError("Bad format: \(line)") }
+                        guard let origin = parts[0].split(separator: "{").last?.trimmingCharacters(in: .whitespaces) else { fatalError("Bad format: \(line)") }
+                        guard let lightSkin = parts[1].split(separator: "}").first?.trimmingCharacters(in: .whitespaces) else { fatalError("Bad format: \(line)") }
+                        mapList[origin] = lightSkin
+                }
+                return mapList
+        }()
+}
+
+private extension OpenCCEmoji {
+        static func processLetteredEmoji() -> [OpenCCEmoji] {
                 let path: String = "lettered-emoji.txt"
                 guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else { fatalError("Failed to read content of path: \(path)") }
                 let sourceLines = sourceContent
@@ -49,39 +153,6 @@ struct OpenCCEmoji: Hashable {
                         return instances
                 }
                 return entries.flatMap({ $0 })
-        }
-
-        private static func convertLine(_ text: String) -> [OpenCCEmoji] {
-                let parts = text.split(separator: "\t").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
-                guard parts.count == 3 else { fatalError("Bad format: \(text)") }
-                let emoji = parts[1].replacingOccurrences(of: "{", with: "").replacingOccurrences(of: "}", with: "").trimmingCharacters(in: .whitespaces)
-                let names = parts[2].split(separator: ",").map({ $0.filter({ !$0.isASCII }) }).map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
-                let instances = names.map({ OpenCCEmoji(name: $0, emoji: emoji) })
-                return instances
-        }
-
-        private static func readEmojiLines() -> [String] {
-                let currentPath: String = FileManager.default.currentDirectoryPath
-                guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
-                        fatalError("Filed to fetch contents of path: \(currentPath)")
-                }
-                let emojiPaths: [String] = contents.filter({ $0.hasPrefix("emoji-") || $0.hasPrefix("extra-emoji") }).sorted()
-                let blocks = emojiPaths.map({ path -> [String] in
-                        guard let content: String = try? String(contentsOfFile: path, encoding: .utf8) else {
-                                fatalError("Failed to read content of path: \(path)")
-                        }
-                        let lines: [String] = content
-                                .trimmingCharacters(in: .whitespacesAndNewlines)
-                                .trimmingCharacters(in: .controlCharacters)
-                                .components(separatedBy: .newlines)
-                                .filter({ !$0.isEmpty })
-                                .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
-                                .filter({ !$0.isEmpty })
-                                .uniqued()
-                        return lines
-                })
-                let lines: [String] = blocks.flatMap({ $0 }).uniqued()
-                return lines
         }
 }
 
