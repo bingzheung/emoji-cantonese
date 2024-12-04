@@ -47,7 +47,7 @@ struct JyutpingGenerator {
                 }
                 let paths: [String] = contents.filter({ $0.hasPrefix("emoji-") || $0.hasPrefix("symbol-") || $0.hasPrefix("extra-emoji") }).sorted()
                 let blocks = paths.map({ path -> [String] in
-                        guard let content: String = try? String(contentsOfFile: path) else {
+                        guard let content: String = try? String(contentsOfFile: path, encoding: .utf8) else {
                                 fatalError("Failed to read content of path: \(path)")
                         }
                         let lines: [String] = content

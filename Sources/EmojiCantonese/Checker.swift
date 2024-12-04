@@ -25,7 +25,7 @@ struct Checker {
                         print("File Path: \(filePath)")
                         throw CheckerError.fileNotExists
                 }
-                guard let sourceContent: String = try? String(contentsOfFile: filePath) else {
+                guard let sourceContent: String = try? String(contentsOfFile: filePath, encoding: .utf8) else {
                         print("File Path: \(filePath)")
                         throw CheckerError.canNotReadFile
                 }

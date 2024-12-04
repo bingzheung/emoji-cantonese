@@ -24,7 +24,7 @@ struct DatabaseGenerator {
                 var instances: [SymbolEntry] = []
                 for path in paths {
                         let category: Int = categoryCode(of: path)
-                        guard let content: String = try? String(contentsOfFile: path) else {
+                        guard let content: String = try? String(contentsOfFile: path, encoding: .utf8) else {
                                 fatalError("Failed to read content of path: \(path)")
                         }
                         let lines: [String] = content
