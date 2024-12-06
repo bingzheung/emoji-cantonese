@@ -410,11 +410,13 @@
 千分號	cin1 fan6 hou6
 千里達及多巴哥	cin1 lei5 daat6 kap6 do1 baa1 go1
 錢	cin2
+淺膚色	cin2 fu1 sik1
 淺藍愛心	cin2 laam4 oi3 sam1
 淺藍心	cin2 laam4 sam1
 淺藍色愛心	cin2 laam4 sik1 oi3 sam1
 錢迷	cin2 mai4
 錢銀	cin2 ngan2
+淺色膚色	cin2 sik1 fu1 sik1
 錢	cin4
 錢包	cin4 baau1
 錢幣	cin4 bai6
@@ -973,6 +975,7 @@
 骷髏旗	fu1 lau4 kei4
 骷髏頭	fu1 lou4 tau4
 骷髏頭骨	fu1 lou4 tau4 gwat1
+膚色	fu1 sik1
 枯萎	fu1 wai2
 斧	fu2
 虎	fu2
@@ -1089,6 +1092,8 @@
 膠桶	gaau1 tung2
 餃	gaau2
 餃子	gaau2 zi2
+較淺膚色	gaau3 cin2 fu1 sik1
+較深膚色	gaau3 sam1 fu1 sik1
 教師	gaau3 si1
 鉸剪	gaau3 zin2
 鉸接貨車	gaau3 zip3 fo3 ce1
@@ -1509,14 +1514,17 @@
 黑	hak1
 黑塊	hak1 faai3
 黑方	hak1 fong1
+黑人	hak1 jan4
 克爾白	hak1 ji5 baak6
 黑月亮	hak1 jyut6 loeng6
 黑旗	hak1 kei4
 黑拳	hak1 kyun2
 黑拳	hak1 kyun4
 克羅地亞	hak1 lo4 dei6 aa3
+黑佬	hak1 lou2
 黑貓	hak1 maau1
 黑面	hak1 min6
+黑妹	hak1 mui1
 黑鳥	hak1 niu5
 黑三角	hak1 saam1 gok3
 黑山	hak1 saan1
@@ -1794,7 +1802,7 @@
 音樂	jam1 ngok6
 音樂鍵盤	jam1 ngok6 gin6 pun4
 陰平	jam1 ping4
-陰上	jam1 soeng2
+陰上	jam1 soeng5
 飲	jam2
 飲品	jam2 ban2
 飲杯	jam2 bui1
@@ -2116,7 +2124,7 @@
 陽平	joeng4 ping4
 揚手	joeng4 sau2
 揚聲器	joeng4 sing1 hei3
-陽上	joeng4 soeng2
+陽上	joeng4 soeng5
 氧氣	joeng5 hei3
 玉部	juk6 bou6
 浴缸	juk6 gong1
@@ -2179,6 +2187,7 @@
 越南	jyut6 naam4
 月牙	jyut6 ngaa4
 月兔	jyut6 tou3
+卡片索引	kaa1 pin2 saak3 jan5
 卡塔爾	kaa1 taap3 ji5
 卡片索引	kaat1 pin2 saak3 jan5
 咭片索引	kaat1 pin2 saak3 jan5
@@ -2445,6 +2454,7 @@
 老花鏡	lou5 faa1 geng3
 老虎	lou5 fu2
 老虎機	lou5 fu2 gei1
+老廣	lou5 gwong2
 老人	lou5 jan4
 老爺爺	lou5 je4 je2
 老鷹	lou5 jing1
@@ -2667,6 +2677,7 @@
 美屬維京羣島	mei5 suk6 wai4 ging1 kwan4 dou2
 美洲	mei5 zau1
 美洲駝	mei5 zau1 to4
+名卡	meng2 kaa1
 名卡	meng2 kaat1
 名咭	meng2 kaat1
 綿羊	min4 joeng4
@@ -2684,6 +2695,7 @@
 面目猙獰	min6 muk6 zang1 ning4
 麪條	min6 tiu4
 面震	min6 zan3
+名卡	ming4 kaa1
 名卡	ming4 kaat1
 名咭	ming4 kaat1
 名牌	ming4 paai2
@@ -3007,7 +3019,9 @@
 銀河系	ngan4 ho4 hai6
 銀漢	ngan4 hon3
 銀行	ngan4 hong4
+銀行卡	ngan4 hong4 kaa1
 銀行卡	ngan4 hong4 kaat1
+銀行咭	ngan4 hong4 kaat1
 銀牌	ngan4 paai4
 銀紙	ngan4 zi2
 岌頭	ngap6 tau4
@@ -3131,8 +3145,8 @@
 疲憊	pei4 bei6
 皮特肯	pei4 dak6 hang2
 皮鞋	pei4 haai4
-皮卡	pei4 kaat1
-皮卡車	pei4 kaat1 ce1
+皮卡	pei4 kaa1
+皮卡車	pei4 kaa1 ce1
 疲勞	pei4 lou4
 皮納塔	pei4 naap6 taap3
 蝙	pin1
@@ -3281,10 +3295,12 @@
 世界	sai3 gaai3
 細菌	sai3 kwan2
 勢利	sai3 lei6
-細路	sai3 lou2
-細𡀔	sai3 lou2
+細路哥	sai3 lou2 go1
+細𡀔哥	sai3 lou2 go1
 細路	sai3 lou6
 細𡀔	sai3 lou6
+細路哥	sai3 lou6 go1
+細𡀔哥	sai3 lou6 go1
 細路女	sai3 lou6 neoi2
 細𡀔女	sai3 lou6 neoi2
 細路仔	sai3 lou6 zai2
@@ -3295,6 +3311,7 @@
 心	sam1
 心動	sam1 dung6
 心火	sam1 fo2
+深膚色	sam1 fu1 sik1
 心間	sam1 gaan1
 深夜	sam1 je6
 心形	sam1 jing4
@@ -3307,6 +3324,7 @@
 心心相印	sam1 sam1 soeng1 jan3
 心水	sam1 seoi2
 心碎	sam1 seoi3
+深色膚色	sam1 sik1 fu1 sik1
 心傷	sam1 soeng1
 心田	sam1 tin4
 心跳	sam1 tiu3
@@ -3495,6 +3513,8 @@
 信號	seon3 hou6
 訊號	seon3 hou6
 信號燈	seon3 hou6 dang1
+信用卡	seon3 jung6 kaa1
+信用卡	seon3 jung6 kaat1
 信用咭	seon3 jung6 kaat1
 信息	seon3 sik1
 信箱	seon3 soeng1
@@ -3612,6 +3632,7 @@
 聖馬力諾	sing3 maa5 lik6 nok6
 聖文森特	sing3 man4 sam1 dak6
 聖文森及格瑞那丁	sing3 man4 sam1 kap6 gaak3 seoi6 naa5 ding1
+姓名卡	sing3 ming4 kaa1
 姓名卡	sing3 ming4 kaat1
 姓名咭	sing3 ming4 kaat1
 姓名牌	sing3 ming4 paai2
@@ -3652,6 +3673,7 @@
 小於等於	siu2 jyu1 dang2 jyu1
 小於或等於	siu2 jyu1 waak6 dang2 jyu1
 小雨	siu2 jyu5
+小朋友	siu2 pang4 jau5
 小寫伽瑪	siu2 se2 gaa1 maa5
 小寫派	siu2 se2 paai3
 小寫字母	siu2 se2 zi6 mou5
@@ -4052,6 +4074,8 @@
 委內瑞拉	wai2 noi6 seoi6 laai1
 委屈	wai2 wat1
 餵奶	wai3 naai5
+餵脌	wai3 nin1
+餵𢆡	wai3 nin1
 遺傳物質	wai4 cyun4 mat6 zat1
 圍巾	wai4 gan1
 圍觀	wai4 gun1

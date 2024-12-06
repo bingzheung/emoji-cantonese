@@ -79,7 +79,7 @@
 2B55.FE0F	{ ⭕️ }	圓圈(jyun4 hyun1), 圓(jyun4), 圈(hyun1), 圓形(jyun4 jing4)
 1F6D1	{ 🛑 }	八邊形(baat3 bin1 jing4), 八角形(baat3 gok3 jing4)
 26D4.FE0F	{ ⛔️ }	禁止(gam3 zi2), 拒絕(keoi5 zyut6), 嚴禁(jim4 gam3), 唔准(m4 zeon2)
-1F4DB	{ 📛 }	名牌(ming4 paai2), 名咭(ming4 kaat1; meng2 kaat1), 名卡(ming4 kaat1; meng2 kaat1), 姓名牌(sing3 ming4 paai2), 姓名咭(sing3 ming4 kaat1), 姓名卡(sing3 ming4 kaat1)
+1F4DB	{ 📛 }	名牌(ming4 paai2), 名咭(ming4 kaat1; meng2 kaat1), 名卡(ming4 kaat1; meng2 kaat1; ming4 kaa1; meng2 kaa1), 姓名牌(sing3 ming4 paai2), 姓名咭(sing3 ming4 kaat1), 姓名卡(sing3 ming4 kaat1; sing3 ming4 kaa1)
 1F6AB	{ 🚫 }	禁止(gam3 zi2), 拒絕(keoi5 zyut6), 嚴禁(jim4 gam3), 唔准(m4 zeon2)
 1F4AF	{ 💯 }	一百分(jat1 baak3 fan1), 滿分(mun5 fan1), 完全正確(jyun4 cyun4 zing3 kok3), 完全同意(jyun4 cyun4 tung4 ji3), 正確(zing3 kok3), 冇錯(mou5 co3), 啱晒(ngaam1 saai3), 百分百(baak3 fan6 baak3), 百分之一百(baak3 fan6 zi1 jat1 baak3)
 1F4A2	{ 💢 }	憤怒(fan5 nou6), 氣憤(hei3 fan5)

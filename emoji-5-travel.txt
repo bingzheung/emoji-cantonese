@@ -8,7 +8,7 @@
 1F691	{ 🚑 }	救護車(gau3 wu6 ce1), 醫療車(ji1 liu4 ce1), 急救車(gap1 gau3 ce1)
 1F692	{ 🚒 }	消防車(siu1 fong4 ce1)
 1F690	{ 🚐 }	麪包車(min6 baau1 ce1)
-1F6FB	{ 🛻 }	農夫車(nung4 fu1 ce1), 皮卡(pei4 kaat1), 皮卡車(pei4 kaat1 ce1)
+1F6FB	{ 🛻 }	農夫車(nung4 fu1 ce1), 皮卡車(pei4 kaa1 ce1), 皮卡(pei4 kaa1)
 1F69A	{ 🚚 }	貨車(fo3 ce1), 貨運(fo3 wan6), 運貨(wan6 fo3)
 1F69B	{ 🚛 }	鉸接式貨車(gaau3 zip3 sik1 fo3 ce1), 鉸接貨車(gaau3 zip3 fo3 ce1), 貨車(fo3 ce1)
 1F69C	{ 🚜 }	拖拉機(to1 laai1 gei1)

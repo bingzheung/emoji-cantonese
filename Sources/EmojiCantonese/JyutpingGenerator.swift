@@ -20,7 +20,7 @@ struct JyutpingGenerator {
 
         static func generate() {
                 let emojiJyutpingPath: String = "output/EmojiJyutping.txt"
-                let dictPath: String = "output/dict.yaml"
+                let dictPath: String = "output/dict.tsv"
                 let essayPath: String = "output/essay.txt"
                 let originalLines: [String] = readFileLines()
                 let converted = originalLines.map({ convertLine($0) })
