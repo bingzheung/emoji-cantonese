@@ -1,7 +1,6 @@
 import Foundation
 
 extension URL {
-
         func readLines() -> [String] {
                 guard let content: String = try? String(contentsOf: self, encoding: .utf8) else {
                         fatalError("Failed to read content of URL: \(self)")

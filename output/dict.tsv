@@ -85,7 +85,6 @@
 白板	baak6 baan2
 白菜	baak6 coi3
 白大褂	baak6 daai6 gwaa3
-白髮人	baak6 faat3 jan4
 白髮男	baak6 faat3 naam4
 白髮女	baak6 faat3 neoi5
 白鴿	baak6 gaap3
@@ -175,6 +174,7 @@
 不見	bat1 gin3
 不見惡事	bat1 gin3 ok3 si6
 不見惡事猿	bat1 gin3 ok3 si6 jyun4
+不許	bat1 heoi2
 不可	bat1 ho2
 不可飲用	bat1 ho2 jam2 jung6
 不言	bat1 jin4
@@ -380,6 +380,7 @@
 青色	ceng1 sik1
 青蛙	ceng1 waa1
 清酒	ceng1 zau2
+請	ceng2
 請求	ceng2 kau4
 吹風	ceoi1 fung1
 取款機	ceoi2 fun2 gei1
@@ -417,6 +418,7 @@
 錢迷	cin2 mai4
 錢銀	cin2 ngan2
 淺色膚色	cin2 sik1 fu1 sik1
+淺色皮膚	cin2 sik1 pei4 fu1
 錢	cin4
 錢包	cin4 baau1
 錢幣	cin4 bai6
@@ -442,6 +444,7 @@
 清真寺	cing1 zan1 zi2
 清真寺	cing1 zan1 zi6
 清酒	cing1 zau2
+請	cing2
 請求	cing2 kau4
 秤	cing3
 晴	cing4
@@ -452,6 +455,7 @@
 情信	cing4 seon3
 情書	cing4 syu1
 晴天	cing4 tin1
+程序員	cing4 zeoi6 jyun4
 超級英雄	ciu1 kap1 jing1 hung4
 超級市場	ciu1 kap1 si5 coeng4
 超市	ciu1 si5
@@ -501,6 +505,7 @@
 塞舌爾	coi3 sit3 ji5
 賽艇	coi3 teng5
 菜椒	coi3 ziu1
+裁判	coi4 pun3
 蒼鷹	cong1 jing1
 蒼蠅	cong1 jing4
 倉鼠	cong1 syu2
@@ -725,6 +730,7 @@
 電燈泡	din6 dang1 paau1
 電動單車	din6 dung6 daan1 ce1
 電動輪椅	din6 dung6 leon4 ji2
+電動輪椅人	din6 dung6 leon4 ji2 jan4
 電動輪椅男	din6 dung6 leon4 ji2 naam4
 電動輪椅女	din6 dung6 leon4 ji2 neoi5
 電動自行車	din6 dung6 zi6 hang4 ce1
@@ -735,10 +741,6 @@
 電聯	din6 lyun4
 電腦	din6 nou5
 電腦包	din6 nou5 baau1
-電腦工	din6 nou5 gung1
-電腦人	din6 nou5 jan4
-電腦男	din6 nou5 naam4
-電腦女	din6 nou5 neoi5
 電平滑塊	din6 ping4 waat6 faai3
 電視	din6 si6
 電視機	din6 si6 gei1
@@ -765,6 +767,9 @@
 蝶	dip6
 跌	dit3
 雕	diu1
+凋零	diu1 ling4
+凋落	diu1 lok6
+凋謝	diu1 ze6
 屌你	diu2 nei5
 釣	diu3
 釣魚	diu3 jyu2
@@ -790,11 +795,13 @@
 刀字邊	dou1 zi6 bin1
 島	dou2
 倒瀉	dou2 se2
+倒水	dou2 seoi2
 倒轉	dou2 zyun3
 度	dou6
 稻	dou6
 渡渡鳥	dou6 dou6 niu5
 道教	dou6 gaau3
+稻穀	dou6 guk1
 渡輪	dou6 leon4
 道路施工	dou6 lou6 si1 gung1
 導盲狗	dou6 maang4 gau2
@@ -869,6 +876,7 @@
 髮廊	faat3 long4
 發信	faat3 seon3
 發信箱	faat3 seon3 soeng1
+法師	faat3 si1
 法式長棍	faat3 sik1 coeng4 gwan3
 法式麪包	faat3 sik1 min6 baau1
 發燒	faat3 siu1
@@ -886,7 +894,6 @@
 婚禮教堂	fan1 lai5 gaau3 tong2
 婚禮教堂	fan1 lai5 gaau3 tong4
 婚紗	fan1 saa1
-婚紗人	fan1 saa1 jan4
 婚紗男	fan1 saa1 naam4
 勳章	fan1 zoeng1
 粉紅愛心	fan2 hung4 oi3 sam1
@@ -1002,7 +1009,6 @@
 輻射	fuk1 se6
 複數	fuk1 sou3
 服務犬	fuk6 mou6 hyun2
-服務員	fuk6 mou6 jyun4
 服務鈴	fuk6 mou6 ling4
 服務商標	fuk6 mou6 soeng1 biu1
 復活節島	fuk6 wut6 zit3 dou2
@@ -1010,6 +1016,7 @@
 歡呼	fun1 fu1
 歡喜	fun1 hei2
 歡笑	fun1 siu3
+楓	fung1
 蜂	fung1
 風	fung1
 封包	fung1 baau1
@@ -1093,8 +1100,10 @@
 餃	gaau2
 餃子	gaau2 zi2
 較淺膚色	gaau3 cin2 fu1 sik1
+教學	gaau3 hok6
 較深膚色	gaau3 sam1 fu1 sik1
 教師	gaau3 si1
+教書	gaau3 syu1
 鉸剪	gaau3 zin2
 鉸接貨車	gaau3 zip3 fo3 ce1
 鉸接式貨車	gaau3 zip3 sik1 fo3 ce1
@@ -1115,9 +1124,10 @@
 計時	gai3 si4
 柑	gam1
 金髮	gam1 faat3
-金髮人	gam1 faat3 jan4
+金髮妹	gam1 faat3 mui1
 金髮男	gam1 faat3 naam4
 金髮女	gam1 faat3 neoi5
+金髮女郎	gam1 faat3 neoi5 long4
 柑桔	gam1 gat1
 柑橘	gam1 gwat1
 金牛座	gam1 ngau4 zo6
@@ -1210,11 +1220,11 @@
 基佬	gei1 lou2
 幾內亞	gei1 noi6 aa3
 幾內亞比紹	gei1 noi6 aa3 bei2 siu6
+機長	gei1 zoeng2
 寄生蟲	gei3 sang1 cung4
 記事簿	gei3 si6 bou6
 記事本	gei3 si6 bun2
 技工	gei6 gung1
-技術人員	gei6 seot6 jan4 jyun4
 驚	geng1
 鏡	geng3
 鏡球	geng3 kau4
@@ -1231,7 +1241,6 @@
 舉手女	geoi2 sau2 neoi5
 鋸	geoi3
 颶風	geoi6 fung1
-巨怪	geoi6 gwaai3
 巨蟹座	geoi6 haai5 zo6
 巨魔	geoi6 mo1
 巨無霸	geoi6 mou4 baa3
@@ -1247,6 +1256,7 @@
 堅忍	gin1 jan2
 建設	gin3 cit3
 建字底	gin3 zi6 dai2
+建築工	gin3 zuk1 gung1
 建築工人	gin3 zuk1 gung1 jan4
 建築施工	gin3 zuk1 si1 gung1
 鍵盤	gin6 pun2
@@ -1351,24 +1361,25 @@
 高踭涼鞋	gou1 zaang1 loeng4 haai4
 鎬	gou2
 菇	gu1
+姑娘	gu1 noeng4
 鼓	gu2
 古巴	gu2 baa1
 古典建築	gu2 din2 gin3 zuk1
 鼓掌	gu2 zoeng2
 攰	gui6
 癐	gui6
+穀	guk1
 菊	guk1
 鞠躬	guk1 gung1
 鞠躬男	guk1 gung1 naam4
 鞠躬女	guk1 gung1 neoi5
 焗飯	guk6 faan6
 焗桑拿	guk6 song1 naa4
-焗桑拿男	guk6 song1 naa4 naam4
-焗桑拿女	guk6 song1 naa4 neoi5
 棺材	gun1 coi4
 觀光列車	gun1 gwong1 lit6 ce1
 冠軍	gun3 gwan1
 罐頭	gun3 tau2
+工程師	gung1 cing4 si1
 工廠	gung1 cong2
 公交車	gung1 gaau1 ce1
 公交車站	gung1 gaau1 ce1 zaam6
@@ -1387,7 +1398,7 @@
 公主	gung1 zyu2
 公公	gung4 gung1
 瓜德羅普	gwaa1 dak1 lo4 pou2
-瓜皮帽	gwaa1 pei4 mou6
+瓜皮帽	gwaa1 pei4 mou2
 掛曆	gwaa3 lik6
 拐杖	gwaai2 zoeng2
 拐杖	gwaai2 zoeng6
@@ -1440,13 +1451,12 @@
 光盤	gwong1 pun2
 光盤	gwong1 pun4
 光頭	gwong1 tau4
-光頭人	gwong1 tau4 jan4
 光頭佬	gwong1 tau4 lou2
 光頭男	gwong1 tau4 naam4
 光頭女	gwong1 tau4 neoi5
 光環	gwong1 waan4
+涓水	gyun1 seoi2
 捲髮	gyun2 faat3
-捲髮人	gyun2 faat3 jan4
 捲髮男	gyun2 faat3 naam4
 捲髮女	gyun2 faat3 neoi5
 卷一	gyun2 jat1
@@ -1555,6 +1565,8 @@
 行人	hang4 jan4
 行人禁止	hang4 jan4 gam3 zi2
 行人禁止通行	hang4 jan4 gam3 zi2 tung1 hang4
+行人男	hang4 jan4 naam4
+行人女	hang4 jan4 neoi5
 行李	hang4 lei5
 行李寄存	hang4 lei5 gei3 cyun4
 行李領取	hang4 lei5 ling5 ceoi2
@@ -1603,6 +1615,7 @@
 喫面	hek3 min6
 噓	heoi1
 虛僞	heoi1 ngai6
+許可	heoi2 ho2
 許願樹	heoi2 jyun6 syu6
 牽手	hin1 sau2
 䘆	hin2
@@ -1662,6 +1675,7 @@
 開始播放	hoi1 ci2 bo3 fong3
 開始暫停	hoi1 ci2 zaam6 ting4
 開槍	hoi1 coeng1
+開發者	hoi1 faat3 ze2
 開香檳	hoi1 hoeng1 ban1
 開啓箭頭	hoi1 kai2 zin3 tau4
 開曼	hoi1 maan6
@@ -1745,13 +1759,15 @@
 紅	hung4
 虹	hung4
 紅包	hung4 baau1
+紅豆	hung4 dau2
+紅豆	hung4 dau6
 洪都拉斯	hung4 dou1 laai1 si1
 紅髮	hung4 faat3
-紅髮人	hung4 faat3 jan4
 紅髮男	hung4 faat3 naam4
 紅髮女	hung4 faat3 neoi5
 紅䘆	hung4 hin2
 紅䘆	hung4 hyun2
+紅葉	hung4 jip6
 紅蘿蔔	hung4 lo4 baak6
 紅綠燈	hung4 luk6 dang1
 熊貓	hung4 maau1
@@ -1932,6 +1948,8 @@
 油站	jau4 zaam6
 郵政號角	jau4 zing3 hou6 gok3
 有	jau5
+有請	jau5 ceng2
+有請	jau5 cing2
 有毒	jau5 duk6
 有軌電車	jau5 gwai2 din6 ce1
 有型	jau5 jing4
@@ -2008,6 +2026,8 @@
 除	ji5
 耳機	ji5 gei1
 耳聾	ji5 lung4
+耳聾男	ji5 lung4 naam4
+耳聾女	ji5 lung4 neoi5
 以色列	ji5 sik1 lit6
 耳仔	ji5 zai2
 耳仔邊	ji5 zai2 bin1
@@ -2041,9 +2061,6 @@
 逆時針	jik6 si4 zam1
 逆時針方向	jik6 si4 zam1 fong1 hoeng3
 逆時針箭頭	jik6 si4 zam1 zin3 tau4
-掩面	jim2 min6
-掩面男	jim2 min6 naam4
-掩面女	jim2 min6 neoi5
 厭倦	jim3 gyun6
 鹽	jim4
 嚴禁	jim4 gam3
@@ -2056,7 +2073,6 @@
 煙肉	jin1 juk6
 演講	jin2 gong2
 燕尾服	jin3 mei5 fuk6
-燕尾服人	jin3 mei5 fuk6 jan4
 燕尾服男	jin3 mei5 fuk6 naam4
 燕尾服女	jin3 mei5 fuk6 neoi5
 弦月	jin4 jyut6
@@ -2072,6 +2088,7 @@
 英格蘭	jing1 gaak3 laan4
 英吉利	jing1 gat1 lei6
 英國	jing1 gwok3
+英雄	jing1 hung4
 嬰兒	jing1 ji4
 嬰兒天使	jing1 ji4 tin1 si3
 英文鍵盤	jing1 man2 gin6 pun2
@@ -2100,9 +2117,7 @@
 熱死	jit6 sei2
 日頭	jit6 tau2
 日頭	jit6 tau4
-妖怪	jiu1 gwaai3
 鷂	jiu2
-妖怪	jiu2 gwaai3
 搖滾手勢	jiu4 gwan2 sau2 sai3
 搖頭	jiu4 tau4
 鷂	jiu6
@@ -2159,8 +2174,8 @@
 鉛筆	jyun4 bat1
 完全同意	jyun4 cyun4 tung4 ji3
 完全正確	jyun4 cyun4 zing3 kok3
+懸浮	jyun4 fau4
 懸浮列車	jyun4 fau4 lit6 ce1
-懸浮西裝男	jyun4 fau4 sai1 zong1 naam4
 圓角矩形	jyun4 gok3 geoi2 jing4
 員工	jyun4 gung1
 圓圈	jyun4 hyun1
@@ -2271,9 +2286,9 @@
 拳	kyun4
 拳擊	kyun4 gik1
 拳頭	kyun4 tau4
-撅嘴	kyut3 zeoi2
-撅嘴男	kyut3 zeoi2 naam4
-撅嘴女	kyut3 zeoi2 neoi5
+噘嘴	kyut3 zeoi2
+噘嘴男	kyut3 zeoi2 naam4
+噘嘴女	kyut3 zeoi2 neoi5
 啦啦隊	laa1 laa1 deoi2
 喇叭	laa3 baa1
 拉丁十字	laai1 ding1 sap6 zi6
@@ -2342,8 +2357,6 @@
 離卦	lei4 gwaa3
 理髮	lei5 faat3
 理髮店	lei5 faat3 dim3
-理髮男	lei5 faat3 naam4
-理髮女	lei5 faat3 neoi5
 鯉魚旗	lei5 jyu4 kei4
 脷	lei6
 利比亞	lei6 bei2 aa3
@@ -2379,6 +2392,7 @@
 栗	leot6
 栗子	leot6 zi2
 力量	lik6 loeng6
+蓮	lin4
 鏈	lin4
 蓮花	lin4 faa1
 蓮花座	lin4 faa1 zo6
@@ -2472,6 +2486,8 @@
 露齒笑	lou6 ci2 siu3
 露國	lou6 gwok3
 路人	lou6 jan4
+路人男	lou6 jan4 naam4
+路人女	lou6 jan4 neoi5
 露營	lou6 jing4
 露西亞	lou6 sai1 aa3
 路障	lou6 zoeng3
@@ -2542,6 +2558,7 @@
 媽媽	maa1 maa1
 媽咪	maa1 mi1
 媽咪	maa1 mi4
+麻煩	maa4 faan4
 媽媽	maa4 maa1
 嫲嫲	maa4 maa4
 麻雀	maa4 zoek2
@@ -2569,6 +2586,7 @@
 馬來亞	maa5 loi4 aa3
 馬來西亞	maa5 loi4 sai1 aa3
 螞蟻	maa5 ngai5
+碼農	maa5 nung4
 馬紹爾羣島	maa5 siu6 ji5 kwan4 dou2
 馬提尼克	maa5 tai4 nei4 hak1
 馬頭	maa5 tau4
@@ -2583,6 +2601,11 @@
 萬字夾	maan6 zi6 gaap3
 萬字夾	maan6 zi6 gep2
 萬字夾	maan6 zi6 gep6
+盲人	maang4 jan4
+盲人男	maang4 jan4 naam4
+盲人女	maang4 jan4 neoi5
+盲男	maang4 naam4
+盲女	maang4 neoi5
 猛獁象	maang5 maa5 zoeng6
 孟加拉	maang6 gaa1 laai1
 孟加拉國	maang6 gaa1 laai1 gwok3
@@ -2813,21 +2836,23 @@
 男燈神	naam4 dang1 san4
 男反派	naam4 faan2 paai1
 男法官	naam4 faat3 gun1
+男法師	naam4 faat3 si1
 南非	naam4 fei1
 男飛行員	naam4 fei1 hang4 jyun4
 男科學家	naam4 fo1 hok6 gaa1
-男服務員	naam4 fuk6 mou6 jyun4
 男教師	naam4 gaau3 si1
 男機械工	naam4 gei1 haai6 gung1
+男機長	naam4 gei1 zoeng2
 男技工	naam4 gei6 gung1
-男技術人員	naam4 gei6 seot6 jan4 jyun4
 南極	naam4 gik6
 南極洲	naam4 gik6 zau1
+男建築工	naam4 gin3 zuk1 gung1
 男建築工人	naam4 gin3 zuk1 gung1 jan4
 男警察	naam4 ging2 caat3
 男歌手	naam4 go1 sau2
 男殭屍	naam4 goeng1 si1
 南高麗	naam4 gou1 lai6
+男姑娘	naam4 gu1 noeng4
 男工人	naam4 gung1 jan4
 南瓜燈	naam4 gwaa1 dang1
 南瓜燈籠	naam4 gwaa1 dang1 lung4
@@ -2845,11 +2870,12 @@
 男醫生	naam4 ji1 sang1
 男醫護	naam4 ji1 wu6
 男醫護人員	naam4 ji1 wu6 jan4 jyun4
-男妖怪	naam4 jiu1 gwaai3
 男宇航員	naam4 jyu5 hong4 jyun4
 男員工	naam4 jyun4 gung1
 男吸血鬼	naam4 kap1 hyut3 gwai2
 男老師	naam4 lou5 si1
+男路人	naam4 lou6 jan4
+男盲人	naam4 maang4 jan4
 男魔法師	naam4 mo1 faat3 si1
 男巫	naam4 mou4
 男舞蹈家	naam4 mou5 dou6 gaa1
@@ -2857,6 +2883,7 @@
 男藝人	naam4 ngai6 jan4
 男藝術家	naam4 ngai6 seot6 gaa1
 男農民	naam4 nung4 man4
+男神探	naam4 san4 taam3
 男修理工	naam4 sau1 lei5 gung1
 男守衛	naam4 sau2 wai6
 男仙人	naam4 sin1 jan4
@@ -2865,6 +2892,7 @@
 男消防員	naam4 siu1 fong4 jyun4
 南蘇丹	naam4 sou1 daan1
 男太空人	naam4 taai3 hung1 jan4
+男探長	naam4 taam3 zoeng2
 男同	naam4 tung4
 男童	naam4 tung4
 男同性戀	naam4 tung4 sing3 lyun2
@@ -2885,6 +2913,7 @@
 納米比亞	naap6 mai5 bei2 aa3
 鬧人	naau6 jan4
 鬧鐘	naau6 zung1
+泥水佬	nai4 seoi2 lou2
 諗	nam2
 諗嘢	nam2 je5
 嬲	nau1
@@ -2914,13 +2943,14 @@
 女燈神	neoi5 dang1 san4
 女反派	neoi5 faan2 paai1
 女法官	neoi5 faat3 gun1
+女法師	neoi5 faat3 si1
 女飛行員	neoi5 fei1 hang4 jyun4
 女科學家	neoi5 fo1 hok6 gaa1
-女服務員	neoi5 fuk6 mou6 jyun4
 女教師	neoi5 gaau3 si1
 女機械工	neoi5 gei1 haai6 gung1
+女機長	neoi5 gei1 zoeng2
 女技工	neoi5 gei6 gung1
-女技術人員	neoi5 gei6 seot6 jan4 jyun4
+女建築工	neoi5 gin3 zuk1 gung1
 女建築工人	neoi5 gin3 zuk1 gung1 jan4
 女警察	neoi5 ging2 caat3
 女歌手	neoi5 go1 sau2
@@ -2939,11 +2969,13 @@
 女醫護	neoi5 ji1 wu6
 女醫護人員	neoi5 ji1 wu6 jan4 jyun4
 女兒節	neoi5 ji4 zit3
-女妖怪	neoi5 jiu1 gwaai3
+女英雄	neoi5 jing1 hung4
 女宇航員	neoi5 jyu5 hong4 jyun4
 女員工	neoi5 jyun4 gung1
 女吸血鬼	neoi5 kap1 hyut3 gwai2
 女老師	neoi5 lou5 si1
+女路人	neoi5 lou6 jan4
+女盲人	neoi5 maang4 jan4
 女魔法師	neoi5 mo1 faat3 si1
 女巫	neoi5 mou4
 女舞蹈家	neoi5 mou5 dou6 gaa1
@@ -2951,6 +2983,8 @@
 女藝人	neoi5 ngai6 jan4
 女藝術家	neoi5 ngai6 seot6 gaa1
 女農民	neoi5 nung4 man4
+女神探	neoi5 san4 taam3
+女生	neoi5 sang1
 女修理工	neoi5 sau1 lei5 gung1
 女守衛	neoi5 sau2 wai6
 女仙人	neoi5 sin1 jan4
@@ -2958,6 +2992,7 @@
 女性	neoi5 sing3
 女消防員	neoi5 siu1 fong4 jyun4
 女太空人	neoi5 taai3 hung1 jan4
+女探長	neoi5 taam3 zoeng2
 女同	neoi5 tung4
 女童	neoi5 tung4
 女同性戀	neoi5 tung4 sing3 lyun2
@@ -2998,6 +3033,7 @@
 𧦠人	ngaak1 jan4
 啱	ngaam1
 啱晒	ngaam1 saai3
+岩石	ngaam4 sek6
 眼	ngaan5
 眼放電	ngaan5 fong3 din6
 眼鏡	ngaan5 geng2
@@ -3015,6 +3051,8 @@
 藝術家	ngai6 seot6 gaa1
 僞裝	ngai6 zong1
 銀髮	ngan4 faat3
+銀髮男	ngan4 faat3 naam4
+銀髮女	ngan4 faat3 neoi5
 銀河	ngan4 ho4
 銀河系	ngan4 ho4 hai6
 銀漢	ngan4 hon3
@@ -3090,6 +3128,7 @@
 愛心手勢	oi3 sam1 sau2 sai3
 惡頂	ok3 ding2
 惡鬼	ok3 gwai2
+惡人	ok3 jan4
 惡魔	ok3 mo1
 惡魔之眼	ok3 mo1 zi1 ngaan5
 噁心	ok3 sam1
@@ -3100,8 +3139,6 @@
 安南	on1 naam4
 安提瓜及巴布達	on1 tai4 gwaa1 kap6 baa1 bou3 daat6
 按摩	on3 mo1
-按摩男	on3 mo1 naam4
-按摩女	on3 mo1 neoi5
 澳	ou3
 澳大利亞	ou3 daai6 lei6 aa3
 奧地利	ou3 dei6 lei6
@@ -3144,12 +3181,14 @@
 皮包	pei4 baau1
 疲憊	pei4 bei6
 皮特肯	pei4 dak6 hang2
+皮膚	pei4 fu1
 皮鞋	pei4 haai4
 皮卡	pei4 kaa1
 皮卡車	pei4 kaa1 ce1
 疲勞	pei4 lou4
 皮納塔	pei4 naap6 taap3
 蝙	pin1
+編程	pin1 cing4
 蝙蝠	pin1 fuk1
 乒乓波	ping1 pong1 bo1
 乒乓球	ping1 pong1 kau4
@@ -3183,6 +3222,7 @@
 泡泡	pou5 pou5
 培根	pui4 gan1
 培養皿	pui4 joeng5 ming5
+盆景	pun4 ging2
 蟠桃	pun4 tou4
 盆栽	pun4 zoi1
 鯊	saa1
@@ -3264,6 +3304,7 @@
 山嶺	saan1 ling5
 山域治	saan1 wik6 zi6
 珊瑚	saan1 wu4
+珊瑚礁	saan1 wu4 ziu1
 刪節	saan1 zit3
 刪節號	saan1 zit3 hou6
 傘	saan3
@@ -3325,6 +3366,7 @@
 心水	sam1 seoi2
 心碎	sam1 seoi3
 深色膚色	sam1 sik1 fu1 sik1
+深色皮膚	sam1 sik1 pei4 fu1
 心傷	sam1 soeng1
 心田	sam1 tin4
 心跳	sam1 tiu3
@@ -3347,6 +3389,7 @@
 神廟	san4 miu2
 神廟	san4 miu6
 神社	san4 se5
+神探	san4 taam3
 生化危害	sang1 faa3 ngai4 hoi6
 生物危害	sang1 mat6 ngai4 hoi6
 十	sap6
@@ -3426,8 +3469,6 @@
 手指	sau2 zi2
 手指指	sau2 zi2 zi2
 手杖	sau2 zoeng2
-手杖男	sau2 zoeng2 naam4
-手杖女	sau2 zoeng2 neoi5
 手杖	sau2 zoeng6
 獸人	sau3 jan4
 壽司	sau6 si1
@@ -3477,6 +3518,7 @@
 𡃶𡃶	sek3 sek3
 𡃶𡃶貓	sek3 sek3 maau1
 石	sek6
+石塊	sek6 faai3
 石油	sek6 jau4
 石頭	sek6 tau4
 石像	sek6 zoeng6
@@ -3583,7 +3625,6 @@
 閃亮之心	sim2 loeng6 zi1 sam1
 閃閃之心	sim2 sim2 zi1 sam1
 鮮花	sin1 faa1
-仙人	sin1 jan4
 仙人掌	sin1 jan4 zoeng2
 仙女	sin1 neoi2
 仙女	sin1 neoi5
@@ -3619,7 +3660,6 @@
 聖誕	sing3 daan3
 聖誕島	sing3 daan3 dou2
 聖誕夫人	sing3 daan3 fu1 jan4
-聖誕人	sing3 daan3 jan4
 聖誕老人	sing3 daan3 lou5 jan4
 聖誕樹	sing3 daan3 syu6
 聖多美普林西比	sing3 do1 mei5 pou2 lam4 sai1 bei2
@@ -3645,7 +3685,6 @@
 成人內容	sing4 jan4 noi6 jung4
 乘以	sing4 ji5
 承認	sing4 jing6
-成年人	sing4 nin4 jan4
 攝影機	sip3 jing2 gei1
 攝錄	sip3 luk6
 攝錄機	sip3 luk6 gei1
@@ -3658,6 +3697,7 @@
 舌頭	sit6 tau4
 燒	siu1
 燒火	siu1 fo2
+消防	siu1 fong4
 消防車	siu1 fong4 ce1
 消防員	siu1 fong4 jyun4
 燒心	siu1 sam1
@@ -3758,6 +3798,7 @@
 常青樹	soeng4 cing1 syu6
 常綠喬木	soeng4 luk6 kiu4 muk6
 上檔	soeng5 dong3
+上課	soeng5 fo3
 上鎖	soeng5 so2
 上	soeng6
 上包下	soeng6 baau1 haa6
@@ -3802,6 +3843,7 @@
 索馬里	sok3 maa5 lei5
 索馬利亞	sok3 maa5 lei6 aa3
 嗦支菸	sok3 zi1 jin1
+桑拿	song1 naa4
 酥餅	sou1 beng2
 蘇丹	sou1 daan1
 蘇格蘭	sou1 gaak3 laan4
@@ -3835,6 +3877,7 @@
 樹	syu6
 樹袋熊	syu6 doi6 hung4
 樹熊	syu6 hung4
+樹葉	syu6 jip6
 樹懶	syu6 laan5
 豎拇指	syu6 mou5 zi2
 樹木	syu6 muk6
@@ -3875,6 +3918,7 @@
 太子	taai3 zi2
 探熱	taam3 jit6
 探熱針	taam3 jit6 zam1
+探長	taam3 zoeng2
 攤手	taan1 sau2
 攤手男	taan1 sau2 naam4
 攤手女	taan1 sau2 neoi5
@@ -3916,7 +3960,6 @@
 頭頂光環	tau4 deng2 gwong1 waan4
 頭都大埋	tau4 dou1 daai6 maai4
 頭巾	tau4 gan1
-頭巾人	tau4 gan1 jan4
 頭巾佬	tau4 gan1 lou2
 頭巾男	tau4 gan1 naam4
 頭巾女	tau4 gan1 neoi5
@@ -3925,6 +3968,7 @@
 頭盔	tau4 kwai1
 投票	tau4 piu3
 投票箱	tau4 piu3 soeng1
+頭痛	tau4 tung3
 頭暈	tau4 wan4
 頭暈目眩	tau4 wan4 muk6 jyun4
 頭暈目眩	tau4 wan4 muk6 jyun6
@@ -4053,9 +4097,9 @@
 話筒	waa6 tung2
 話筒	waa6 tung4
 懷孕	waai4 jan6
-懷孕人士	waai4 jan6 jan4 si6
 懷孕男	waai4 jan6 naam4
 懷抱	waai4 pou5
+壞人	waai6 jan4
 畫筆	waak6 bat1
 畫畫	waak6 waa2
 彎引號	waan1 jan5 hou6
@@ -4070,6 +4114,7 @@
 滑雪屐	waat6 syut3 kek6
 滑梯	waat6 tai1
 威爾士	wai1 ji5 si6
+萎	wai2
 虺	wai2
 委內瑞拉	wai2 noi6 seoi6 laai1
 委屈	wai2 wat1
@@ -4162,7 +4207,6 @@
 狐狸頭	wu4 lei4 tau4
 胡蘿蔔	wu4 lo4 baak6
 鬍鬚	wu4 sou1
-鬍鬚人	wu4 sou1 jan4
 鬍鬚佬	wu4 sou1 lou2
 鬍鬚男	wu4 sou1 naam4
 鬍鬚女	wu4 sou1 neoi5
@@ -4219,6 +4263,8 @@
 側手翻男	zak1 sau2 faan1 naam4
 側手翻女	zak1 sau2 faan1 neoi5
 針	zam1
+斟杯水	zam1 bui1 seoi2
+斟水	zam1 seoi2
 針線	zam1 sin3
 針筒	zam1 tung2
 浸浴	zam3 juk6
@@ -4330,8 +4376,7 @@
 剪切板	zin2 cit3 baan2
 剪刀	zin2 dou1
 剪髮	zin2 faat3
-剪髮男	zin2 faat3 naam4
-剪髮女	zin2 faat3 neoi5
+剪頭髮	zin2 tau4 faat3
 剪貼板	zin2 tip3 baan2
 剪貼簿	zin2 tip3 bou2
 箭術	zin3 seot6
@@ -4341,9 +4386,9 @@
 蒸氣火車	zing1 hei3 fo2 ce1
 蒸餾器	zing1 lau6 hei3
 精靈	zing1 ling4
+精靈男	zing1 ling4 naam4
+精靈女	zing1 ling4 neoi5
 蒸桑拿	zing1 song1 naa4
-蒸桑拿男	zing1 song1 naa4 naam4
-蒸桑拿女	zing1 song1 naa4 neoi5
 偵探	zing1 taam3
 井	zing2
 整數	zing2 sou3
@@ -4373,6 +4418,7 @@
 椒鹽捲餅	ziu1 jim4 gyun2 beng2
 朝陽	ziu1 joeng4
 焦慮	ziu1 leoi6
+招手	ziu1 sau2
 朝鮮	ziu1 sin1
 照相機	ziu3 soeng2 gei1
 照相機	ziu3 soeng3 gei1
@@ -4452,6 +4498,7 @@
 𥅾	zong1
 𥅾下	zong1 haa5
 𥅾人	zong1 jan4
+做泥水	zou6 nai4 seoi2
 燭	zuk1
 祝	zuk1
 竹	zuk1
@@ -4487,6 +4534,66 @@
 鐘鈴	zung1 ling4
 終身代號	zung1 san1 doi6 hou6
 棕色	zung1 sik1
+中性白髮人	zung1 sing3 baak6 faat3 jan4
+中性廚師	zung1 sing3 ceoi4 si1
+中性超級英雄	zung1 sing3 ciu1 kap1 jing1 hung4
+中性廚師	zung1 sing3 cyu4 si1
+中性燈神	zung1 sing3 dang1 san4
+中性反派	zung1 sing3 faan2 paai3
+中性法官	zung1 sing3 faat3 gun1
+中性婚紗人	zung1 sing3 fan1 saa1 jan4
+中性飛行員	zung1 sing3 fei1 hang4 jyun4
+中性科學家	zung1 sing3 fo1 hok6 gaa1
+中性服務員	zung1 sing3 fuk6 mou6 jyun4
+中性教師	zung1 sing3 gaau3 si1
+中性金髮人	zung1 sing3 gam1 faat3 jan4
+中性技工	zung1 sing3 gei6 gung1
+中性建築工人	zung1 sing3 gin3 zuk1 gung1 jan4
+中性警察	zung1 sing3 ging2 caat3
+中性歌手	zung1 sing3 go1 sau2
+中性殭屍	zung1 sing3 goeng1 si1
+中性工程師	zung1 sing3 gung1 cing4 si1
+中性工人	zung1 sing3 gung1 jan4
+中性光頭人	zung1 sing3 gwong1 tau4 jan4
+中性捲髮人	zung1 sing3 gyun2 faat3 jan4
+中性行人	zung1 sing3 hang4 jan4
+中性學生	zung1 sing3 hok6 saang1
+中性紅髮人	zung1 sing3 hung4 faat3 jan4
+中性人揞面	zung1 sing3 jan4 am2 min6
+中性人否定	zung1 sing3 jan4 fau2 ding6
+中性人舉手	zung1 sing3 jan4 geoi2 sau2
+中性人鞠躬	zung1 sing3 jan4 guk1 gung1
+中性人焗桑拿	zung1 sing3 jan4 guk6 song1 naa4
+中性人跪地	zung1 sing3 jan4 gwai6 dei6
+中性人魚	zung1 sing3 jan4 jyu4
+中性人撅嘴	zung1 sing3 jan4 kyut3 zeoi2
+中性人理髮	zung1 sing3 jan4 lei5 faat3
+中性人按摩	zung1 sing3 jan4 on3 mo1
+中性人跑步	zung1 sing3 jan4 paau2 bou6
+中性人失聰	zung1 sing3 jan4 sat1 cung1
+中性人同意	zung1 sing3 jan4 tung4 ji3
+中性人餵奶	zung1 sing3 jan4 wai3 naai5
+中性人站立	zung1 sing3 jan4 zaam6 lap6
+中性人皺眉	zung1 sing3 jan4 zau3 mei4
+中性醫護人員	zung1 sing3 ji1 wu6 jan4 jyun4
+中性兒童	zung1 sing3 ji4 tung4
+中性燕尾服人	zung1 sing3 jin3 mei5 fuk6 jan4
+中性宇航員	zung1 sing3 jyu5 hong4 jyun4
+中性吸血鬼	zung1 sing3 kap1 hyut3 gwai2
+中性老年人	zung1 sing3 lou5 nin4 jan4
+中性盲人	zung1 sing3 maang4 jan4
+中性魔法師	zung1 sing3 mo1 faat3 si1
+中性藝術家	zung1 sing3 ngai6 seot6 gaa1
+中性農民	zung1 sing3 nung4 man4
+中性仙人	zung1 sing3 sin1 jan4
+中性聖誕老人	zung1 sing3 sing3 daan3 lou5 jan4
+中性成年人	zung1 sing3 sing4 nin4 jan4
+中性消防員	zung1 sing3 siu1 fong4 jyun4
+中性頭巾人	zung1 sing3 tau4 gan1 jan4
+中性鬍鬚人	zung1 sing3 wu4 sou1 jan4
+中性職員	zung1 sing3 zik1 jyun4
+中性精靈	zung1 sing3 zing1 ling4
+中性偵探	zung1 sing3 zing1 taam3
 中華人民共和國	zung1 waa4 jan4 man4 gung6 wo4 gwok3
 中華民國	zung1 waa4 man4 gwok3
 中雲	zung1 wan4

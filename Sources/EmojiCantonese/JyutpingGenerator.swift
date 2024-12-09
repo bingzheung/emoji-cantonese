@@ -19,18 +19,13 @@ private struct JyutpingEntry: CustomStringConvertible, Hashable, Comparable {
 struct JyutpingGenerator {
 
         static func generate() {
-                let emojiJyutpingPath: String = "output/EmojiJyutping.txt"
                 let dictPath: String = "output/dict.tsv"
                 let essayPath: String = "output/essay.txt"
                 let originalLines: [String] = readFileLines()
                 let converted = originalLines.map({ convertLine($0) })
                 let entries: [JyutpingEntry] = converted.flatMap({ $0 }).uniqued()
-                let emojiJyutpingContent: String = entries.map(\.description).joined(separator: String.newLine) + String.newLine
                 let dictContent: String = entries.sorted().map(\.description).joined(separator: String.newLine) + String.newLine
                 let essayContent: String = entries.map(\.word).uniqued().sortedWithUnicodeCodePoint().joined(separator: String.newLine) + String.newLine
-                if FileManager.default.fileExists(atPath: emojiJyutpingPath) {
-                        try? FileManager.default.removeItem(atPath: emojiJyutpingPath)
-                }
                 if FileManager.default.fileExists(atPath: dictPath) {
                         try? FileManager.default.removeItem(atPath: dictPath)
                 }
@@ -38,7 +33,6 @@ struct JyutpingGenerator {
                         try? FileManager.default.removeItem(atPath: essayPath)
                 }
                 do {
-                        try emojiJyutpingContent.write(toFile: emojiJyutpingPath, atomically: true, encoding: .utf8)
                         try dictContent.write(toFile: dictPath, atomically: true, encoding: .utf8)
                         try essayContent.write(toFile: essayPath, atomically: true, encoding: .utf8)
                 } catch {

@@ -7,6 +7,5 @@ public struct EmojiCantonese {
                 Checker.check()
                 OpenCCEmoji.generate()
                 JyutpingGenerator.generate()
-                DatabaseGenerator.generate()
         }
 }

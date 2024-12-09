@@ -25,10 +25,3 @@ extension String {
         static let tab: String = "\t"
         static let newLine: String = "\n"
 }
-
-extension String {
-
-        var symbolCodePointText: String {
-                return self.map(\.emojiCodePointText).joined(separator: ".")
-        }
-}

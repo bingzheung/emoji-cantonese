@@ -88,9 +88,3 @@ xcuserdata/
 DerivedData/
 .swiftpm/
 .netrc
-
-
-### Project files ###
-EmojiJyutping.txt
-symbol.txt
-cache.*
