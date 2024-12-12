@@ -8,10 +8,9 @@ struct OpenCCEmoji: Hashable {
         static func generate() {
                 let destinationPath: String = "output/emoji.txt"
                 let letteredInstances = processLetteredEmoji()
-                let faceEmojiInstances = processEmoji1Face()
-                let otherEmojiInstances = processOtherEmojis()
+                let emojiInstances = processEmojiFiles()
                 let extraEmojiInstances = processExtraEmoji()
-                let instances: [OpenCCEmoji] = (letteredInstances + faceEmojiInstances + otherEmojiInstances + extraEmojiInstances).uniqued()
+                let instances: [OpenCCEmoji] = (letteredInstances + emojiInstances + extraEmojiInstances).uniqued()
                 let names: [String] = instances.map(\.name).uniqued().sortedWithUnicodeCodePoint()
                 let openCCEmojiLines: [String] = names.map({ name -> String in
                         let emojis = instances.filter({ $0.name == name }).map(\.emoji)
@@ -39,35 +38,17 @@ struct OpenCCEmoji: Hashable {
                 return instances
         }
 
-        private static func processEmoji1Face() -> [OpenCCEmoji] {
+        private static func processEmojiFiles() -> [OpenCCEmoji] {
                 let currentPath: String = FileManager.default.currentDirectoryPath
                 guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
                         fatalError("Filed to fetch contents of path: \(currentPath)")
                 }
-                guard let path = contents.filter({ $0 == "emoji-1-face.txt" }).first else { fatalError("Filed to fetch content of emoji-1-face.txt") }
-                guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else { fatalError("Failed to read content of path: \(path)") }
-                let sourceLines: [String] = sourceContent
-                        .trimmingCharacters(in: .whitespacesAndNewlines)
-                        .trimmingCharacters(in: .controlCharacters)
-                        .components(separatedBy: .newlines)
-                        .filter({ !$0.isEmpty })
-                        .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
-                        .filter({ !$0.isEmpty })
-                        .uniqued()
-                let entries = sourceLines.map({ convertLine($0) }).flatMap({ $0 }).map({ $0.mappedSkin() })
-                return entries
-        }
-        private static func processOtherEmojis() -> [OpenCCEmoji] {
-                let currentPath: String = FileManager.default.currentDirectoryPath
-                guard let contents: [String] = try? FileManager.default.contentsOfDirectory(atPath: currentPath) else {
-                        fatalError("Filed to fetch contents of path: \(currentPath)")
-                }
-                let emojiPaths: [String] = contents.filter({  $0 != "emoji-1-face.txt" && $0.hasPrefix("emoji-") }).sorted()
-                let blocks = emojiPaths.map({ path -> [String] in
-                        guard let content: String = try? String(contentsOfFile: path, encoding: .utf8) else {
+                let emojiPaths: [String] = contents.filter({ $0.hasPrefix("emoji-") }).sorted()
+                let emojiBlocks = emojiPaths.map({ path -> [String] in
+                        guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else {
                                 fatalError("Failed to read content of path: \(path)")
                         }
-                        let lines: [String] = content
+                        let sourceLines: [String] = sourceContent
                                 .trimmingCharacters(in: .whitespacesAndNewlines)
                                 .trimmingCharacters(in: .controlCharacters)
                                 .components(separatedBy: .newlines)
@@ -75,11 +56,11 @@ struct OpenCCEmoji: Hashable {
                                 .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                                 .filter({ !$0.isEmpty })
                                 .uniqued()
-                        return lines
+                        return sourceLines
                 })
-                let lines: [String] = blocks.flatMap({ $0 }).uniqued()
-                let entries = lines.map({ convertLine($0) }).flatMap({ $0 })
-                return entries
+                let entryLines: [String] = emojiBlocks.flatMap({ $0 }).uniqued()
+                let instances: [OpenCCEmoji] = entryLines.map({ convertLine($0) }).flatMap({ $0 }).map({ $0.mappedSkin() })
+                return instances
         }
         private static func processExtraEmoji() -> [OpenCCEmoji] {
                 let currentPath: String = FileManager.default.currentDirectoryPath
@@ -96,7 +77,7 @@ struct OpenCCEmoji: Hashable {
                         .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
                         .filter({ !$0.isEmpty })
                         .uniqued()
-                let entries = sourceLines.map({ convertLine($0) }).flatMap({ $0 })
+                let entries: [OpenCCEmoji] = sourceLines.map({ convertLine($0) }).flatMap({ $0 })
                 return entries
         }
 }

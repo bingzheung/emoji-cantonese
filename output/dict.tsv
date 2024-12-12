@@ -504,6 +504,8 @@
 塞浦路斯	coi3 pou2 lou6 si1
 塞舌爾	coi3 sit3 ji5
 賽艇	coi3 teng5
+賽艇男	coi3 teng5 naam4
+賽艇女	coi3 teng5 neoi5
 菜椒	coi3 ziu1
 裁判	coi4 pun3
 蒼鷹	cong1 jing1
@@ -559,7 +561,11 @@
 打牌	daa2 paai4
 打撲克	daa2 pok3 hak1
 打針	daa2 zam1
+打字	daa2 zi6
 打招呼	daa2 ziu1 fu1
+打坐	daa2 zo6
+打坐男	daa2 zo6 naam4
+打坐女	daa2 zo6 neoi5
 戴口罩	daai3 hau2 zaau3
 戴帽	daai3 mou6
 戴眼鏡	daai3 ngaan5 geng2
@@ -1520,6 +1526,7 @@
 行雷	haang4 leoi4
 行雷閃電	haang4 leoi4 sim2 din6
 行星	haang4 sing1
+敲代碼	haau1 doi6 maa5
 敲鼓	haau1 gu2
 黑	hak1
 黑塊	hak1 faai3
@@ -1604,6 +1611,9 @@
 喜歡	hei2 fun1
 戲	hei3
 汽車	hei3 ce1
+戲法	hei3 faat3
+戲法男	hei3 faat3 naam4
+戲法女	hei3 faat3 neoi5
 氣憤	hei3 fan5
 戲院	hei3 jyun2
 氣球	hei3 kau4
@@ -1866,6 +1876,8 @@
 一點正	jat1 dim2 zing3
 一點鐘	jat1 dim2 zung1
 一涿屎	jat1 duk1 si2
+一家三口	jat1 gaa1 saam1 hau2
+一家四口	jat1 gaa1 sei3 hau2
 一鍵	jat1 gin6
 一個人	jat1 go3 jan4
 一人	jat1 jan4
@@ -1914,6 +1926,7 @@
 憂傷	jau1 soeng1
 憂鬱	jau1 wat1
 幼苗	jau3 miu4
+游	jau4
 魷	jau4
 油泵	jau4 bam1
 油燈	jau4 dang1
@@ -2233,6 +2246,7 @@
 茄子	ke2 zi2
 茄	ke4
 茄瓜	ke4 gwaa1
+騎行	ke4 hang4
 騎馬	ke4 maa5
 茄子	ke4 zi2
 騎行	kei4 hang4
@@ -2395,9 +2409,6 @@
 蓮	lin4
 鏈	lin4
 蓮花	lin4 faa1
-蓮花座	lin4 faa1 zo6
-蓮花座男	lin4 faa1 zo6 naam4
-蓮花座女	lin4 faa1 zo6 neoi5
 連衣裙	lin4 ji1 kwan4
 蓮蓬頭	lin4 pung4 tau4
 連乘	lin4 sing4
@@ -2587,11 +2598,13 @@
 馬來西亞	maa5 loi4 sai1 aa3
 螞蟻	maa5 ngai5
 碼農	maa5 nung4
+馬術	maa5 seot6
 馬紹爾羣島	maa5 siu6 ji5 kwan4 dou2
 馬提尼克	maa5 tai4 nei4 hak1
 馬頭	maa5 tau4
 馬桶	maa5 tung2
 馬桶吸	maa5 tung2 kap1
+碼字	maa5 zi6
 買餸	maai5 sung3
 買餸車	maai5 sung3 ce1
 擘口	maak3 hau2
@@ -2729,6 +2742,7 @@
 命令	ming6 ling6
 滅火	mit6 fo2
 滅火器	mit6 fo2 hei3
+滅火筒	mit6 fo2 tung2
 苗	miu4
 秒錶	miu5 biu1
 魔法棍	mo1 faat3 gwan3
@@ -2898,6 +2912,7 @@
 男同性戀	naam4 tung4 sing3 lyun2
 男畫家	naam4 waa2 gaa1
 男衛兵	naam4 wai6 bing1
+男衛士	naam4 wai6 si6
 男護士	naam4 wu6 si6
 男子	naam4 zi2
 男職員	naam4 zik1 jyun4
@@ -2998,6 +3013,7 @@
 女同性戀	neoi5 tung4 sing3 lyun2
 女畫家	neoi5 waa2 gaa1
 女衛兵	neoi5 wai6 bing1
+女衛士	neoi5 wai6 si6
 女護士	neoi5 wu6 si6
 女子	neoi5 zi2
 女職員	neoi5 zik1 jyun4
@@ -3160,6 +3176,7 @@
 棒棒糖	paang5 paang5 tong2
 泡	paau1
 泡泡	paau1 paau1
+跑	paau2
 跑步	paau2 bou6
 跑步男	paau2 bou6 naam4
 跑步女	paau2 bou6 neoi5
@@ -3268,6 +3285,7 @@
 三角豆餅	saam1 gok3 dau6 bing2
 三角形	saam1 gok3 jing4
 三角旗	saam1 gok3 kei4
+三口之家	saam1 hau2 zi1 gaa1
 三葉草	saam1 jip6 cou2
 三猿	saam1 jyun4
 三輪車	saam1 leon4 ce1
@@ -3475,6 +3493,7 @@
 受傷	sau6 soeng1
 壽桃	sau6 tou4
 寫	se2
+寫代碼	se2 doi6 maa5
 寫字	se2 zi6
 蛇	se4
 蛇夫座	se4 fu1 zo6
@@ -3497,6 +3516,7 @@
 四分之一	sei3 fan6 zi1 jat1
 四鍵	sei3 gin6
 四腳蛇	sei3 goek3 se4
+四口之家	sei3 hau2 zi1 gaa1
 四葉草	sei3 jip6 cou2
 四萬	sei3 maan6
 四十	sei3 sap6
@@ -3565,6 +3585,9 @@
 順時針方向	seon6 si4 zam1 fong1 hoeng3
 順時針箭頭	seon6 si4 zam1 zin3 tau4
 蟀	seot1
+摔跤	seot1 gaau1
+摔跤男	seot1 gaau1 naam4
+摔跤女	seot1 gaau1 neoi5
 摔角	seot1 gok3
 摔角男	seot1 gok3 naam4
 摔角女	seot1 gok3 neoi5
@@ -3591,6 +3614,7 @@
 試管	si3 gun2
 匙	si4
 時間	si4 gaan1
+時間	si4 gaan3
 時鐘	si4 zung1
 仕	si6
 士	si6
@@ -3643,6 +3667,7 @@
 昇調	sing1 diu6
 星島	sing1 dou2
 星架坡	sing1 gaa3 bo1
+星鍵	sing1 gin6
 昇降機	sing1 gong3 gei1
 星光	sing1 gwong1
 星光熠熠	sing1 gwong1 jap1 jap1
@@ -3739,6 +3764,7 @@
 瀡滑梯	soe4 waat6 tai1
 傷	soeng1
 箱	soeng1
+雙板滑雪	soeng1 baan2 waat6 syut3
 雙孢蘑菇	soeng1 baau1 mo4 gu1
 商標	soeng1 biu1
 相似結構	soeng1 ci5 git3 gau3
@@ -3797,6 +3823,7 @@
 相聲	soeng3 sing1
 常青樹	soeng4 cing1 syu6
 常綠喬木	soeng4 luk6 kiu4 muk6
+上	soeng5
 上檔	soeng5 dong3
 上課	soeng5 fo3
 上鎖	soeng5 so2
@@ -3853,7 +3880,9 @@
 數簿	sou3 bou2
 數簿	sou3 bou6
 掃帚	sou3 zau2
+數字	sou3 zi6
 數字鍵	sou3 zi6 gin6
+數字鍵盤	sou3 zi6 gin6 pun2
 數字輸入	sou3 zi6 syu1 jap6
 粟米	suk1 mai5
 熟睡	suk6 seoi6
@@ -3935,6 +3964,9 @@
 梯	tai1
 梯形	tai1 jing4
 睇	tai2
+體操	tai2 cou1
+體操男	tai2 cou1 naam4
+體操女	tai2 cou1 neoi5
 睇電影	tai2 din6 jing2
 睇過	tai2 gwo3
 睇下	tai2 haa5
@@ -4128,6 +4160,7 @@
 圍字框	wai4 zi6 hong1
 衛兵	wai6 bing1
 衛生間	wai6 sang1 gaan1
+衛士	wai6 si6
 彗星	wai6 sing1
 衛星	wai6 sing1
 衛星天線	wai6 sing1 tin1 sin3
@@ -4154,6 +4187,7 @@
 鬱金香	wat1 gam1 hoeng1
 鬱悶	wat1 mun6
 核突	wat6 dat6
+泳	wing6
 泳衣	wing6 ji1
 泳裝	wing6 zong1
 蝸	wo1
@@ -4252,9 +4286,6 @@
 雜技	zaap6 gei6
 雜技男	zaap6 gei6 naam4
 雜技女	zaap6 gei6 neoi5
-雜耍	zaap6 saa2
-雜耍男	zaap6 saa2 naam4
-雜耍女	zaap6 saa2 neoi5
 嘲諷	zaau1 fung3
 爪字頭	zaau2 zi6 tau4
 製表	zai3 biu2
@@ -4289,6 +4320,7 @@
 姐妹	ze2 mui6
 織蟀	zek1 seot1
 井	zeng2
+井鍵	zeng2 gin6
 井號	zeng2 hou6
 井號鍵	zeng2 hou6 gin6
 正	zeng3
@@ -4340,7 +4372,7 @@
 指左	zi2 zo2
 紙張	zi2 zoeng1
 置頂	zi3 deng2
-置頂箭頭	zi3 deng2 zin3 tau4
+置頂	zi3 ding2
 致敬	zi3 ging3
 智利	zi3 lei6
 致命	zi3 ming6
@@ -4406,6 +4438,9 @@
 正中	zing3 zung3
 正中紅心	zing3 zung3 hung4 sam1
 靜音	zing6 jam1
+靜坐	zing6 zo6
+靜坐男	zing6 zo6 naam4
+靜坐女	zing6 zo6 neoi5
 摺扇	zip3 sin3
 節字邊	zit3 zi6 bin1
 節字旁	zit3 zi6 pong4
@@ -4560,21 +4595,37 @@
 中性學生	zung1 sing3 hok6 saang1
 中性紅髮人	zung1 sing3 hung4 faat3 jan4
 中性人揞面	zung1 sing3 jan4 am2 min6
+中性人賽艇	zung1 sing3 jan4 coi3 teng5
+中性人衝浪	zung1 sing3 jan4 cung1 long6
+中性人單車	zung1 sing3 jan4 daan1 ce1
 中性人否定	zung1 sing3 jan4 fau2 ding6
+中性人舉重	zung1 sing3 jan4 geoi2 cung5
 中性人舉手	zung1 sing3 jan4 geoi2 sau2
+中性人高爾夫	zung1 sing3 jan4 gou1 ji5 fu1
 中性人鞠躬	zung1 sing3 jan4 guk1 gung1
 中性人焗桑拿	zung1 sing3 jan4 guk6 song1 naa4
 中性人跪地	zung1 sing3 jan4 gwai6 dei6
+中性人游泳	zung1 sing3 jan4 jau4 wing6
 中性人魚	zung1 sing3 jan4 jyu4
 中性人撅嘴	zung1 sing3 jan4 kyut3 zeoi2
+中性人籃球	zung1 sing3 jan4 laam4 kau4
 中性人理髮	zung1 sing3 jan4 lei5 faat3
 中性人按摩	zung1 sing3 jan4 on3 mo1
+中性人攀巖	zung1 sing3 jan4 paan1 ngaam4
 中性人跑步	zung1 sing3 jan4 paau2 bou6
+中性人山地單車	zung1 sing3 jan4 saan1 dei6 daan1 ce1
 中性人失聰	zung1 sing3 jan4 sat1 cung1
+中性人手球	zung1 sing3 jan4 sau2 kau4
+中性人守衛	zung1 sing3 jan4 sau2 wai6
+中性人水球	zung1 sing3 jan4 seoi2 kau4
+中性人摔角	zung1 sing3 jan4 seot1 gok3
 中性人同意	zung1 sing3 jan4 tung4 ji3
 中性人餵奶	zung1 sing3 jan4 wai3 naai5
 中性人站立	zung1 sing3 jan4 zaam6 lap6
+中性人雜技	zung1 sing3 jan4 zaap6 gei6
+中性人側手翻	zung1 sing3 jan4 zak1 sau2 faan1
 中性人皺眉	zung1 sing3 jan4 zau3 mei4
+中性人靜坐	zung1 sing3 jan4 zing6 zo6
 中性醫護人員	zung1 sing3 ji1 wu6 jan4 jyun4
 中性兒童	zung1 sing3 ji4 tung4
 中性燕尾服人	zung1 sing3 jin3 mei5 fuk6 jan4
