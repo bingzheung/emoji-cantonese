@@ -342,6 +342,7 @@
 橙子	caang4 zi2
 插頭	caap3 tau2
 插頭	caap3 tau4
+巢	caau4
 測體溫	cak1 tai2 wan1
 親吻	can1 man5
 親吻人	can1 man5 jan4
@@ -530,6 +531,8 @@
 操縱桿	cou1 zung3 gon1
 草	cou2
 草花頭	cou2 faa1 tau4
+草藥	cou2 joek6
+草苗	cou2 miu4
 草帽	cou2 mou6
 草莓	cou2 mui4
 草字頭	cou2 zi6 tau4
@@ -542,12 +545,13 @@
 聰明	cung1 ming4
 銃	cung3
 銃械	cung3 haai6
+松	cung4
 蟲	cung4
 重疊結構	cung4 dip6 git3 gau3
 重疊結構	cung4 dip6 git3 kau3
+松木	cung4 muk6
 松鼠	cung4 syu2
 松樹	cung4 syu6
-松樹裝飾	cung4 syu6 zong1 sik1
 處女座	cyu2 neoi5 zo6
 廚師	cyu4 si1
 全包圍	cyun4 baau1 wai4
@@ -559,6 +563,7 @@
 傳信	cyun4 seon3
 傳信箱	cyun4 seon3 soeng1
 傳真	cyun4 zan1
+傳真機	cyun4 zan1 gei1
 打邊爐	daa2 bin1 lou4
 打波	daa2 bo1
 打電話	daa2 din6 waa2
@@ -771,7 +776,6 @@
 電筒	din6 tung4
 電話	din6 waa2
 電話機	din6 waa2 gei1
-電話聽筒	din6 waa2 teng1 tung2
 電話	din6 waa6
 電話機	din6 waa6 gei1
 電子郵件	din6 zi2 jau4 gin2
@@ -988,6 +992,7 @@
 火燒	fo2 siu1
 火鍋	fo2 wo1
 火箭	fo2 zin3
+火雀	fo2 zoek3
 貨幣兌換	fo3 bai6 deoi3 wun6
 貨車	fo3 ce1
 貨運	fo3 wan6
@@ -1064,6 +1069,7 @@
 封裝	fung1 zong1
 縫衣針	fung4 ji1 zam1
 鳳梨	fung6 lei4
+鳳凰	fung6 wong4
 加	gaa1
 豭	gaa1
 加減	gaa1 gaam2
@@ -1413,6 +1419,7 @@
 觀光列車	gun1 gwong1 lit6 ce1
 罐	gun3
 冠軍	gun3 gwan1
+灌木	gun3 muk6
 罐頭	gun3 tau2
 工程師	gung1 cing4 si1
 工廠	gung1 cong2
@@ -1661,6 +1668,8 @@
 牽手	hin1 sau2
 䘆	hin2
 顯微鏡	hin2 mei4 geng3
+顯示器	hin2 si6 hei3
+顯示屏	hin2 si6 ping4
 輕軌	hing1 gwai2
 輕軌電車	hing1 gwai2 din6 ce1
 氫氣	hing1 hei3
@@ -1686,6 +1695,7 @@
 香檳	hoeng1 ban1
 香梘	hoeng1 gaan2
 香港	hoeng1 gong2
+香菇	hoeng1 gu1
 香菸	hoeng1 jin1
 香鍋	hoeng1 wo1
 香蕉	hoeng1 ziu1
@@ -1734,6 +1744,7 @@
 海關	hoi2 gwaan1
 海龜	hoi2 gwai1
 海狸	hoi2 lei4
+海螺	hoi2 lo4
 海浪	hoi2 long6
 海綿	hoi2 min4
 海豹	hoi2 paau3
@@ -1908,6 +1919,7 @@
 邑字旁	jap1 zi6 pong4
 入場券	jap6 coeng4 gyun3
 入場券	jap6 coeng4 hyun3
+入電話	jap6 din6 waa2
 入油	jap6 jau2
 一	jat1
 一百八十度	jat1 baak3 baat3 sap6 dou6
@@ -1992,7 +2004,7 @@
 猶太教	jau4 taai3 gaau3
 猶太教堂	jau4 taai3 gaau3 tong2
 猶太教堂	jau4 taai3 gaau3 tong4
-猶太燭臺	jau4 taai3 zuk1 toi4
+猶太燭檯	jau4 taai3 zuk1 toi4
 油桶	jau4 tung2
 郵筒	jau4 tung2
 游泳	jau4 wing6
@@ -2043,7 +2055,9 @@
 椰菜花	je4 coi3 faa1
 爺爺	je4 je2
 爺爺	je4 je4
+椰樹	je4 syu6
 椰子	je4 zi2
+椰子樹	je4 zi2 syu6
 野營	je5 jing4
 野牛	je5 ngau4
 野豬	je5 zyu1
@@ -2316,6 +2330,7 @@
 蠍	kit3
 蠍子	kit3 zi2
 轎車	kiu2 ce1
+喬木	kiu4 muk6
 繑絲邊	kiu5 si1 bin1
 強壯	koeng4 zong3
 蓋飯	koi3 faan6
@@ -2404,6 +2419,7 @@
 立陶宛	lap6 tou4 jyun2
 螻蛄	lau4 gu1
 流口水	lau4 hau2 seoi2
+流汗	lau4 hon6
 流汗笑	lau4 hon6 siu3
 流血	lau4 hyut3
 流淚	lau4 leoi6
@@ -2482,6 +2498,7 @@
 列印機	lit6 jan3 gei1
 列支敦士登	lit6 zi1 deon1 si6 dang1
 寮國	liu4 gwok3
+螺	lo4
 羅馬尼亞	lo4 maa5 nei4 aa3
 羅剎國	lo4 saat3 gwok3
 羅斯	lo4 si1
@@ -2920,6 +2937,7 @@
 南高麗	naam4 gou1 lai6
 男姑娘	naam4 gu1 noeng4
 男工人	naam4 gung1 jan4
+南瓜	naam4 gwaa1
 南瓜燈	naam4 gwaa1 dang1
 南瓜燈籠	naam4 gwaa1 dang1 lung4
 男孩	naam4 haai4
@@ -3175,6 +3193,7 @@
 檸檬	ning4 mung1
 擰頭	ning6 tau4
 捏	nip6
+鳥巢	niu5 caau4
 挪威	no4 wai1
 內褲	noi6 fu3
 諾福克島	nok6 fuk1 hak1 dou2
@@ -3611,6 +3630,7 @@
 水稻	seoi2 dou6
 水分子	seoi2 fan1 zi2
 水餃	seoi2 gaau2
+水狗	seoi2 gau2
 水喉	seoi2 hau4
 水球	seoi2 kau4
 水球男	seoi2 kau4 naam4
@@ -3957,6 +3977,7 @@
 書本	syu1 bun2
 書籤	syu1 cim1
 舒服	syu1 fuk6
+輸入法	syu1 jap6 faat3
 書寫	syu1 se2
 書籍	syu1 zik6
 鼠	syu2
@@ -3971,6 +3992,7 @@
 樹熊	syu6 hung4
 樹葉	syu6 jip6
 樹懶	syu6 laan5
+樹苗	syu6 miu4
 豎拇指	syu6 mou5 zi2
 樹木	syu6 muk6
 豎心	syu6 sam1
@@ -4017,6 +4039,7 @@
 攤手男	taan1 sau2 naam4
 攤手女	taan1 sau2 neoi5
 坦桑尼亞	taan2 song1 nei4 aa3
+嘆氣	taan3 hei3
 嘆號	taan3 hou2
 嘆號	taan3 hou6
 嘆號問號	taan3 hou6 man6 hou2
@@ -4053,6 +4076,7 @@
 偷瞄	tau1 miu4
 偷笑	tau1 siu3
 偷睇	tau1 tai2
+透明	tau3 ming4
 骰	tau4
 頭頂光環	tau4 deng2 gwong1 waan4
 頭都大埋	tau4 dou1 daai6 maai4
@@ -4067,7 +4091,6 @@
 投票箱	tau4 piu3 soeng1
 頭痛	tau4 tung3
 頭暈	tau4 wan4
-頭暈目眩	tau4 wan4 muk6 jyun4
 頭暈目眩	tau4 wan4 muk6 jyun6
 頭暈眼花	tau4 wan4 ngaan5 faa1
 骰仔	tau4 zai2
@@ -4109,8 +4132,10 @@
 天使寶貝	tin1 si3 bou2 bui3
 天使嬰兒	tin1 si3 jing1 ji4
 天線	tin1 sin3
+天星	tin1 sing1
 天竺	tin1 zuk1
 田雞	tin4 gai1
+田螺	tin4 lo4
 聽	ting3
 停車	ting4 ce1
 停車場	ting4 ce1 coeng4
@@ -4135,13 +4160,14 @@
 拖拉機	to1 laai1 gei1
 拖手	to1 sau2
 駝	to4
-臺球	toi2 kau4
+檯球	toi2 kau4
 臺	toi4
 颱風	toi4 fung1
 檯曆	toi4 lik6
-臺曆	toi4 lik6
+檯式電腦	toi4 sik1 din6 nou5
+檯式機	toi4 sik1 gei1
 臺灣	toi4 waan1
-臺鐘	toi4 zung1
+檯鐘	toi4 zung1
 托克勞	tok3 hak1 lou4
 湯匙	tong1 ci4
 湯加	tong1 gaa1
@@ -4184,6 +4210,7 @@
 脫離	tyut3 lei4
 屋	uk1
 屋企	uk1 kei2
+中性人聳肩	ung1 sing3 jan4 sung2 gin1
 哇	waa1
 蛙	waa1
 畫	waa2
@@ -4245,7 +4272,6 @@
 雲彩	wan4 coi2
 雲朵	wan4 do2
 雲霄飛車	wan4 siu1 fei1 ce1
-暈頭轉向	wan4 tau4 zyun2 hoeng3
 暈頭轉向	wan4 tau4 zyun3 hoeng3
 雲團	wan4 tyun4
 運動背心	wan6 dung6 bui3 sam1
@@ -4638,7 +4664,6 @@
 鍾意	zung1 ji3
 棕櫚	zung1 leoi4
 棕櫚樹	zung1 leoi4 syu6
-棕櫚	zung1 leoi5
 鐘鈴	zung1 ling4
 終身代號	zung1 san1 doi6 hou6
 棕色	zung1 sik1
@@ -4739,6 +4764,7 @@
 蛛網	zyu1 mong5
 珠算	zyu1 syun3
 豬頭	zyu1 tau4
+朱雀	zyu1 zoek3
 豬豬	zyu1 zyu1
 主題公園	zyu2 tai4 gung1 jyun2
 註冊	zyu3 caak3

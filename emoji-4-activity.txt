@@ -7,7 +7,7 @@
 1F3D0	{ 🏐 }	排球(paai4 kau4)
 1F3C9	{ 🏉 }	橄欖球(gam2 laam5 kau4)
 1F94F	{ 🥏 }	飛盤(fei1 pun4)
-1F3B1	{ 🎱 }	臺球(toi2 kau4)
+1F3B1	{ 🎱 }	檯球(toi2 kau4)
 1FA80	{ 🪀 }	溜溜球(lau6 lau6 kau4)
 1F3D3	{ 🏓 }	乒乓球(bing1 bam1 kau4; bing1 bong1 kau4; ping1 pong1 kau4), 乒乓波(bing1 bam1 bo1; bing1 bong1 bo1; ping1 pong1 bo1)
 1F3F8	{ 🏸 }	羽毛球(jyu5 mou4 kau4)

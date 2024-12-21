@@ -30,7 +30,7 @@
 1FAAF	{ 🪯 }	錫克教(sek3 hak1 gaau3)
 2721.FE0F	{ ✡️ }	大衛之星(daai6 wai6 zi1 sing1), 六角星(luk6 gok3 sing1), 六芒星(luk6 mong4 sing1), 猶太教(jau4 taai3 gaau3), 猶太(jau4 taai3)
 1F52F	{ 🔯 }	六角星(luk6 gok3 sing1), 六芒星(luk6 mong4 sing1), 猶太教(jau4 taai3 gaau3), 猶太(jau4 taai3)
-1F54E	{ 🕎 }	猶太燭臺(jau4 taai3 zuk1 toi4), 猶太教(jau4 taai3 gaau3), 猶太(jau4 taai3)
+1F54E	{ 🕎 }	猶太燭檯(jau4 taai3 zuk1 toi4), 猶太教(jau4 taai3 gaau3), 猶太(jau4 taai3)
 262F.FE0F	{ ☯️ }	陰陽(jam1 joeng4), 太極(taai3 gik6), 道教(dou6 gaau3)
 2626.FE0F	{ ☦️ }	正統十字架(zing3 tung2 sap6 zi6 gaa3), 東正教(dung1 zing3 gaau3), 正教會(zing3 gaau3 wui2), 正教會十字(zing3 gaau3 wui2 sap6 zi6)
 1F6D0	{ 🛐 }	禮拜堂(lai5 baai3 tong4)
