@@ -6,7 +6,7 @@
 1F34B.200D.1F7E9	{ 🍋‍🟩 }	青檸(cing1 ning4; ceng1 ning4), 青檸檬(cing1 ning4 mung1; ceng1 ning4 mung1)
 1F34C	{ 🍌 }	蕉(ziu1), 香蕉(hoeng1 ziu1)
 1F349	{ 🍉 }	西瓜(sai1 gwaa1)
-1F347	{ 🍇 }	提子(tai4 zi2), 葡萄(pou4 tou4)
+1F347	{ 🍇 }	葡萄(pou4 tou4), 提子(tai4 zi2), 葡提子(pou4 tai4 zi2)
 1F353	{ 🍓 }	草莓(cou2 mui4), 士多啤梨(si6 do1 be1 lei2)
 1FAD0	{ 🫐 }	藍莓(laam4 mui4), 藍草莓(laam4 cou2 mui4), 藍啤梨(laam4 be1 lei2)
 1F348	{ 🍈 }	哈密瓜(haa1 mat6 gwaa1)
