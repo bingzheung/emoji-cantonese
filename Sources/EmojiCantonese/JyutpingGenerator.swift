@@ -23,7 +23,9 @@ struct JyutpingGenerator {
                 let essayPath: String = "output/essay.txt"
                 let originalLines: [String] = readFileLines()
                 let converted = originalLines.map({ convertLine($0) })
-                let entries: [JyutpingEntry] = converted.flatMap({ $0 }).uniqued()
+                let normalEntries: [JyutpingEntry] = converted.flatMap({ $0 }).uniqued()
+                let chemicalFormulaEntries: [JyutpingEntry] = processChemicalFormula()
+                let entries: [JyutpingEntry] = normalEntries + chemicalFormulaEntries
                 let dictContent: String = entries.sorted().map(\.description).joined(separator: String.newLine) + String.newLine
                 let essayContent: String = entries.map(\.word).uniqued().sortedWithUnicodeCodePoint().joined(separator: String.newLine) + String.newLine
                 if FileManager.default.fileExists(atPath: dictPath) {
@@ -76,5 +78,39 @@ struct JyutpingGenerator {
                 })
                 let lines: [String] = blocks.flatMap({ $0 }).uniqued()
                 return lines
+        }
+
+        private static func processChemicalFormula() -> [JyutpingEntry] {
+                let path: String = "chemical-formula.txt"
+                guard let sourceContent: String = try? String(contentsOfFile: path, encoding: .utf8) else {
+                        fatalError("Failed to read content of path: \(path)")
+                }
+                let sourceLines: [String] = sourceContent
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                        .trimmingCharacters(in: .controlCharacters)
+                        .components(separatedBy: .newlines)
+                        .filter({ !$0.isEmpty })
+                        .map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        .filter({ !$0.isEmpty })
+                        .uniqued()
+                let entryBlocks = sourceLines.map({ line -> [JyutpingEntry] in
+                        let parts = line.split(separator: "\t")
+                        guard parts.count == 2 else {
+                                fatalError("Bad format: \(line)")
+                        }
+                        let namePart = parts[1]
+                        let nameBlocks = namePart.split(separator: ",").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                        let entries = nameBlocks.map({ block -> [JyutpingEntry] in
+                                let nameComponents = block.split(separator: "(")
+                                guard nameComponents.count == 2 else {
+                                        fatalError("Bad format: \(line)")
+                                }
+                                let word = nameComponents[0].trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters)
+                                let romanizations = nameComponents[1].replacingOccurrences(of: ")", with: "").split(separator: ";").map({ $0.trimmingCharacters(in: .whitespaces).trimmingCharacters(in: .controlCharacters) })
+                                return romanizations.map({ JyutpingEntry(word: word, romanization: $0) })
+                        })
+                        return entries.flatMap({ $0 })
+                })
+                return entryBlocks.flatMap({ $0 })
         }
 }

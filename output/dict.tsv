@@ -12,6 +12,8 @@
 阿拉伯薄麪包三明治	aa3 laai1 baak3 bok6 min6 baau1 saam1 ming4 zi6
 阿拉伯聯合酋長國	aa3 laai1 baak3 lyun4 hap6 jau4 zoeng2 gwok3
 阿拉丁燈神	aa3 laai1 ding1 dang1 san4
+亞硫酸	aa3 lau4 syun1
+亞硫酸鈉	aa3 lau4 syun1 naap6
 阿魯巴	aa3 lou5 baa1
 阿聯酋	aa3 lyun4 jau4
 阿媽	aa3 maa1
@@ -20,6 +22,7 @@
 亞美尼亞	aa3 mei5 nei4 aa3
 阿婆	aa3 po4
 阿嬸	aa3 sam2
+亞硝酸鈉	aa3 siu1 syun1 naap6
 亞洲	aa3 zau1
 唉	aai3
 鴨	aap3
@@ -251,6 +254,7 @@
 冰字邊	bing1 zi6 bin1
 冰字旁	bing1 zi6 pong4
 餅乾	bing2 gon1
+丙烷	bing2 jyun4
 病字頭	bing6 zi6 tau4
 別墅	bit6 seoi5
 別墅	bit6 seoi6
@@ -370,6 +374,7 @@
 七夕節	cat1 zik6 zit3
 秋	cau1
 丑角	cau2 gok3
+溴化氫	cau3 faa3 hing1
 臭鼬	cau3 jau6
 車	ce1
 車厘子	ce1 lei4 zi2
@@ -541,6 +546,8 @@
 草莓	cou2 mui4
 草芽	cou2 ngaa4
 草字頭	cou2 zi6 tau4
+醋	cou3
+醋酸	cou3 syun1
 觸角手勢	cuk1 gok3 sau2 sai3
 促織	cuk1 zik1
 沖涼	cung1 loeng4
@@ -788,6 +795,7 @@
 電子郵件	din6 zi2 jau4 gin6
 釘	ding1
 叮叮	ding1 ding1
+丁烷	ding1 jyun4
 頂	ding2
 頂你個肺	ding2 nei5 go3 fai3
 定時	ding6 si4
@@ -912,6 +920,7 @@
 法輪	faat3 leon4
 法羅羣島	faat3 lo4 kwan4 dou2
 髮廊	faat3 long4
+發射	faat3 se6
 發信	faat3 seon3
 發信箱	faat3 seon3 soeng1
 法師	faat3 si1
@@ -964,6 +973,7 @@
 飛機	fei1 gei1
 飛行	fei1 hang4
 飛行員	fei1 hang4 jyun4
+飛起	fei1 hei2
 非飲用水	fei1 jam2 jung6 seoi2
 飛鷹	fei1 jing1
 非禮勿言	fei1 lai5 mat6 jin4
@@ -1116,6 +1126,7 @@
 奸笑貓	gaan1 siu3 maau1
 梘	gaan2
 柬埔寨	gaan2 bou3 zaai6
+鹼式碳酸銅	gaan2 sik1 lau4 syun1 tung4
 間尺	gaan3 cek2
 間隔	gaan3 gaak3
 間隔號	gaan3 gaak3 hou6
@@ -1129,6 +1140,7 @@
 夾鉗	gaap3 kim4
 蛤乸	gaap3 naa2
 蛤乸	gaap3 naa5
+甲醇	gaap3 seon4
 夾鉗	gaap6 kim2
 曱甴	gaat6 zaat2
 曱甴	gaat6 zaat6
@@ -1365,6 +1377,7 @@
 蓋飯	goi3 faan6
 角	gok3
 角子	gok3 zi2
+乾冰	gon1 bing1
 乾杯	gon1 bui1
 岡比亞	gong1 bei2 aa3
 剛果	gong1 gwo2
@@ -1403,6 +1416,7 @@
 高球	gou1 kau4
 高麗	gou1 lai6
 高亮度	gou1 loeng6 dou6
+高錳酸鉀	gou1 maang5 syun1 gaap3
 高帽	gou1 mou6
 高山	gou1 saan1
 高鐵	gou1 tit3
@@ -1491,6 +1505,7 @@
 骨頭肉	gwat1 tau4 juk6
 橘子	gwat1 zi2
 果汁	gwo2 zap1
+過氧化氫	gwo3 joeng5 faa3 hing1
 過山車	gwo3 saan1 ce1
 國家公園	gwok3 gaa1 gung1 jyun2
 國家公園	gwok3 gaa1 gung1 jyun4
@@ -1686,6 +1701,17 @@
 輕軌	hing1 gwai2
 輕軌電車	hing1 gwai2 din6 ce1
 氫氣	hing1 hei3
+氫氧化亞鐵	hing1 joeng5 faa3 aa3 tit3
+氫氧化鋇	hing1 joeng5 faa3 bui3
+氫氧化鈣	hing1 joeng5 faa3 gaap3
+氫氧化鉀	hing1 joeng5 faa3 gaap3
+氫氧化鋰	hing1 joeng5 faa3 lei5
+氫氧化鋁	hing1 joeng5 faa3 leoi5
+氫氧化鎂	hing1 joeng5 faa3 mei5
+氫氧化鈉	hing1 joeng5 faa3 naap6
+氫氧化銨	hing1 joeng5 faa3 on2
+氫氧化鐵	hing1 joeng5 faa3 tit3
+氫氧化銅	hing1 joeng5 faa3 tung4
 慶典	hing3 din2
 慶祝	hing3 zuk1
 蠍	hit3
@@ -1951,7 +1977,9 @@
 一鍵	jat1 gin6
 一個人	jat1 go3 jan4
 一人	jat1 jan4
+一氧化氮	jat1 joeng5 faa3 daam6
 一氧化二氫	jat1 joeng5 faa3 ji6 hing1
+一氧化碳	jat1 joeng5 faa3 taan3
 一語中的	jat1 jyu5 zung3 dik1
 一拳	jat1 kyun4
 一萬	jat1 maan6
@@ -2127,6 +2155,13 @@
 二重積分	ji6 cung4 zik1 fan1
 二分之一	ji6 fan6 zi1 jat1
 二鍵	ji6 gin6
+二氧化氮	ji6 joeng5 faa3 daam6
+二氧化硅	ji6 joeng5 faa3 gwai1
+二氧化氫	ji6 joeng5 faa3 hing1
+二氧化硫	ji6 joeng5 faa3 lau4
+二氧化錳	ji6 joeng5 faa3 maang5
+三氧化二鐵	ji6 joeng5 faa3 saam1 tit3
+二氧化碳	ji6 joeng5 faa3 taan3
 二萬	ji6 maan6
 二十	ji6 sap6
 二十八	ji6 sap6 baat3
@@ -2155,6 +2190,7 @@
 嚴禁抌垃圾	jim4 gam3 dam2 laap6 saap3
 嚴禁吸菸	jim4 gam3 kap1 jin1
 嚴禁亂拋垃圾	jim4 gam3 lyun6 paau1 laap6 saap3
+鹽酸	jim4 syun1
 鹽樽	jim4 zeon1
 菸	jin1
 煙花	jin1 faa1
@@ -2228,6 +2264,17 @@
 揚手	joeng4 sau2
 揚聲器	joeng4 sing1 hei3
 陽上	joeng4 soeng5
+氧化亞鐵	joeng5 faa3 aa3 tit3
+氧化亞銅	joeng5 faa3 aa3 tung4
+氧化鋇	joeng5 faa3 bui3
+氧化鉀	joeng5 faa3 gaap3
+氧化鉛	joeng5 faa3 jyun4
+氧化鋁	joeng5 faa3 leoi5
+氧化鎂	joeng5 faa3 mei5
+氧化鈉	joeng5 faa3 naap6
+氧化銀	joeng5 faa3 ngan4
+氧化鐵	joeng5 faa3 tit3
+氧化銅	joeng5 faa3 tung4
 氧氣	joeng5 hei3
 肉	juk6
 玉部	juk6 bou6
@@ -2285,7 +2332,10 @@
 軟盤	jyun5 pun2
 遠小於	jyun5 siu2 jyu1
 眩暈	jyun6 wan4
+乙烷	jyut3 jyun4
+乙炔	jyut3 kyut3
 乙醇	jyut3 seon4
+乙酸	jyut3 syun1
 月	jyut6
 月餅	jyut6 beng2
 月餅	jyut6 bing2
@@ -2440,6 +2490,9 @@
 立方	lap6 fong1
 立方根	lap6 fong1 gan1
 立陶宛	lap6 tou4 jyun2
+硫化氫	lau4 faa3 hing1
+硫化鈉	lau4 faa3 hing1
+硫化銅	lau4 faa3 tung4
 螻蛄	lau4 gu1
 流口水	lau4 hau2 seoi2
 流汗	lau4 hon6
@@ -2450,6 +2503,18 @@
 留尼旺	lau4 nei4 wong6
 流星	lau4 sing1
 硫酸	lau4 syun1
+硫酸亞鐵	lau4 syun1 aa3 tit3
+硫酸鋇	lau4 syun1 bui3
+硫酸鉀	lau4 syun1 gaap3
+硫酸氫鉀	lau4 syun1 hing1 gaap3
+硫酸氫鈉	lau4 syun1 hing1 naap6
+硫酸鈣	lau4 syun1 koi3
+硫酸鋁	lau4 syun1 leoi5
+硫酸鎂	lau4 syun1 mei5
+硫酸鈉	lau4 syun1 naap6
+硫酸銨	lau4 syun1 on2
+硫酸鐵	lau4 syun1 tit3
+硫酸銅	lau4 syun1 tung4
 漏斗	lau6 dau2
 溜溜球	lau6 lau6 kau4
 梨	lei4
@@ -2487,6 +2552,10 @@
 輪椅男	leon4 ji2 naam4
 輪椅女	leon4 ji2 neoi5
 倫琴射線	leon4 kam4 se6 sin3
+磷酸	leon4 syun1
+磷酸二氫鉀	leon4 syun1 ji6 hing1 gaap3
+磷酸二氫鈉	leon4 syun1 ji6 hing1 naap6
+磷酸鈣	leon4 syun1 koi3
 輪船	leon4 syun4
 輪胎	leon4 toi1
 輪滑鞋	leon4 waat6 haai4
@@ -2600,6 +2669,19 @@
 六點半	luk6 dim2 bun3
 六點正	luk6 dim2 zing3
 六點鐘	luk6 dim2 zung1
+氯化亞鐵	luk6 faa3 aa3 tit3
+氯化鋇	luk6 faa3 bui3
+氯化鉀	luk6 faa3 gaap3
+氯化氫	luk6 faa3 hing1
+氯化鈣	luk6 faa3 koi3
+氯化鋁	luk6 faa3 leoi5
+氯化鎂	luk6 faa3 mei5
+氯化鈉	luk6 faa3 naap6
+氯化銀	luk6 faa3 ngan4
+氯化銨	luk6 faa3 on2
+氯化鋅	luk6 faa3 san1
+氯化鐵	luk6 faa3 tit3
+氯化銅	luk6 faa3 tung4
 六分之一	luk6 fan6 zi1 jat1
 六鍵	luk6 gin6
 六角星	luk6 gok3 sing1
@@ -2617,6 +2699,7 @@
 綠色書本	luk6 sik1 syu1 bun2
 六索	luk6 sok3
 綠書	luk6 syu1
+氯酸鉀	luk6 syun1 gaap3
 六筒	luk6 tung4
 錄像	luk6 zoeng6
 錄像帶	luk6 zoeng6 daai2
@@ -2851,7 +2934,9 @@
 莫桑比克	mok6 song1 bei2 hak1
 杧	mong1
 杧果	mong1 gwo2
+網	mong5
 網球	mong5 kau4
+網絡	mong5 lok3
 網字頭	mong5 zi6 tau4
 望	mong6
 望下	mong6 haa5
@@ -3128,6 +3213,7 @@
 五鍵	ng5 gin6
 五角星	ng5 gok3 sing1
 五弦琴	ng5 jin4 kam4
+五氧化二磷	ng5 joeng5 faa3 ji6 leon4
 五萬	ng5 maan6
 五十	ng5 sap6
 五星紅旗	ng5 sing1 hung4 kei4
@@ -3394,6 +3480,9 @@
 三角旗	saam1 gok3 kei4
 三口之家	saam1 hau2 zi1 gaa1
 三葉草	saam1 jip6 cou2
+三氧化二鋁	saam1 joeng5 faa3 ji6 leoi5
+三氧化硫	saam1 joeng5 faa3 lau4
+三氧化鎢	saam1 joeng5 faa3 wu1
 三猿	saam1 jyun4
 三輪車	saam1 leon4 ce1
 三萬	saam1 maan6
@@ -3411,6 +3500,7 @@
 三十四	saam1 sap6 sei3
 三索	saam1 sok3
 三筒	saam1 tung4
+三聚氰胺	saam1 zeoi6 cing4 on3
 刪	saan1
 山	saan1
 刪除	saan1 ceoi4
@@ -3630,6 +3720,7 @@
 四角星	sei3 gok3 sing1
 四口之家	sei3 hau2 zi1 gaa1
 四葉草	sei3 jip6 cou2
+四氧化三鐵	sei3 joeng5 faa3 saam1 tit3
 四萬	sei3 maan6
 四十	sei3 sap6
 四十八	sei3 sap6 baat3
@@ -3694,6 +3785,7 @@
 信息	seon3 sik1
 信箱	seon3 soeng1
 脣	seon4
+純鹼	seon4 gaan2
 順時針	seon6 si4 zam1
 順時針方向	seon6 si4 zam1 fong1 hoeng3
 順時針箭頭	seon6 si4 zam1 zin3 tau4
@@ -3839,7 +3931,19 @@
 消防	siu1 fong4
 消防車	siu1 fong4 ce1
 消防員	siu1 fong4 jyun4
+燒鹼	siu1 gaan2
 燒心	siu1 sam1
+硝酸	siu1 syun1
+硝酸鉀	siu1 syun1 gaap3
+硝酸鉛	siu1 syun1 jyun4
+硝酸鈣	siu1 syun1 koi3
+硝酸鋰	siu1 syun1 lei5
+硝酸鎂	siu1 syun1 mei5
+硝酸鈉	siu1 syun1 naap6
+硝酸銀	siu1 syun1 ngan4
+硝酸銨	siu1 syun1 on2
+硝酸鋅	siu1 syun1 san1
+硝酸銅	siu1 syun1 tung4
 小白鼠	siu2 baak6 syu2
 小丑	siu2 cau2
 小蛋糕	siu2 daan6 gou1
@@ -4081,6 +4185,13 @@
 嘆號心	taan3 hou6 sam1
 嘆問號	taan3 man6 hou2
 嘆問號	taan3 man6 hou6
+碳酸	taan3 syun1
+碳酸鉀	taan3 syun1 gaap3
+碳酸氫鈉	taan3 syun1 hing1 naap6
+碳酸氫銨	taan3 syun1 hing1 on2
+碳酸鈣	taan3 syun1 koi3
+碳酸鎂	taan3 syun1 mei5
+碳酸鈉	taan3 syun1 naap6
 塔吉克斯坦	taap3 gat1 hak1 si1 taan2
 塔可	taap3 ho2
 梯	tai1
