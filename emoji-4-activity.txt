@@ -113,7 +113,7 @@
 1FA88	{ 🪈 }	長笛(coeng4 dik6; coeng4 dek6; coeng4 dek2), 笛(dik6; dek6; dek2)
 1F3B2	{ 🎲 }	骰(tau4), 骰子(tau4 zi2), 色(sik1), 色子(sik1 zi2), 骰仔(tau4 zai2), 色仔(sik1 zai2)
 265F	{ ♟ }	國際象棋(gwok3 zai3 zoeng6 kei2; gwok3 zai3 zoeng6 kei4)
-1F3AF	{ 🎯 }	中靶(zung3 baa2), 靶(baa2), 標靶(biu1 baa2), 中的(zung3 dik1), 一語中的(jat1 jyu5 zung3 dik1), 正中紅心(zing3 zung3 hung4 sam1), 正中(zing3 zung3), 中(zung3), 中肯(zung3 hang2)
+1F3AF	{ 🎯 }	中靶(zung3 baa2), 靶(baa2), 標靶(biu1 baa2), 中的(zung3 dik1), 一語中的(jat1 jyu5 zung3 dik1), 正中紅心(zing3 zung3 hung4 sam1), 正中(zing3 zung3), 中(zung3), 中肯(zung3 hang2), 正正係(zing3 zing3 hai6)
 1F3B3	{ 🎳 }	保齡球(bou2 ling4 kau4)
 1F3AE	{ 🎮 }	遊戲手柄(jau4 hei3 sau2 beng3)
 1F3B0	{ 🎰 }	老虎機(lou5 fu2 gei1)

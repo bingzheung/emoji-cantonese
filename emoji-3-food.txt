@@ -42,7 +42,7 @@
 1F95A	{ 🥚 }	雞蛋(gai1 daan6; gai1 daan2), 雞膥(gai1 ceon1), 蛋(daan6; daan2), 膥(ceon1)
 1F373	{ 🍳 }	煎蛋(zin1 daan6; zin1 daan2), 煎雞蛋(zin1 gai1 daan6; zin1 gai1 daan2), 煎雞膥(zin1 gai1 ceon1)
 1F9C8	{ 🧈 }	牛油(ngau4 jau4), 黃油(wong4 jau4), 奶油(naai5 jau4)
-1F95E	{ 🥞 }	煎餅(zin1 beng2), 薄餅(bok6 beng2), 蛋餅(daan6 beng2; daan2 beng2), 鬆餅(sung1 beng2), 餅(beng2), 米餅(mai5 beng2)
+1F95E	{ 🥞 }	煎餅(zin1 beng2), 薄餅(bok6 beng2), 蛋餅(daan6 beng2; daan2 beng2), 鬆餅(sung1 beng2), 熱香餅(jit6 hoeng1 beng2), 班戟(baan1 gik1; baan1 kik1), 餅(beng2), 米餅(mai5 beng2)
 1F9C7	{ 🧇 }	華夫餅(waa4 fu1 beng2), 華夫(waa4 fu1), 格仔餅(gaak3 zai2 beng2)
 1F953	{ 🥓 }	培根(pui4 gan1), 煙肉(jin1 juk6)
 1F969	{ 🥩 }	牛扒(ngau4 paa2), 牛排(ngau4 paai4), 牛肉(ngau4 juk6), 肉(juk6)

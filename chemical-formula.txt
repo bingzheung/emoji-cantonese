@@ -18,6 +18,7 @@
 { C₃H₆N₆ }	三聚氰胺(saam1 zeoi6 cing4 on3)
 { C₁₂H₁₅N }	甲基苯丙胺(gaap3 gei1 bun2 bing2 on3), 甲基安非他命(gaap3 gei1 on1 fei1 taa1 ming6), 冰毒(bing1 duk6)
 { C₁₂H₂₂O₁₄Zn }	葡萄糖酸鋅(pou4 tou4 tong4 syun1 san1)
+{ C₅H₈NO₄Na }	穀氨酸鈉(guk1 on1 syun1 naap6), 味精(mei6 zing1), 師傅(si1 fu2)
 { H₂SO₃ }	亞硫酸(aa3 lau4 syun1)
 { NaSO₃ }	亞硫酸鈉(aa3 lau4 syun1 naap6)
 { CuSO₄ }	硫酸銅(lau4 syun1 tung4)
