@@ -422,6 +422,7 @@
 齒	ci2
 齒輪	ci2 leon4
 翅	ci3
+翅膀	ci3 bong2
 廁所	ci3 so2
 刺蝟	ci3 wai6
 匙羹	ci4 gang1
@@ -626,6 +627,7 @@
 大於等於	daai6 jyu1 dang2 jyu1
 大於或等於	daai6 jyu1 waak6 dang2 jyu1
 大雨	daai6 jyu5
+大橋	daai6 kiu4
 大馬	daai6 maa5
 大拇指	daai6 mou5 zi2
 大霧	daai6 mou6
@@ -881,6 +883,7 @@
 花束	faa1 cuk1
 花朵	faa1 do2
 花朵	faa1 doe2
+花火	faa1 fo2
 花椰菜	faa1 je4 coi3
 花旗	faa1 kei4
 花旗國	faa1 kei4 gwok3
@@ -1198,6 +1201,8 @@
 金剛石	gam1 gong1 sek6
 金龜子	gam1 gwai1 zi2
 柑橘	gam1 gwat1
+金門大橋	gam1 mun4 daai6 kiu4
+金門橋	gam1 mun4 kiu4
 金牛座	gam1 ngau4 zo6
 金牌	gam1 paai4
 柑子	gam1 zi2
@@ -1382,6 +1387,7 @@
 殭屍女	goeng1 si1 neoi5
 蓋飯	goi3 faan6
 角	gok3
+角仔	gok3 zai2
 角子	gok3 zi2
 乾冰	gon1 bing1
 乾杯	gon1 bui1
@@ -1431,9 +1437,11 @@
 鎬	gou2
 菇	gu1
 姑娘	gu1 noeng4
+牯	gu2
 鼓	gu2
 古巴	gu2 baa1
 古典建築	gu2 din2 gin3 zuk1
+牯牛	gu2 ngau4
 鼓掌	gu2 zoeng2
 攰	gui6
 癐	gui6
@@ -2017,8 +2025,10 @@
 日語此處	jat6 jyu5 ci2 cyu3
 日元	jat6 jyun4
 日曆	jat6 lik6
+日落	jat6 lok6
 日文此處	jat6 man2 ci2 cyu3
 日文此處	jat6 man4 ci2 cyu3
+日暮	jat6 mou6
 日式便當	jat6 sik1 bin6 dong3
 日式建築	jat6 sik1 gin3 zuk1
 日式郵局	jat6 sik1 jau4 guk2
@@ -2040,6 +2050,7 @@
 油橄欖	jau4 gam2 laam5
 郵件	jau4 gin2
 郵件	jau4 gin6
+油角	jau4 gok3
 郵局	jau4 guk2
 郵局	jau4 guk6
 遊戲牌	jau4 hei3 paai4
@@ -2410,6 +2421,7 @@
 蠍	kit3
 蠍子	kit3 zi2
 轎車	kiu2 ce1
+橋	kiu4
 喬木	kiu4 muk6
 繑絲邊	kiu5 si1 bin1
 強有力	koeng4 jau5 lik6
@@ -2633,6 +2645,7 @@
 駱駝	lok3 to4
 落大雨	lok6 daai6 jyu5
 落大水	lok6 daai6 seoi2
+落日	lok6 jat6
 落葉	lok6 jip6
 落雨	lok6 jyu5
 落水	lok6 seoi2
@@ -2795,6 +2808,7 @@
 買餸車	maai5 sung3 ce1
 擘口	maak3 hau2
 擘嘴	maak3 zeoi2
+晚黑	maan5 hak1
 萬分號	maan6 fan6 hou6
 萬聖節	maan6 sing3 zit3
 萬字夾	maan6 zi6 gaap3
@@ -2961,6 +2975,7 @@
 望遠鏡	mong6 jyun5 geng3
 望月	mong6 jyut6
 望望	mong6 mong6
+毛	mou4
 無	mou4
 無版權	mou4 baan2 kyun4
 毛蟲	mou4 cung4
@@ -3291,6 +3306,7 @@
 牛	ngau4
 牛角包	ngau4 gok3 baau1
 牛角麪包	ngau4 gok3 min6 baau1
+牛牯	ngau4 gu2
 牛油	ngau4 jau4
 牛油果	ngau4 jau4 gwo2
 牛肉	ngau4 juk6
@@ -3441,6 +3457,7 @@
 婆婆	po4 po2
 撲克	pok3 hak1
 螃蟹	pong4 haai5
+傍晚	pong4 maan5
 譜	pou2
 葡	pou4
 蒲隆地	pou4 lung4 dei6
@@ -3585,6 +3602,7 @@
 細𡀔仔	sai3 lou6 zai2
 細呅	sai3 man1
 細呅仔	sai3 man1 zai2
+細儂	sai3 nung4
 細細聲	sai3 sai3 seng1
 細聲	sai3 seng1
 細聲啲	sai3 seng1 di1
@@ -3668,7 +3686,6 @@
 實數	sat6 sou3
 收據	sau1 geoi3
 收件箱	sau1 gin6 soeng1
-蘇蝦	sau1 haa1
 收音機	sau1 jam1 gei1
 修理工	sau1 lei5 gung1
 修路	sau1 lou6
@@ -4119,6 +4136,7 @@
 桑拿	song1 naa4
 蘇丹	sou1 daan1
 蘇格蘭	sou1 gaak3 laan4
+蘇蝦	sou1 haa1
 蘇里南	sou1 lei5 naam4
 鬚刨	sou1 paau2
 掃把	sou3 baa2
@@ -4532,6 +4550,7 @@
 回旋鏢	wui4 syun4 biu1
 匯率	wui6 leot2
 碗	wun2
+豌	wun2
 豌豆	wun2 dau2
 豌豆莢	wun2 dau2 gaap3
 豌豆	wun2 dau6
@@ -4546,6 +4565,7 @@
 炸	zaa3
 炸彈	zaa3 daan2
 乍得	zaa3 dak1
+炸角	zaa3 gok3
 炸蝦	zaa3 haa1
 炸薯條	zaa3 syu4 tiu2
 炸薯條	zaa3 syu4 tiu4
@@ -4678,6 +4698,7 @@
 煎餅	zin1 beng2
 煎蛋	zin1 daan2
 煎蛋	zin1 daan6
+煎餃	zin1 gaau2
 煎雞膥	zin1 gai1 ceon1
 煎雞蛋	zin1 gai1 daan2
 煎雞蛋	zin1 gai1 daan6

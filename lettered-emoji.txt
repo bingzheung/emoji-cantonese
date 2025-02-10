@@ -2,6 +2,7 @@
 1F3E7	{ 🏧 }	ATM
 1F170.FE0F	{ 🅰️ }	A型, A型血
 1F171.FE0F	{ 🅱️ }	B型, B型血
+1F476.1F3FB	{ 👶🏻 }	bb, baby
 1F9EC	{ 🧬 }	DNA
 1F194	{ 🆔 }	ID
 1FAAA	{ 🪪 }	ID

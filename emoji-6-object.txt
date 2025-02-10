@@ -75,7 +75,7 @@
 1F9F2	{ 🧲 }	攝石(sip3 sek6), 磁鐵(ci4 tit3), 磁石(ci4 sek6)
 1F52B	{ 🔫 }	槍(coeng1), 手槍(sau2 coeng1), 槍械(coeng1 haai6), 銃(cung3), 手銃(sau2 cung3), 銃械(cung3 haai6), 開槍(hoi1 coeng1), 武器(mou5 hei3), 水槍(seoi2 coeng1)
 1F4A3	{ 💣 }	炸彈(zaa3 daan2)
-1F9E8	{ 🧨 }	爆竹(baau3 zuk1), 炮仗(paau3 zoeng2), 鞭炮(bin1 paau3)
+1F9E8	{ 🧨 }	爆竹(baau3 zuk1), 炮仗(paau3 zoeng2), 鞭炮(bin1 paau3), 炮(paau3)
 1FA93	{ 🪓 }	斧(fu2), 斧頭(fu2 tau4; fu2 tau2)
 1F52A	{ 🔪 }	刀(dou1), 菜刀(coi3 dou1)
 1F5E1	{ 🗡 }	劍(gim3)
