@@ -86,7 +86,7 @@
 1F998	{ 🦘 }	袋鼠(doi6 syu2)
 1F9AC	{ 🦬 }	野牛(je5 ngau4)
 1F403	{ 🐃 }	水牛(seoi2 ngau4), 牛(ngau4)
-1F402	{ 🐂 }	公牛(gung1 ngau4), 牯牛(gu2 ngau4), 牛牯(ngau4 gu2), 牯(gu2), 牛(ngau4)
+1F402	{ 🐂 }	閹牛(jim1 ngau4), 公牛(gung1 ngau4), 牯牛(gu2 ngau4), 牛牯(ngau4 gu2), 牯(gu2), 牛(ngau4)
 1F404	{ 🐄 }	奶牛(naai5 ngau4), 牛(ngau4)
 1FACF	{ 🫏 }	驢(leoi4; lou4), 驢仔(leoi4 zai2; lou4 zai2)
 1F40E	{ 🐎 }	馬(maa5), 奔馬(ban1 maa5), 跑馬(paau2 maa5)
