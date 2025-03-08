@@ -170,10 +170,12 @@
 繃帶	bang1 daai3
 筆	bat1
 不丹	bat1 daan1
+不等	bat1 dang2
 不等號	bat1 dang2 hou6
 不等於	bat1 dang2 jyu1
 不等如	bat1 dang2 jyu4
 不解	bat1 gaai2
+筆記	bat1 gei3
 筆記簿	bat1 gei3 bou2
 筆記簿	bat1 gei3 bou6
 筆記本	bat1 gei3 bun2
@@ -546,6 +548,17 @@
 草	cou2
 草花頭	cou2 faa1 tau4
 草藥	cou2 joek6
+草碼八	cou2 maa5 baat3
+草碼七	cou2 maa5 cat1
+草碼九	cou2 maa5 gau2
+草碼一	cou2 maa5 jat1
+草碼二	cou2 maa5 ji6
+草碼零	cou2 maa5 ling4
+草碼六	cou2 maa5 luk6
+草碼五	cou2 maa5 ng5
+草碼三	cou2 maa5 saam1
+草碼十	cou2 maa5 sap6
+草碼四	cou2 maa5 sei3
 草苗	cou2 miu4
 草帽	cou2 mou6
 草莓	cou2 mui4
@@ -724,6 +737,7 @@
 登山靴	dang1 saan1 hoe1
 燈神	dang1 san4
 登字頭	dang1 zi6 tau4
+等	dang2
 等號	dang2 hou6
 等於	dang2 jyu1
 等如	dang2 jyu4
@@ -886,6 +900,17 @@
 花椰菜	faa1 je4 coi3
 花旗	faa1 kei4
 花旗國	faa1 kei4 gwok3
+花碼八	faa1 maa5 baat3
+花碼七	faa1 maa5 cat1
+花碼九	faa1 maa5 gau2
+花碼一	faa1 maa5 jat1
+花碼二	faa1 maa5 ji6
+花碼零	faa1 maa5 ling4
+花碼六	faa1 maa5 luk6
+花碼五	faa1 maa5 ng5
+花碼三	faa1 maa5 saam1
+花碼十	faa1 maa5 sap6
+花碼四	faa1 maa5 sei3
 花灑	faa1 saa2
 花生	faa1 sang1
 花紙牌	faa1 zi2 paai4
@@ -956,6 +981,8 @@
 粉紅色愛心	fan2 hung4 sik1 oi3 sam1
 粉心	fan2 sam1
 粉色愛心	fan2 sik1 oi3 sam1
+睏	fan3
+瞓	fan3
 睏覺	fan3 gaau3
 瞓覺	fan3 gaau3
 墳	fan4
@@ -1166,6 +1193,7 @@
 膠桶	gaau1 tung2
 餃	gaau2
 餃子	gaau2 zi2
+覺	gaau3
 校暗	gaau3 am3
 較淺膚色	gaau3 cin2 fu1 sik1
 教學	gaau3 hok6
@@ -1641,6 +1669,7 @@
 坎卦	ham2 gwaa3
 含淚	ham4 leoi6
 懇求	han2 kau4
+睏	han3
 睏覺	han3 gaau3
 肯亞	hang2 aa3
 肯定	hang2 ding6
@@ -1837,6 +1866,7 @@
 好冷	hou2 laang5
 好辣	hou2 laat6
 好叻	hou2 lek1
+好美味	hou2 mei5 mei6
 好味	hou2 mei6
 好嬲	hou2 nau1
 好惱	hou2 nau1
@@ -1979,6 +2009,7 @@
 入電話	jap6 din6 waa2
 入油	jap6 jau2
 一	jat1
+一百	jat1 baak3
 一百八十度	jat1 baak3 baat3 sap6 dou6
 一百分	jat1 baak3 fan1
 一次方	jat1 ci3 fong1
@@ -2158,7 +2189,6 @@
 兒童不宜	ji4 tung4 bat1 ji4
 疑惑	ji4 waak6
 耳	ji5
-除	ji5
 耳朵	ji5 do2
 耳朵	ji5 doe2
 耳機	ji5 gei1
@@ -2269,6 +2299,7 @@
 搖頭	jiu4 tau4
 鷂	jiu6
 約旦	joek3 daan3
+約等	joek3 dang2
 約等號	joek3 dang2 hou6
 約等於	joek3 dang2 jyu1
 約等如	joek3 dang2 jyu4
@@ -2450,6 +2481,7 @@
 坤	kwan1
 坤卦	kwan1 gwaa3
 菌	kwan2
+睏	kwan3
 睏覺	kwan3 gaau3
 困擾	kwan3 jiu5
 裙	kwan4
@@ -2910,6 +2942,7 @@
 美元	mei5 jyun4
 美利堅	mei5 lei6 gin1
 美利堅合衆國	mei5 lei6 gin1 hap6 zung3 gwok3
+美味	mei5 mei6
 美女	mei5 neoi5
 美式橄欖球	mei5 sik1 gam2 laam5 kau4
 美屬處女羣島	mei5 suk6 cyu2 neoi5 kwan4 dou2
@@ -3270,12 +3303,17 @@
 啱晒	ngaam1 saai3
 岩石	ngaam4 sek6
 眼	ngaan5
+眼睏	ngaan5 fan3
+眼瞓	ngaan5 fan3
 眼放電	ngaan5 fong3 din6
 眼鏡	ngaan5 geng2
 眼鏡	ngaan5 geng3
+眼睏	ngaan5 han3
+眼睏	ngaan5 kwan3
 眼淚	ngaan5 leoi6
 眼望望	ngaan5 mong6 mong6
 眼溼溼	ngaan5 sap1 sap1
+眼睡	ngaan5 seoi6
 眼睛	ngaan5 zing1
 硬幣	ngaang6 bai6
 咬脣	ngaau5 seon4
@@ -3809,6 +3847,7 @@
 水晶球	seoi2 zing1 kau4
 帥	seoi3
 垂釣	seoi4 diu3
+睡	seoi6
 瑞典	seoi6 din2
 睡覺	seoi6 gaau3
 瑞士	seoi6 si6
@@ -3998,6 +4037,7 @@
 小黑子	siu2 hak1 zi2
 小孩	siu2 hoi4
 小號	siu2 hou6
+小紅書	siu2 hung4 syu1
 少兒不宜	siu2 ji4 bat1 ji4
 小型飛機	siu2 jing4 fei1 gei1
 小於等於	siu2 jyu1 dang2 jyu1
@@ -4143,6 +4183,17 @@
 蘇蝦	sou1 haa1
 蘇里南	sou1 lei5 naam4
 鬚刨	sou1 paau2
+蘇州碼八	sou1 zau1 maa5 baat3
+蘇州碼七	sou1 zau1 maa5 cat1
+蘇州碼九	sou1 zau1 maa5 gau2
+蘇州碼一	sou1 zau1 maa5 jat1
+蘇州碼二	sou1 zau1 maa5 ji6
+蘇州碼零	sou1 zau1 maa5 ling4
+蘇州碼六	sou1 zau1 maa5 luk6
+蘇州碼五	sou1 zau1 maa5 ng5
+蘇州碼三	sou1 zau1 maa5 saam1
+蘇州碼十	sou1 zau1 maa5 sap6
+蘇州碼四	sou1 zau1 maa5 sei3
 掃把	sou3 baa2
 數簿	sou3 bou2
 數簿	sou3 bou6
@@ -4255,6 +4306,7 @@
 體育場	tai2 juk6 coeng4
 體育館	tai2 juk6 gun2
 睇睇	tai2 tai2
+體溫計	tai2 wai6 gai3
 剃鬚	tai3 sou1
 剃鬚刀	tai3 sou1 dou1
 剃鬚刨	tai3 sou1 paau4
@@ -4831,6 +4883,7 @@
 賬簿	zoeng3 bou2
 賬簿	zoeng3 bou6
 賬本	zoeng3 bun2
+賬冊	zoeng3 caak3
 帳號	zoeng3 hou6
 帳篷	zoeng3 pung4
 帳戶	zoeng3 wu6
