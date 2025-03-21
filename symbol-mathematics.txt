@@ -29,8 +29,4 @@ B1	{ ± }	加減(gaa1 gaam2), 加減號(gaa1 gaam2 hou6), 正負(zing3 fu6), 正
 211A	{ ℚ }	有理數(jau5 lei5 sou3)
 211D	{ ℝ }	實數(sat6 sou3)
 2102	{ ℂ }	複數(fuk1 sou3)
-61.B2.20.2B.20.62.B2.20.3D.20.63.B2	{ a² + b² = c² }	勾股定理(ngau1 gu2 ding6 lei5), 畢氏定理(bat1 si6 ding6 lei5)
 B0	{ ° }	度(dou6)
-33.36.30.B0	{ 360° }	三百六十度(saam1 baak3 luk6 sap6 dou6)
-31.38.30.B0	{ 180° }	一百八十度(jat1 baak3 baat3 sap6 dou6)
-39.30.B0	{ 90° }	九十度(gau2 sap6 dou6), 直角(zik6 gok3)

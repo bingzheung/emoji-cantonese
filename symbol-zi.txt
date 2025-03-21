@@ -47,3 +47,4 @@
 337C	{ ㍼ }	昭和(ciu1 wo4), 日本年號(jat6 bun2 nin4 hou6)
 337D	{ ㍽ }	大正(daai6 zing3), 日本年號(jat6 bun2 nin4 hou6)
 337E	{ ㍾ }	明治(ming4 zi6), 日本年號(jat6 bun2 nin4 hou6)
+337F	{ ㍿ }	株式會社(zyu1 sik1 wui6 se5)
