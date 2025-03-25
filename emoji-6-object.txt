@@ -65,6 +65,7 @@
 2692	{ ⚒ }	錘(ceoi4), 鐵錘(tit3 ceoi4)
 1F6E0	{ 🛠 }	架撐(gaa3 caang1), 架生(gaa3 saang1)
 26CF	{ ⛏ }	鎬(gou2), 鐵鎬(tit3 gou2)
+1FA8F	{ 🪏 }	鏟(caan2), 鐵鏟(tit3 caan2), 沙鏟(saa1 caan2), 泥鏟(nai4 caan2), 剷(caan2), 剷除(caan2 ceoi4), 剷晒(caan2 saai3)
 1FA9A	{ 🪚 }	手鋸(sau2 geoi3), 鋸(geoi3)
 1F529	{ 🔩 }	螺絲(lo4 si1)
 2699.FE0F	{ ⚙️ }	齒輪(ci2 leon4)
