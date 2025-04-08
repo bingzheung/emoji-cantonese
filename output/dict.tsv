@@ -226,6 +226,7 @@
 餅乾	beng2 gon1
 病菌	beng6 kwan2
 病字邊	beng6 zi6 bin1
+病字頭	beng6 zi6 tau4
 蝙	bin1
 蝙蝠	bin1 fuk1
 邊爐	bin1 lou4
@@ -259,7 +260,6 @@
 冰字邊	bing1 zi6 bin1
 冰字旁	bing1 zi6 pong4
 丙烷	bing2 jyun4
-病字頭	bing6 zi6 tau4
 別墅	bit6 seoi5
 別墅	bit6 seoi6
 別針	bit6 zam1
@@ -309,7 +309,6 @@
 捧	bung2
 叉	caa1
 叉號	caa1 hou6
-叉網	caa1 mong5
 叉乘	caa1 sing4
 叉燒	caa1 siu1
 叉燒包	caa1 siu1 baau1
@@ -423,6 +422,7 @@
 膥	ceon1
 循環	ceon4 waan4
 出醜	ceot1 cau2
+出糗	ceot1 cau3
 出租車	ceot1 zou1 ce1
 豕	ci2
 齒	ci2
@@ -760,6 +760,8 @@
 地瓜	dei6 gwaa1
 地球	dei6 kau4
 地龍	dei6 lung4
+地鼠	dei6 syu2
+地鼠頭	dei6 syu2 tau4
 地鐵	dei6 tit3
 地鐵符號	dei6 tit3 fu4 hou6
 地鐵列車	dei6 tit3 lit6 ce1
@@ -862,6 +864,7 @@
 刀	dou1
 刀叉	dou1 caa1
 刀字邊	dou1 zi6 bin1
+刀字旁	dou1 zi6 pong4
 島	dou2
 倒瀉	dou2 se2
 倒水	dou2 seoi2
@@ -1080,7 +1083,9 @@
 骷髏旗	fu1 lau4 kei4
 骷髏頭	fu1 lou4 tau4
 骷髏頭骨	fu1 lou4 tau4 gwat1
+枯木	fu1 muk6
 膚色	fu1 sik1
+枯樹	fu1 syu6
 枯萎	fu1 wai2
 斧	fu2
 虎	fu2
@@ -1865,6 +1870,7 @@
 好	hou2
 好抵力	hou2 dai2 lik6
 好凍	hou2 dung3
+好勁	hou2 ging6
 好攰	hou2 gui6
 好癐	hou2 gui6
 好開心	hou2 hoi1 sam1
@@ -1874,6 +1880,7 @@
 好喫	hou2 jaak3
 好嘢	hou2 je5
 好熱	hou2 jit6
+好掯	hou2 kang3
 好冷	hou2 laang5
 好辣	hou2 laat6
 好叻	hou2 lek1
@@ -1895,6 +1902,7 @@
 空	hung1
 空白	hung1 baak6
 空罐	hung1 gun3
+箜篌	hung1 hau4
 匈牙利	hung1 ngaa4 lei6
 空瓶	hung1 ping4
 空集	hung1 zaap6
@@ -1948,6 +1956,8 @@
 圈餅	hyun1 beng2
 䘆	hyun2
 犬	hyun2
+犬字邊	hyun2 zi6 bin1
+犬字旁	hyun2 zi6 pong4
 血滴	hyut3 dik1
 血液型號	hyut3 jik6 jing4 hou6
 血型	hyut3 jing4
@@ -2424,6 +2434,7 @@
 蠄蟧網	kam4 lou2 mong5
 蠄蟧	kam4 lou4
 蠄蟧網	kam4 lou4 mong5
+掯	kang3
 吸管	kap1 gun2
 吸血鬼	kap1 hyut3 gwai2
 吸菸	kap1 jin1
@@ -2856,6 +2867,7 @@
 買餸車	maai5 sung3 ce1
 擘口	maak3 hau2
 擘嘴	maak3 zeoi2
+蔓菁	maan4 zing1
 晚黑	maan5 hak1
 萬分號	maan6 fan6 hou6
 萬聖節	maan6 sing3 zit3
@@ -3045,6 +3057,7 @@
 毛線團	mou4 sin3 tyun4
 無話可說	mou4 waa6 ho2 syut3
 模糊	mou4 wu4
+蕪菁	mou4 zing1
 冇錯	mou5 co3
 冇電	mou5 din6
 舞蹈	mou5 dou6
@@ -3314,6 +3327,8 @@
 瓦肯舉手禮	ngaa5 hang2 geoi2 sau2 lai5
 瓦利斯及富圖納羣島	ngaa5 lei6 si1 kap6 fu3 tou4 naap6 kwan4 dou2
 瓦努阿圖	ngaa5 nou5 aa3 tou4
+捱夜	ngaai4 je2
+捱夜	ngaai4 je6
 𧦠人	ngaak1 jan4
 啱	ngaam1
 啱晒	ngaam1 saai3
@@ -3527,6 +3542,7 @@
 葡萄糖酸鋅	pou4 tou4 tong4 syun1 san1
 葡萄酒	pou4 tou4 zau2
 泡	pou5
+抱抱	pou5 pou5
 泡泡	pou5 pou5
 培根	pui4 gan1
 培養皿	pui4 joeng5 ming5
@@ -3748,6 +3764,7 @@
 實驗服	sat6 jim6 fuk6
 實驗袍	sat6 jim6 pou4
 實數	sat6 sou3
+羞家	sau1 gaa1
 收據	sau1 geoi3
 收件箱	sau1 gin6 soeng1
 收音機	sau1 jam1 gei1
@@ -4253,6 +4270,7 @@
 薯仔	syu4 zai2
 樹	syu6
 樹袋熊	syu6 doi6 hung4
+樹幹	syu6 gon3
 樹熊	syu6 hung4
 樹葉	syu6 jip6
 豎琴	syu6 kam4
@@ -4386,8 +4404,6 @@
 聽筒	teng1 tung2
 艇	teng5
 推出	teoi1 ceot1
-推特	teoi1 dak6
-推特網	teoi1 dak6 mong5
 腿	teoi2
 退格	teoi3 gaak3
 盾	teon5
@@ -4483,6 +4499,7 @@
 圖瓦盧	tou4 ngaa5 lou4
 圖書	tou4 syu1
 桃子	tou4 zi2
+通宵	tung1 siu1
 桶	tung2
 統計	tung2 gai3
 痛苦	tung3 fu2

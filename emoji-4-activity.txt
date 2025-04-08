@@ -111,7 +111,7 @@
 1F3B8	{ 🎸 }	結他(git3 taa1), 吉他(gat1 taa1)
 1FA95	{ 🪕 }	五弦琴(ng5 jin4 kam4)
 1F3BB	{ 🎻 }	小提琴(siu2 tai4 kam4), 提琴(tai4 kam4)
-1FA89	{ 🪉 }	豎琴(syu6 kam4), 琴(kam4)
+1FA89	{ 🪉 }	豎琴(syu6 kam4), 琴(kam4), 箜篌(hung1 hau4)
 1FA88	{ 🪈 }	長笛(coeng4 dik6; coeng4 dek6; coeng4 dek2), 笛(dik6; dek6; dek2)
 1F3B2	{ 🎲 }	骰(tau4), 骰子(tau4 zi2), 色(sik1), 色子(sik1 zi2), 骰仔(tau4 zai2), 色仔(sik1 zai2)
 265F	{ ♟ }	國際象棋(gwok3 zai3 zoeng6 kei2; gwok3 zai3 zoeng6 kei4)

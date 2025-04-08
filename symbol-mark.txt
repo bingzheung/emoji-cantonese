@@ -1,6 +1,4 @@
 F8FF	{  }	蘋果(ping4 gwo2)
-EA00	{  }	推特(teoi1 dak6), 推特網(teoi1 dak6 mong5)
-1D54F	{ 𝕏 }	叉網(caa1 mong5)
 2742	{ ❂ }	青天白日(cing1 tin1 baak6 jat6)
 2122	{ ™ }	商標(soeng1 biu1)
 2120	{ ℠ }	服務商標(fuk6 mou6 soeng1 biu1)
