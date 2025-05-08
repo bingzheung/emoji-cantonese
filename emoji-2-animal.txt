@@ -47,7 +47,7 @@
 1FAB2	{ 🪲 }	甲蟲(gaap3 cung4), 甲殼蟲(gaap3 hok3 cung4), 金龜子(gam1 gwai1 zi2)
 1FAB3	{ 🪳 }	曱甴(gaat6 zaat6; gaat6 zaat2), 蟑螂(zoeng1 long4), 蟑(zoeng1)
 1F99F	{ 🦟 }	蚊(man1; man4), 蚊蟲(man1 cung4; man4 cung4), 蚊子(man1 zi2; man4 zi2)
-1F997	{ 🦗 }	蟋蟀(sik1 seot1), 蟀(seot1), 促織(cuk1 zik1), 織蟀(zik1 seot1; zek1 seot1), 螻蛄(lau4 gu1), 土狗(tou2 gau2), 蛐蛐(kuk1 kuk1)
+1F997	{ 🦗 }	蟋蟀(sik1 seot1), 蟀(seot1), 促織(cuk1 zik1), 織蟀(zik1 seot1; zek1 seot1), 螻蛄(lau4 gu1), 土狗(tou2 gau2), 蛐蛐(kuk1 kuk1), 蟈蟈(gwok3 gwok3)
 1F577.FE0F	{ 🕷️ }	蠄蟧(kam4 lou4; kam4 lou2), 蜘蛛(zi1 zyu1), 蛛(zyu1)
 1F578.FE0F	{ 🕸️ }	蠄蟧網(kam4 lou4 mong5; kam4 lou2 mong5), 蜘蛛網(zi1 zyu1 mong5), 蛛網(zyu1 mong5), 網(mong5), 網絡(mong5 lok3)
 1F982	{ 🦂 }	蠍子(hit3 zi2; kit3 zi2), 蠍(hit3; kit3)

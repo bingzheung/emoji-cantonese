@@ -72,7 +72,7 @@
 1FAE1	{ 🫡 }	敬禮(ging3 lai5), 致敬(zi3 ging3), 忠誠(zung1 sing4)
 1F92B	{ 🤫 }	噓(syu4; heoi1), 細聲(sai3 seng1), 細細聲(sai3 sai3 seng1), 細聲啲(sai3 seng1 di1), 唔好出聲(m4 hou2 ceot1 seng1)
 1FAE0	{ 🫠 }	融化(jung4 faa3), 熔化(jung4 faa3)
-1F925	{ 🤥 }	講大話(gong2 daai6 waa6), 𧦠人(ngaak1 jan4)
+1F925	{ 🤥 }	講大話(gong2 daai6 waa6), 𧦠人(ngaak1 jan4), 𧦠人精(ngaak1 jan4 zing1)
 1F636	{ 😶 }	圍觀(wai4 gun1), 冇嘴(mou5 zeoi2)
 1FAE5	{ 🫥 }	面無表情(min6 mou4 biu2 cing4), 冷漠(laang5 mok6), 無語(mou4 jyu5), 語塞(jyu5 sak1), 透明(tau3 ming4)
 1F610	{ 😐 }	面無表情(min6 mou4 biu2 cing4), 冷漠(laang5 mok6), 無語(mou4 jyu5), 語塞(jyu5 sak1)
