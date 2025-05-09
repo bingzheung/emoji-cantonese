@@ -5,12 +5,11 @@ charset = utf-8
 end_of_line = lf
 insert_final_newline = true
 
-[*.txt]
-indent_style = tab
-
-[*.tsv]
+[*.{txt,tsv}]
 indent_style = tab
 
 [*.swift]
 indent_style = space
 indent_size = 8
+tab_width = 8
+trim_trailing_whitespace = true

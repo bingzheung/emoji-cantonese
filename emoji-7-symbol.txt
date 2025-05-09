@@ -139,7 +139,7 @@
 26A7	{ ⚧ }	跨性別(kwaa1 sing3 bit6)
 1F6BB	{ 🚻 }	衛生間(wai6 sang1 gaan1), 洗手間(sai2 sau2 gaan1), 廁所(ci3 so2)
 1F6AE	{ 🚮 }	垃圾桶(laap6 saap3 tung2), 抌垃圾(dam2 laap6 saap3), 垃圾(laap6 saap3)
-1F3A6	{ 🎦 }	電影院(din6 jing2 jyun2), 睇電影(tai2 din6 jing2), 戲院(hei3 jyun2), 睇戲(tai2 hei3), 戲(hei3)
+1F3A6	{ 🎦 }	電影院(din6 jing2 jyun2), 睇電影(tai2 din6 jing2), 戲院(hei3 jyun2), 睇戲(tai2 hei3), 戲(hei3), 電影(din6 jing2)
 1F4F6	{ 📶 }	信號(seon3 hou6), 訊號(seon3 hou6)
 1F201	{ 🈁 }	日語此處(jat6 jyu5 ci2 cyu3), 日文此處(jat6 man4 ci2 cyu3; jat6 man2 ci2 cyu3)
 1F523	{ 🔣 }	符號輸入(fu4 hou6 syu1 jap6), 符號鍵盤(fu4 hou6 gin6 pun2), 符號(fu4 hou6)
