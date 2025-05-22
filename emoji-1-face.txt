@@ -168,7 +168,7 @@
 1F595	{ 🖕 }	豎中指(syu6 zung1 zi2), 中指(zung1 zi2), 鄙視(pei2 si6), 嘲諷(zaau1 fung3), 屌你(diu2 nei5), 頂你個肺(ding2 nei5 go3 fai3)
 270D.FE0F	{ ✍️ }	書寫(syu1 se2), 寫字(se2 zi6), 手寫(sau2 se2), 寫(se2), 寫作(se2 zok3), 執筆(zap1 bat1), 筆記(bat1 gei3)
 1F64F	{ 🙏 }	雙手合十(soeng1 sau2 hap6 sap6), 合十(hap6 sap6), 祈禱(kei4 tou2), 懇求(han2 kau4), 唔該(m4 goi1), 唔該晒(m4 goi1 saai3), 多謝(do1 ze6), 多謝晒(do1 ze6 saai3), 感謝(gam2 ze6)
-1FAF5	{ 🫵 }	手指指(sau2 zi2 zi2), 手指(sau2 zi2), 㧻(duk1)
+1FAF5	{ 🫵 }	手指指(sau2 zi2 zi2), 手指(sau2 zi2), 㧻(duk1), 指(zi2), 你(nei5)
 1F9B6	{ 🦶 }	腳底(goek3 dai2), 腳板底(goek3 baan2 dai2), 腳(goek3), 足(zuk1), 玉足(juk6 zuk1)
 1F9B5	{ 🦵 }	腳(goek3), 下肢(haa6 zi1), 腿(teoi2)
 1F9BF	{ 🦿 }	機械腳(gei1 haai6 goek3), 義肢(ji6 zi1), 假肢(gaa2 zi1)

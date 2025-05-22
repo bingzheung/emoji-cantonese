@@ -90,6 +90,7 @@
 白板	baak6 baan2
 白菜	baak6 coi3
 白大褂	baak6 daai6 gwaa3
+白飯	baak6 faan6
 白髮男	baak6 faat3 naam4
 白髮女	baak6 faat3 neoi5
 白鴿	baak6 gaap3
@@ -98,6 +99,7 @@
 白羅斯	baak6 lo4 si1
 白老鼠	baak6 lou5 syu2
 白貓	baak6 maau1
+白米飯	baak6 mai5 faan6
 白俄羅斯	baak6 ngo4 lo4 si1
 白心	baak6 sam1
 白色	baak6 sik1
@@ -1078,7 +1080,9 @@
 荒漠	fong1 mok6
 方磚	fong1 zyun1
 放大鏡	fong3 daai6 geng3
+放電影	fong3 din6 jing2
 放風箏	fong3 fung1 zang1
+放映	fong3 jing2
 放映機	fong3 jing2 gei1
 放鷂	fong3 jiu2
 放鷂	fong3 jiu6
@@ -1231,6 +1235,7 @@
 雞膥	gai1 ceon1
 雞蛋	gai1 daan2
 雞蛋	gai1 daan6
+雞冠	gai1 gun1
 雞公	gai1 gung1
 雞殼	gai1 hok3
 雞尾酒	gai1 mei5 zau2
@@ -1875,6 +1880,7 @@
 韓幣	hon4 bai6
 韓國	hon4 gwok3
 韓元	hon4 jyun4
+旱菸	hon5 jin1
 汗顏	hon6 ngaan4
 航天員	hong4 tin1 jyun4
 褐	hot3
@@ -1940,6 +1946,7 @@
 紅髮	hung4 faat3
 紅髮男	hung4 faat3 naam4
 紅髮女	hung4 faat3 neoi5
+雄雞	hung4 gai1
 紅䘆	hung4 hin2
 紅䘆	hung4 hyun2
 紅葉	hung4 jip6
@@ -2048,6 +2055,7 @@
 一百	jat1 baak3
 一百分	jat1 baak3 fan1
 一次方	jat1 ci3 fong1
+一啖菸	jat1 daam6 jin1
 一點	jat1 dim2
 一點半	jat1 dim2 bun3
 一點正	jat1 dim2 zing3
@@ -2057,6 +2065,7 @@
 一家四口	jat1 gaa1 sei3 hau2
 一鍵	jat1 gin6
 一個人	jat1 go3 jan4
+一口菸	jat1 hau2 jin1
 一人	jat1 jan4
 一氧化氮	jat1 joeng5 faa3 daam6
 一氧化二氫	jat1 joeng5 faa3 ji6 hing1
@@ -2069,6 +2078,7 @@
 一條蟲	jat1 tiu4 cung4
 一筒	jat1 tung4
 一鑊熟	jat1 wok6 suk6
+一支菸	jat1 zi1 jin1
 一箭穿心	jat1 zin3 cyun1 sam1
 日	jat6
 日本	jat6 bun2
@@ -2460,6 +2470,7 @@
 購物	kau3 mat6
 購物車	kau3 mat6 ce1
 購物袋	kau3 mat6 doi2
+釦針	kau3 zam1
 求救	kau4 gau3
 球鞋	kau4 haai4
 球門	kau4 mun4
@@ -2506,6 +2517,7 @@
 繪畫	kui2 waa2
 繪畫	kui3 waa6
 繪畫	kui3 waak6
+曲別針	kuk1 bit6 zam1
 曲棍球	kuk1 gwan3 kau4
 曲奇	kuk1 kei4
 蛐蛐	kuk1 kuk1
@@ -2670,10 +2682,13 @@
 蓮	lin4
 鏈	lin4
 蓮花	lin4 faa1
+鏈結	lin4 git3
 連衣裙	lin4 ji1 kwan4
 蓮蓬頭	lin4 pung4 tau4
 連乘	lin4 sing4
 連乘符號	lin4 sing4 fu4 hou6
+鏈鎖	lin4 so2
+鏈索	lin4 sok3
 連體衣	lin4 tai2 ji1
 連接	lin4 zip3
 鏈接	lin4 zip3
@@ -3249,6 +3264,7 @@
 獼猴桃	nei4 hau4 tou4
 尼日爾	nei4 jat6 ji5
 尼日利亞	nei4 jat6 lei6 aa3
+你	nei5
 你好	nei5 hou2
 女	neoi5
 女阿拉丁燈神	neoi5 aa3 laai1 ding1 dang1 san4
@@ -3682,7 +3698,6 @@
 西部牛仔	sai1 bou6 ngau4 zai2
 西瓜	sai1 gwaa1
 西紅柿	sai1 hung4 ci5
-西藍花	sai1 laam4 faa1
 西蘭花	sai1 laan4 faa1
 犀利	sai1 lei6
 犀牛	sai1 ngau4
@@ -4102,6 +4117,7 @@
 硝酸鋅	siu1 syun1 san1
 硝酸銅	siu1 syun1 tung4
 小白鼠	siu2 baak6 syu2
+小白兔	siu2 baak6 tou3
 小丑	siu2 cau2
 小蛋糕	siu2 daan6 gou1
 小雞	siu2 gai1
@@ -4143,6 +4159,7 @@
 鎖	so2
 鎖定	so2 ding6
 所以	so2 ji5
+鎖鏈	so2 lin4
 所羅門羣島	so2 lo4 mun4 kwan4 dou2
 鎖匙	so2 si4
 瀡	soe4
@@ -4254,6 +4271,8 @@
 嗦粉	sok3 fan2
 嗦菸	sok3 jin1
 朔月	sok3 jyut6
+索釦	sok3 kau3
+索鏈	sok3 lin4
 索馬里	sok3 maa5 lei5
 索馬利亞	sok3 maa5 lei6 aa3
 嗦支菸	sok3 zi1 jin1
@@ -4548,6 +4567,7 @@
 同步	tung4 bou6
 同意	tung4 ji3
 銅牌	tung4 paai4
+糰	tyun4
 豚	tyun4
 𫙠	tyun4
 糰子	tyun4 zi2
@@ -4583,7 +4603,7 @@
 彎月	waan1 jyut6
 彎鉤	waan1 ngau1
 環保	waan4 bou2
-環扣	waan4 kau3
+環釦	waan4 kau3
 橫	waang4
 滑板	waat6 baan2
 滑板車	waat6 baan2 ce1
@@ -4796,6 +4816,7 @@
 准許	zeon2 heoi2
 進入	zeon3 jap6
 卒	zeot1
+支菸	zi1 jin1
 資料夾	zi1 liu2 gaap3
 齜牙	zi1 ngaa4
 資訊	zi1 seon3
@@ -4817,6 +4838,7 @@
 紙卷	zi2 gyun2
 指下	zi2 haa6
 指右	zi2 jau6
+紙菸	zi2 jin1
 紙鷂	zi2 jiu2
 紙鷂	zi2 jiu6
 指紋	zi2 man4
