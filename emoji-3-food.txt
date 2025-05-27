@@ -105,7 +105,7 @@
 1FAD7	{ 🫗 }	傾倒(king1 dou2), 倒瀉(dou2 se2), 倒水(dou2 seoi2), 斟杯水(zam1 bui1 seoi2), 斟水(zam1 seoi2), 涓水(gyun1 seoi2)
 1F37C	{ 🍼 }	奶樽(naai5 zeon1), 奶瓶(naai5 ping4), 奶嘴(naai5 zeoi2), 餵奶(wai3 naai5)
 1FAD6	{ 🫖 }	茶壺(caa4 wu4), 茶(caa4), 飲茶(jam2 caa4)
-2615	{ ☕ }	熱飲(jit6 jam2), 咖啡(gaa3 fe1), 啡(fe1)
+2615	{ ☕ }	熱飲(jit6 jam2), 咖啡(gaa3 fe1), 飲咖啡(jam2 gaa3 fe1), 啡(fe1), 熱咖啡(jit6 gaa3 fe1)
 1F375	{ 🍵 }	茶(caa4), 飲茶(jam2 caa4), 茶杯(caa4 bui1), 杯茶(bui1 caa4), 綠茶(luk6 caa4)
 1F9C3	{ 🧃 }	果汁(gwo2 zap1), 飲料(jam2 liu6; jam2 liu2), 飲品(jam2 ban2)
 1F964	{ 🥤 }	汽水(hei3 seoi2), 可樂(ho2 lok6), 吸管(kap1 gun2), 飲筒(jam2 tung2), 飲管(jam2 gun2)

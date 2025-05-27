@@ -126,7 +126,6 @@
 八	baat3
 八邊形	baat3 bin1 jing4
 八次方	baat3 ci3 fong1
-八帶魚	baat3 daai3 jyu2
 八帶魚	baat3 daai3 jyu4
 八點	baat3 dim2
 八點半	baat3 dim2 bun3
@@ -143,7 +142,6 @@
 八萬	baat3 maan6
 八索	baat3 sok3
 八筒	baat3 tung4
-八爪魚	baat3 zaau2 jyu2
 八爪魚	baat3 zaau2 jyu4
 包粟	baau1 suk1
 包頭巾	baau1 tau4 gan1
@@ -243,8 +241,10 @@
 便條	bin6 tiu4
 兵	bing1
 冰	bing1
+乒乓	bing1 bam1
 乒乓波	bing1 bam1 bo1
 乒乓球	bing1 bam1 kau4
+乒乓	bing1 bong1
 乒乓波	bing1 bong1 bo1
 乒乓球	bing1 bong1 kau4
 冰島	bing1 dou2
@@ -506,6 +506,7 @@
 坐𨋢	co5 lip1
 坐昇降機	co5 sing1 gong3 gei1
 辵部	coek3 bou6
+桌球	coek3 kau4
 槍	coeng1
 窗	coeng1
 槍械	coeng1 haai6
@@ -575,6 +576,7 @@
 醋	cou3
 醋酸	cou3 syun1
 觸角手勢	cuk1 gok3 sau2 sai3
+蹴鞠	cuk1 guk1
 促織	cuk1 zik1
 沖涼	cung1 loeng4
 衝浪	cung1 long6
@@ -649,6 +651,7 @@
 大於或等於	daai6 jyu1 waak6 dang2 jyu1
 大雨	daai6 jyu5
 大橋	daai6 kiu4
+大蠊	daai6 lim4
 大馬	daai6 maa5
 大拇指	daai6 mou5 zi2
 大霧	daai6 mou6
@@ -852,6 +855,7 @@
 屌你	diu2 nei5
 釣	diu3
 釣魚	diu3 jyu2
+釣魚	diu3 jyu4
 調值一	diu6 zik6 jat1
 調值二	diu6 zik6 ji6
 調值五	diu6 zik6 ng5
@@ -931,6 +935,7 @@
 花碼三	faa1 maa5 saam1
 花碼十	faa1 maa5 sap6
 花碼四	faa1 maa5 sei3
+花豹	faa1 paau3
 花灑	faa1 saa2
 花生	faa1 sang1
 花紙牌	faa1 zi2 paai4
@@ -1036,12 +1041,14 @@
 非禮勿聽	fei1 lai5 mat6 ting3
 菲林	fei1 lam2
 菲律賓	fei1 leot6 ban1
+飛蠊	fei1 lim4
 飛吻	fei1 man5
 飛盤	fei1 pun4
 非商業	fei1 soeng1 jip6
 非商用	fei1 soeng1 jung6
 飛鼠	fei1 syu2
 非洲	fei1 zau1
+蜚蠊	fei2 lim4
 斐濟	fei2 zai3
 捹頭	fing6 tau4
 科特迪瓦	fo1 dak6 dik6 ngaa5
@@ -1535,8 +1542,10 @@
 瓜德羅普	gwaa1 dak1 lo4 pou2
 瓜皮帽	gwaa1 pei4 mou2
 掛曆	gwaa3 lik6
+乖巧	gwaai1 haau2
 拐杖	gwaai2 zoeng2
 拐杖	gwaai2 zoeng6
+乖	gwaai3
 怪獸	gwaai3 sau3
 關島	gwaan1 dou2
 關東煮	gwaan1 dung1 zyu2
@@ -1663,6 +1672,7 @@
 行星	haang4 sing1
 敲代碼	haau1 doi6 maa5
 敲鼓	haau1 gu2
+係	hai6
 黑	hak1
 黑暗	hak1 am3
 黑塊	hak1 faai3
@@ -2010,6 +2020,7 @@
 飲品	jam2 ban2
 飲杯	jam2 bui1
 飲茶	jam2 caa4
+飲咖啡	jam2 gaa3 fe1
 飲管	jam2 gun2
 飲用水	jam2 jung6 seoi2
 飲料	jam2 liu2
@@ -2131,7 +2142,6 @@
 郵局	jau4 guk6
 遊戲牌	jau4 hei3 paai4
 遊戲手柄	jau4 hei3 sau2 beng3
-魷魚	jau4 jyu2
 魷魚	jau4 jyu4
 郵輪	jau4 leon4
 遊樂場	jau4 lok6 coeng4
@@ -2201,6 +2211,8 @@
 椰子	je4 zi2
 椰子樹	je4 zi2 syu6
 野營	je5 jing4
+野鹿	je5 luk2
+野鹿	je5 luk6
 野牛	je5 ngau4
 野豬	je5 zyu1
 野豬頭	je5 zyu1 tau4
@@ -2332,6 +2344,7 @@
 熱	jit6
 熱情	jit6 cing4
 熱帶魚	jit6 daai3 jyu4
+熱咖啡	jit6 gaa3 fe1
 熱狗	jit6 gau2
 熱香餅	jit6 hoeng1 beng2
 熱飲	jit6 jam2
@@ -2364,6 +2377,7 @@
 揚手	joeng4 sau2
 揚聲器	joeng4 sing1 hei3
 陽上	joeng4 soeng5
+羊駝	joeng4 to4
 洋芋	joeng4 wu6
 氧化亞鐵	joeng5 faa3 aa3 tit3
 氧化亞銅	joeng5 faa3 aa3 tung4
@@ -2398,7 +2412,9 @@
 魚餅	jyu4 beng2
 蠕蟲	jyu4 cung4
 魚人	jyu4 jan4
+魚類	jyu4 leoi6
 魚生	jyu4 saang1
+魚仔	jyu4 zai2
 羽	jyu5
 雨	jyu5
 宇航員	jyu5 hong4 jyun4
@@ -2661,6 +2677,7 @@
 旅館	leoi5 gun2
 壘球	leoi5 kau4
 淚流滿面	leoi6 lau4 mun5 min6
+淚眼汪汪	leoi6 ngaan5 wong1 wong1
 輪	leon4
 輪渡	leon4 dou6
 輪椅	leon4 ji2
@@ -2679,6 +2696,7 @@
 栗子	leot6 zi2
 曆	lik6
 力量	lik6 loeng6
+蠊	lim4
 蓮	lin4
 鏈	lin4
 蓮花	lin4 faa1
@@ -2706,6 +2724,7 @@
 嶺	ling5
 令和	ling6 wo4
 𨋢	lip1
+獵豹	lip6 paau3
 列印	lit6 jan3
 列印機	lit6 jan3 gei1
 列支敦士登	lit6 zi1 deon1 si6 dang1
@@ -2782,6 +2801,7 @@
 露西亞	lou6 sai1 aa3
 路障	lou6 zoeng3
 轆	luk1
+鹿	luk2
 六	luk6
 綠	luk6
 鹿	luk6
@@ -2823,6 +2843,7 @@
 綠書	luk6 syu1
 氯酸鉀	luk6 syun1 gaap3
 六筒	luk6 tung4
+鹿仔	luk6 zai2
 錄像	luk6 zoeng6
 錄像帶	luk6 zoeng6 daai2
 錄像機	luk6 zoeng6 gei1
@@ -2943,6 +2964,7 @@
 迷你光碟	mai4 nei5 gwong1 dip6
 迷你光盤	mai4 nei5 gwong1 pun2
 迷你光盤	mai4 nei5 gwong1 pun4
+迷糊	mai4 wu4
 米	mai5
 米餅	mai5 beng2
 米飯	mai5 faan6
@@ -2954,7 +2976,6 @@
 墨	mak6
 墨超	mak6 ciu1
 墨鏡	mak6 geng3
-墨魚	mak6 jyu2
 墨魚	mak6 jyu4
 墨西哥	mak6 sai1 go1
 墨西哥夾餅	mak6 sai1 go1 gaap3 beng2
@@ -3117,6 +3138,8 @@
 霧橋	mou6 kiu4
 梅	mui4
 梅花	mui4 faa1
+梅花鹿	mui4 faa1 luk2
+梅花鹿	mui4 faa1 luk6
 玫瑰	mui4 gwai3
 玫瑰花	mui4 gwai3 faa1
 玫瑰花結	mui4 gwai3 faa1 git3
@@ -3266,6 +3289,7 @@
 尼日利亞	nei4 jat6 lei6 aa3
 你	nei5
 你好	nei5 hou2
+你知我知	nei5 zi1 ngo5 zi1
 女	neoi5
 女阿拉丁燈神	neoi5 aa3 laai1 ding1 dang1 san4
 女差人	neoi5 caai1 jan4
@@ -3409,6 +3433,7 @@
 銀行咭	ngan4 hong4 kaat1
 銀牌	ngan4 paai4
 銀紙	ngan4 zi2
+岌	ngap6
 岌頭	ngap6 tau4
 勾	ngau1
 鉤	ngau1
@@ -3548,6 +3573,7 @@
 編程	pin1 cing4
 蝙蝠	pin1 fuk1
 片場	pin2 coeng4
+乒乓	ping1 pong1
 乒乓波	ping1 pong1 bo1
 乒乓球	ping1 pong1 kau4
 拼圖	ping3 tou4
@@ -3748,6 +3774,8 @@
 心傷	sam1 soeng1
 心田	sam1 tin4
 心跳	sam1 tiu3
+心照	sam1 ziu3
+心照不宣	sam1 ziu3 bat1 syun1
 心臟	sam1 zong6
 心中箭	sam1 zung3 zin3
 新	san1
@@ -3987,6 +4015,7 @@
 絲字邊	si1 zi6 bin1
 絲字旁	si1 zi6 pong4
 屎	si2
+史上最佳	si2 soeng6 zeoi3 gaai1
 試管	si3 gun2
 匙	si4
 時間	si4 gaan1
@@ -4134,6 +4163,9 @@
 小於等於	siu2 jyu1 dang2 jyu1
 小於或等於	siu2 jyu1 waak6 dang2 jyu1
 小雨	siu2 jyu5
+小強	siu2 koeng4
+小鹿	siu2 luk2
+小鹿	siu2 luk6
 小貓	siu2 maau1
 小朋友	siu2 pang4 jau5
 小心	siu2 sam1
@@ -4422,6 +4454,9 @@
 體育館	tai2 juk6 gun2
 睇睇	tai2 tai2
 體溫計	tai2 wai6 gai3
+涕泗	tai3 si3
+涕泗滂沱	tai3 si3 pong4 to4
+涕泗橫流	tai3 si3 waang4 lau4
 剃鬚	tai3 sou1
 剃鬚刀	tai3 sou1 dou1
 剃鬚刨	tai3 sou1 paau4
@@ -4681,6 +4716,7 @@
 黃䘆	wong4 hyun2
 黃油	wong4 jau4
 王女	wong4 neoi5
+黃豹	wong4 paau3
 黃心	wong4 sam1
 黃絲	wong4 si1
 黃絲帶	wong4 si1 daai3
@@ -4760,6 +4796,7 @@
 暫停播放	zaam6 ting4 bo3 fong3
 讚	zaan3
 贊比亞	zaan3 bei2 aa3
+贊同	zaan3 tung4
 眨單眼	zaap3 daan1 ngaan5
 雜技	zaap6 gei6
 雜技男	zaap6 gei6 naam4
@@ -4936,6 +4973,7 @@
 節字旁	zit3 zi6 pong4
 節節高	zit3 zit3 gou1
 捷克	zit6 hak1
+捷豹	zit6 paau3
 朝	ziu1
 椒	ziu1
 蕉	ziu1
@@ -4993,6 +5031,7 @@
 座位	zo6 wai6
 雀	zoek3
 雀竇	zoek3 dau3
+桌球	zoek3 kau4
 雀仔	zoek3 zai2
 雀仔膥	zoek3 zai2 ceon1
 雀仔蛋	zoek3 zai2 daan6
@@ -5003,7 +5042,6 @@
 着數	zoek6 sou3
 蟑	zoeng1
 張口	zoeng1 hau2
-章魚	zoeng1 jyu2
 章魚	zoeng1 jyu4
 蟑螂	zoeng1 long4
 張嘴	zoeng1 zeoi2
