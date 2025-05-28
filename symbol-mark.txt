@@ -1,4 +1,6 @@
 F8FF	{  }	蘋果(ping4 gwo2)
+262E	{ ☮ }	和平(wo4 ping4), 和平標誌(wo4 ping4 biu1 zi3)
+262F	{ ☯ }	陰陽(jam1 joeng4), 太極(taai3 gik6), 兩儀(loeng5 ji4), 道教(dou6 gaau3)
 2742	{ ❂ }	青天白日(cing1 tin1 baak6 jat6)
 2122	{ ™ }	商標(soeng1 biu1)
 2120	{ ℠ }	服務商標(fuk6 mou6 soeng1 biu1)

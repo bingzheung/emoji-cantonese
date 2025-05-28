@@ -3,3 +3,5 @@
 266B	{ ♫ }	音符(jam1 fu4), 音樂(jam1 ngok6)
 266C	{ ♬ }	音符(jam1 fu4)
 1D11E	{ 𝄞 }	樂譜(ngok6 pou2), 曲譜(kuk1 pou2), 歌譜(go1 pou2), 音符(jam1 fu4), 音樂(jam1 ngok6)
+266F	{ ♯ }	昇號(sing1 hou6), 昇記號(sing1 gei3 hou6), 昇音符(sing1 jam1 fu4), 昇音(sing1 jam1)
+266D	{ ♭ }	降號(gong3 hou6), 降記號(gong3 gei3 hou6), 降音符(gong3 jam1 fu4), 降音(gong3 jam1)
