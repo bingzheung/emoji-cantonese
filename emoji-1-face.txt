@@ -17,7 +17,7 @@
 1F60C	{ 😌 }	放鬆(fong3 sung1), 釋然(sik1 jin4)
 1F970	{ 🥰 }	心滿意足(sam1 mun5 ji3 zuk1), 鍾意(zung1 ji3), 滿足(mun5 zuk1), 享受(hoeng2 sau6), 舒服(syu1 fuk6), 心水(sam1 seoi2), 合心水(hap6 sam1 seoi2), 合我心水(hap6 ngo5 sam1 seoi2), 啱心水(ngaam1 sam1 seoi2), 啱我心水(ngaam1 ngo5 sam1 seoi2), 稱心合意(cing3 sam1 hap6 ji3), 稱心(cing3 sam1), 合意(hap6 ji3), 稱心滿意(cing3 sam1 mun5 ji3), 滿意(mun5 ji3), 歡喜(fun1 hei2), 喜歡(hei2 fun1), 心心心(sam1 sam1 sam1)
 1F60D	{ 😍 }	迷戀(mai4 lyun2), 花癡(faa1 ci1), 鍾意(zung1 ji3), 想要(soeng2 jiu3), 心水(sam1 seoi2), 合心水(hap6 sam1 seoi2), 合我心水(hap6 ngo5 sam1 seoi2), 啱心水(ngaam1 sam1 seoi2), 啱我心水(ngaam1 ngo5 sam1 seoi2), 喜歡(hei2 fun1), 恨(han6), 好恨(hou2 han6), 恨到(han6 dou2), 心心眼(sam1 sam1 ngaan5), 心心(sam1 sam1)
-1F618	{ 😘 }	飛吻(fei1 man5), 吻(man5), 示愛(si6 oi3), 𡃶𡃶(sek3 sek3), 𡃶(sek3), 𡃶啖(sek3 daam6)
+1F618	{ 😘 }	飛吻(fei1 man5), 吻(man5), 示愛(si6 oi3), 𡃶𡃶(sek3 sek3), 𡃶(sek3), 𡃶啖(sek3 daam6), 𡃶你(sek3 nei5), 𡃶晒你(sek3 saai3 nei5), 愛你(oi3 nei5), 歡喜你(fun1 hei2 nei5), 喜歡你(hei2 fun1 nei5)
 1F617	{ 😗 }	開眼𡃶(hoi1 ngaan5 sek3)
 1F61A	{ 😚 }	眯眼𡃶(mei1 ngaan5 sek3), 𡃶𡃶(sek3 sek3), 𡃶(sek3), 𡃶啖(sek3 daam6)
 1F619	{ 😙 }	𡃶𡃶(sek3 sek3), 𡃶(sek3), 𡃶啖(sek3 daam6)
