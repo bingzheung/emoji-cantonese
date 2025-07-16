@@ -116,7 +116,7 @@
 1F942	{ 🥂 }	飲杯(jam2 bui1), 飲勝(jam2 sing3), 飲(jam2), 乾杯(gon1 bui1), 飲酒(jam2 zau2), 酒(zau2)
 1F377	{ 🍷 }	酒杯(zau2 bui1), 紅酒(hung4 zau2), 葡萄酒(pou4 tou4 zau2), 飲酒(jam2 zau2), 酒(zau2)
 1F943	{ 🥃 }	平底杯(ping4 dai2 bui1), 酒杯(zau2 bui1), 飲酒(jam2 zau2), 酒(zau2)
-1F378	{ 🍸 }	雞尾酒(gai1 mei5 zau2)
+1F378	{ 🍸 }	雞尾酒(gai1 mei5 zau2), 酒杯(zau2 bui1), 飲酒(jam2 zau2), 酒(zau2)
 1F379	{ 🍹 }	凍飲(dung3 jam2), 冷飲(laang5 jam2)
 1F9C9	{ 🧉 }	瑪黛茶(maa5 doi6 caa4), 瑪黛(maa5 doi6)
 1F37E	{ 🍾 }	香檳(hoeng1 ban1), 開香檳(hoi1 hoeng1 ban1)

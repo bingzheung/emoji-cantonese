@@ -109,7 +109,7 @@
 1F321	{ 🌡 }	探熱針(taam3 jit6 zam1), 探熱(taam3 jit6), 溫度計(wan1 dou6 gai3), 體溫計(tai2 wai6 gai3)
 1F9F9	{ 🧹 }	掃把(sou3 baa2), 掃帚(sou3 zau2), 掃(sou3)
 1FAA0	{ 🪠 }	馬桶吸(maa5 tung2 kap1)
-1F9FA	{ 🧺 }	籃(laam4; laam2), 竹籃(zuk1 laam4; zuk1 laam2)
+1F9FA	{ 🧺 }	籃(laam4), 竹籃(zuk1 laam4), 籃筐(laam4 hong1; laam4 kwaang1), 筐(hong1; kwaang1)
 1F9FB	{ 🧻 }	卷紙(gyun2 zi2), 紙卷(zi2 gyun2)
 1F6BD	{ 🚽 }	馬桶(maa5 tung2), 廁所(ci3 so2), 衛生間(wai6 sang1 gaan1), 洗手間(sai2 sau2 gaan1)
 1F6B0	{ 🚰 }	水龍頭(seoi2 lung4 tau4), 水喉(seoi2 hau4), 飲用水(jam2 jung6 seoi2)

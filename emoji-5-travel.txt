@@ -89,7 +89,7 @@
 26FA.FE0F	{ ⛺️ }	帳篷(zoeng3 pung4), 露營(lou6 jing4), 野營(je5 jing4)
 1F6D6	{ 🛖 }	茅屋(maau4 uk1), 茅棚(maau4 paang4)
 1F3E0	{ 🏠 }	住宅(zyu6 zaak6; zyu6 zaak2), 住宅樓(zyu6 zaak2 lau4), 住宅屋(zyu6 zaak2 zuk1), 屋(uk1), 屋企(uk1 kei2)
-1F3E1	{ 🏡 }	別墅(bit6 seoi5; bit6 seoi6)
+1F3E1	{ 🏡 }	別墅(bit6 seoi5)
 1F3D8	{ 🏘 }	住宅區(zyu6 zaak2 keoi1; zyu6 zaak6 keoi1)
 1F3DA	{ 🏚 }	廢棄房屋(fai3 hei3 fong4 uk1)
 1F3D7	{ 🏗 }	建築施工(gin3 zuk1 si1 gung1), 建設(gin3 cit3)
