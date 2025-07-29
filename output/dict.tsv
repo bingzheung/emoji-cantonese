@@ -1,3 +1,4 @@
+鴉	aa1
 阿爸	aa3 baa1
 阿爸	aa3 baa4
 阿伯	aa3 baak3
@@ -63,10 +64,9 @@
 巴拉圭	baa1 laai1 gwai1
 巴勒斯坦	baa1 lak6 si1 taan2
 巴林	baa1 lam4
-芭蕾	baa1 leoi4
-芭蕾鞋	baa1 leoi4 haai4
 芭蕾	baa1 leoi5
 芭蕾鞋	baa1 leoi5 haai4
+芭蕾舞	baa1 leoi5 mou5
 巴拿馬	baa1 naa4 maa5
 巴西	baa1 sai1
 巴士	baa1 si2
@@ -1372,6 +1372,9 @@
 幾內亞	gei1 noi6 aa3
 幾內亞比紹	gei1 noi6 aa3 bei2 siu6
 機長	gei1 zoeng2
+記	gei3
+記低	gei3 dai1
+記落	gei3 lok6
 寄生蟲	gei3 sang1 cung4
 記事簿	gei3 si6 bou6
 記事本	gei3 si6 bun2
@@ -1833,6 +1836,7 @@
 慶祝	hing3 zuk1
 蠍	hit3
 蠍子	hit3 zi2
+囂	hiu1
 囂張	hiu1 zoeng1
 可	ho2
 可可愛愛	ho2 ho2 oi3 oi3
@@ -2916,6 +2920,7 @@
 唔等如	m4 dang2 jyu4
 唔掂	m4 dim6
 唔忿	m4 fan5
+唔歡喜	m4 fun1 hei2
 唔該	m4 goi1
 唔該晒	m4 goi1 saai3
 唔可以	m4 ho2 ji5
@@ -4624,6 +4629,8 @@
 鐵鉤	tit3 ngau1
 鐵索	tit3 sok3
 調羹	tiu1 gang1
+跳芭蕾	tiu3 baa1 leoi5
+跳芭蕾舞	tiu3 baa1 leoi5 mou5
 跳舞	tiu3 mou5
 跳傘	tiu3 saan3
 調暗	tiu4 am3
@@ -4804,6 +4811,7 @@
 黃色愛心	wong4 sik1 oi3 sam1
 王子	wong4 zi2
 皇子	wong4 zi2
+烏	wu1
 鰞	wu1
 烏鴉	wu1 aa1
 烏賊	wu1 caak6

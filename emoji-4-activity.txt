@@ -94,7 +94,7 @@
 1F939	{ 🤹 }	中性人雜技(zung1 sing3 jan4 zaap6 gei6)
 1F939.200D.2642.FE0F	{ 🤹‍♂️ }	雜技男(zaap6 gei6 naam4), 戲法男(hei3 faat3 naam4), 雜技(zaap6 gei6), 戲法(hei3 faat3)
 1F3AD	{ 🎭 }	表演藝術(biu2 jin2 ngai6 seot6), 雙簧(soeng1 wong4), 相聲(soeng3 sing1)
-1FA70	{ 🩰 }	芭蕾鞋(baa1 leoi4 haai4; baa1 leoi5 haai4), 芭蕾(baa1 leoi4; baa1 leoi5)
+1FA70	{ 🩰 }	芭蕾鞋(baa1 leoi5 haai4), 芭蕾(baa1 leoi5), 芭蕾舞(baa1 leoi5 mou5), 跳芭蕾(tiu3 baa1 leoi5), 跳芭蕾舞(tiu3 baa1 leoi5 mou5)
 1F3A8	{ 🎨 }	調色板(tiu4 sik1 baan2), 繪畫(kui2 waa2; kui3 waa6; kui3 waak6), 畫畫(waak6 waa2)
 1FADF	{ 🫟 }	潑(put3), 濺(zin3), 潑濺(put3 zin3), 濺潑(zin3 put3), 污漬(wu1 zik1)
 1F3AC	{ 🎬 }	場記板(coeng4 gei3 baan2), 場記(coeng4 gei3), 拍攝(paak3 sip3), 拍戲(paak3 hei3), 拍片(paak3 pin2), 片場(pin2 coeng4), 導演(dou6 jin2), 執導(zap1 dou6), 開波(hoi1 bo1)
