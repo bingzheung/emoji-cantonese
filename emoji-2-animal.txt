@@ -52,7 +52,7 @@
 1F578.FE0F	{ 🕸️ }	蠄蟧網(kam4 lou4 mong5), 蠄蟧絲網(kam4 lou4 si1 mong1), 蜘蛛網(zi1 zyu1 mong5), 蛛網(zyu1 mong5), 絲網(si1 mong1), 羅網(lo4 mong5), 網(mong5), 網絡(mong5 lok3)
 1F982	{ 🦂 }	蠍子(hit3 zi2; kit3 zi2), 蠍(hit3; kit3)
 1F422	{ 🐢 }	海龜(hoi2 gwai1), 龜(gwai1), 烏龜(wu1 gwai1)
-1F40D	{ 🐍 }	蛇(se4), 虺(wai2)
+1F40D	{ 🐍 }	蛇(se4), 蟒(mong5), 虺(wai2)
 1F98E	{ 🦎 }	變色龍(bin3 sik1 lung4), 四腳蛇(sei3 goek3 se4)
 1F996	{ 🦖 }	霸王龍(baa3 wong4 lung4), 恐龍(hung2 lung4)
 1F995	{ 🦕 }	恐龍(hung2 lung4)

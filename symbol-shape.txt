@@ -1,5 +1,5 @@
-25A0	{ ■ }	黑色方形(hak1 sik1 fong1 jing4), 黑色方塊(hak1 sik1 fong1 faai3), 黑方(hak1 fong1), 黑塊(hak1 faai3), 方塊(fong1 faai3)
-25A1	{ □ }	方形(fong1 jing4), 正方形(zing3 fong1 jing4), 正方(zing3 fong1), 方塊(fong1 faai3), 矩形(geoi2 jing4)
+25A0	{ ■ }	黑色方形(hak1 sik1 fong1 jing4), 黑色方塊(hak1 sik1 fong1 faai3), 黑方(hak1 fong1), 黑塊(hak1 faai3), 方塊(fong1 faai3), 塗黑(tou4 hak1)
+25A1	{ □ }	方形(fong1 jing4), 正方形(zing3 fong1 jing4), 正方(zing3 fong1), 方塊(fong1 faai3), 矩形(geoi2 jing4), 虛缺號(heoi1 kyut3 hou6), 虛缺(heoi1 kyut3), 缺字(kyut3 zi6), 某字(mau5 zi6), 某(mau5), 空缺(hung1 kyut3)
 25A2	{ ▢ }	圓角矩形(jyun4 gok3 geoi2 jing4)
 25AD	{ ▭ }	長方形(coeng4 fong1 jing4), 長方(coeng4 fong1), 矩形(geoi2 jing4)
 25B1	{ ▱ }	梯形(tai1 jing4)
