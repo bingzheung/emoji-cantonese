@@ -89,7 +89,7 @@
 1F402	{ 🐂 }	閹牛(jim1 ngau4), 公牛(gung1 ngau4), 牯牛(gu2 ngau4), 牛牯(ngau4 gu2), 牯(gu2), 牛(ngau4)
 1F404	{ 🐄 }	奶牛(naai5 ngau4), 牛(ngau4)
 1FACF	{ 🫏 }	驢(leoi4; lou4), 驢仔(leoi4 zai2; lou4 zai2)
-1F40E	{ 🐎 }	馬(maa5), 奔馬(ban1 maa5), 跑馬(paau2 maa5)
+1F40E	{ 🐎 }	馬(maa5), 奔馬(ban1 maa5), 跑馬(paau2 maa5), 坐騎(zo6 gei6), 快馬(faai3 maa5)
 1F416	{ 🐖 }	豬(zyu1), 豕(ci2), 彘(zi6), 豨(hei1), 豚(tyun4), 豭(gaa1), 豬豬(zyu1 zyu1), 二師兄(ji6 si1 hing1)
 1F40F	{ 🐏 }	公綿羊(gung1 min4 joeng4), 綿羊(min4 joeng4), 公羊(gung1 joeng4), 羊(joeng4)
 1F411	{ 🐑 }	綿羊(min4 joeng4), 羊(joeng4)
