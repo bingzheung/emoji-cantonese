@@ -101,7 +101,7 @@
 1F3A4	{ 🎤 }	咪(mai1), 咪高峯(mai1 gou1 fung1), 咪高風(mai1 gou1 fung1), 話筒(waa6 tung4; waa6 tung2)
 1F3A7	{ 🎧 }	耳機(ji5 gei1)
 1F3BC	{ 🎼 }	樂譜(ngok6 pou2), 曲譜(kuk1 pou2), 歌譜(go1 pou2), 譜(pou2)
-1F3B9	{ 🎹 }	音樂鍵盤(jam1 ngok6 gin6 pun4), 鋼琴鍵(gong3 kam4 gin6), 琴鍵(kam4 gin6), 鋼琴(gong3 kam4), 琴(kam4)
+1F3B9	{ 🎹 }	音樂鍵盤(jam1 ngok6 gin6 pun2), 鋼琴鍵(gong3 kam4 gin6), 琴鍵(kam4 gin6), 鋼琴(gong3 kam4), 琴(kam4)
 1FA87	{ 🪇 }	沙槌(saa1 ceoi4), 砂槌(saa1 ceoi4)
 1F941	{ 🥁 }	擊鼓(gik1 gu2), 敲鼓(haau1 gu2), 打鼓(daa2 gu2), 擂鼓(leoi4 gu2), 鼓(gu2)
 1FA98	{ 🪘 }	長鼓(coeng4 gu2)
