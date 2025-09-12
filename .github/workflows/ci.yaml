@@ -2,13 +2,13 @@ name: CI
 on: [push, pull_request, release]
 
 # env:
-#   DEVELOPER_DIR: /Applications/Xcode_16.app/Contents/Developer
+#   DEVELOPER_DIR: /Applications/Xcode_26.0.app/Contents/Developer
 
 jobs:
   run-swift-code:
     name: RunSwift
-    runs-on: macos-15
+    runs-on: macos-26
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Swift Run
         run: swift run -c release
