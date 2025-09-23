@@ -85,7 +85,7 @@
 1F361	{ 🍡 }	日本糰子(jat6 bun2 tyun4 zi2), 糰子(tyun4 zi2)
 1F367	{ 🍧 }	刨冰(paau4 bing1), 沙冰(saa1 bing1), 銼冰(co3 bing1)
 1F368	{ 🍨 }	雪糕(syut3 gou1), 冰淇淋(bing1 kei4 lam4), 冰激凌(bing1 gik1 ling4)
-1F366	{ 🍦 }	雪糕(syut3 gou1), 甜筒(tim4 tung4; tim4 tung2), 冰淇淋(bing1 kei4 lam4), 冰激凌(bing1 gik1 ling4)
+1F366	{ 🍦 }	雪糕(syut3 gou1), 甜筒(tim4 tung2), 雪糕筒(syut3 gou1 tung2), 冰淇淋(bing1 kei4 lam4), 冰激凌(bing1 gik1 ling4)
 1F967	{ 🥧 }	西式餡餅(sai1 sik1 haam2 beng2), 派(paai3), 批(pai1)
 1F9C1	{ 🧁 }	紙杯蛋糕(zi2 bui1 daan6 gou1), 杯式蛋糕(bui1 sik1 daan6 gou1), 杯糕(bui1 gou1)
 1F370	{ 🍰 }	小蛋糕(siu2 daan6 gou1), 蛋糕(daan6 gou1), 糕點(gou1 dim2)
