@@ -1,6 +1,6 @@
 2669	{ ♩ }	四分音符(sei3 fan1 jam1 fu4)
 266A	{ ♪ }	八分音符(baat3 fan1 jam1 fu4), 音符(jam1 fu4), 音樂(jam1 ngok6)
-266B	{ ♫ }	音符(jam1 fu4), 音樂(jam1 ngok6)
+266B	{ ♫ }	音符(jam1 fu4), 音樂(jam1 ngok6), 樂(ngok6)
 266C	{ ♬ }	音符(jam1 fu4)
 1D11E	{ 𝄞 }	樂譜(ngok6 pou2), 曲譜(kuk1 pou2), 歌譜(go1 pou2), 音符(jam1 fu4), 音樂(jam1 ngok6)
 266F	{ ♯ }	昇號(sing1 hou6), 昇記號(sing1 gei3 hou6), 昇音符(sing1 jam1 fu4), 昇音(sing1 jam1)

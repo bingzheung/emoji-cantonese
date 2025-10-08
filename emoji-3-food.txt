@@ -89,7 +89,7 @@
 1F967	{ 🥧 }	西式餡餅(sai1 sik1 haam2 beng2), 派(paai3), 批(pai1)
 1F9C1	{ 🧁 }	紙杯蛋糕(zi2 bui1 daan6 gou1), 杯式蛋糕(bui1 sik1 daan6 gou1), 杯糕(bui1 gou1)
 1F370	{ 🍰 }	小蛋糕(siu2 daan6 gou1), 蛋糕(daan6 gou1), 糕點(gou1 dim2)
-1F382	{ 🎂 }	蛋糕(daan6 gou1), 生日蛋糕(saang1 jat6 daan6 gou1), 糕點(gou1 dim2)
+1F382	{ 🎂 }	蛋糕(daan6 gou1), 生日蛋糕(saang1 jat6 daan6 gou1), 糕點(gou1 dim2), 生日快樂(saang1 jat6 faai3 lok6)
 1F36E	{ 🍮 }	奶黃(naai5 wong4), 甜品(tim4 ban2), 蛋奶凍(daan6 naai5 dung3)
 1F36D	{ 🍭 }	波板糖(bo1 baan2 tong2), 棒棒糖(paang5 paang5 tong2), 糖(tong2)
 1F36C	{ 🍬 }	糖(tong2), 糖果(tong4 gwo2), 粒糖(nap1 tong2)

@@ -290,6 +290,7 @@
 博奈爾	bok3 noi6 ji5
 薄餅	bok6 beng2
 鎊	bong6
+保存	bou2 cyun4
 保加利亞	bou2 gaa1 lei6 aa3
 保齡球	bou2 ling4 kau4
 報	bou3
@@ -605,6 +606,7 @@
 松樹	cung4 syu6
 處女座	cyu2 neoi5 zo6
 廚師	cyu4 si1
+儲存	cyu5 cyun4
 全包圍	cyun4 baau1 wai4
 全包圍結構	cyun4 baau1 wai4 git3 gau3
 全包圍結構	cyun4 baau1 wai4 git3 kau3
@@ -857,9 +859,7 @@
 定時	ding6 si4
 定時器	ding6 si4 hei3
 定位	ding6 wai2
-碟	dip2
 蝶	dip2
-碟	dip6
 蝶	dip6
 跌	dit3
 雕	diu1
@@ -912,6 +912,7 @@
 㧻	duk1
 涿屎	duk1 si2
 獨角獸	duk6 gok3 sau3
+毒害	duk6 hoi6
 獨木船	duk6 muk6 syun4
 獨木舟	duk6 muk6 zau1
 讀信	duk6 seon3
@@ -1630,6 +1631,7 @@
 骨灰甕	gwat1 fui1 ung3
 骨灰盅	gwat1 fui1 zung1
 橘貓	gwat1 maau1
+橘色	gwat1 sik1
 骨頭	gwat1 tau4
 骨頭肉	gwat1 tau4 juk6
 橘子	gwat1 zi2
@@ -1644,9 +1646,7 @@
 國際象棋	gwok3 zai3 zoeng6 kei4
 國字框	gwok3 zi6 hong1
 光碟	gwong1 dip2
-光碟	gwong1 dip6
 光盤	gwong1 pun2
-光盤	gwong1 pun4
 光頭	gwong1 tau4
 光頭佬	gwong1 tau4 lou2
 光頭男	gwong1 tau4 naam4
@@ -1694,6 +1694,7 @@
 下底	haa6 dai2
 下凸月	haa6 dat6 jyut6
 下跌	haa6 dit3
+下方	haa6 fong1
 下降	haa6 gong3
 下降箭頭	haa6 gong3 zin3 tau4
 下跪	haa6 gwai6
@@ -3052,9 +3053,7 @@
 迷戀	mai4 lyun2
 迷霧	mai4 mou6
 迷你光碟	mai4 nei5 gwong1 dip2
-迷你光碟	mai4 nei5 gwong1 dip6
 迷你光盤	mai4 nei5 gwong1 pun2
-迷你光盤	mai4 nei5 gwong1 pun4
 迷糊	mai4 wu4
 米	mai5
 米餅	mai5 beng2
@@ -3203,6 +3202,7 @@
 毛里塔尼亞	mou4 lei5 taap3 nei4 aa3
 無尾熊	mou4 mei5 hung4
 毛毛蟲	mou4 mou4 cung4
+無奈	mou4 noi6
 巫師	mou4 si1
 毛線	mou4 sin3
 無線	mou4 sin3
@@ -3570,6 +3570,7 @@
 外星人	ngoi6 sing1 jan4
 外套	ngoi6 tou3
 外匯	ngoi6 wui6
+樂	ngok6
 鱷	ngok6
 愕然	ngok6 jin4
 鱷魚	ngok6 jyu4
@@ -3816,6 +3817,7 @@
 生薑	saang1 goeng1
 生蠔	saang1 hou4
 生日蛋糕	saang1 jat6 daan6 gou1
+生日快樂	saang1 jat6 faai3 lok6
 省略	saang2 loek6
 省略號	saang2 loek6 hou6
 薩克	saat3 hak1
@@ -4005,7 +4007,9 @@
 射	se6
 射手座	se6 sau2 zo6
 射箭	se6 zin3
+死	sei2
 死鬼咁凍	sei2 gwai2 gam3 dung3
+死亡	sei2 mong4
 四	sei3
 四次方	sei3 ci3 fong1
 四次方根	sei3 ci3 fong1 gan1
@@ -4401,6 +4405,7 @@
 上標三	soeng6 biu1 saam1
 上標四	soeng6 biu1 sei3
 上凸月	soeng6 dat6 jyut6
+上方	soeng6 fong1
 上高	soeng6 gou1
 上下	soeng6 haa6
 上下顛倒	soeng6 haa6 din1 dou2
@@ -4795,6 +4800,7 @@
 圍字框	wai4 zi6 hong1
 蝟	wai6
 衛兵	wai6 bing1
+爲何	wai6 ho4
 衛生間	wai6 sang1 gaan1
 衛士	wai6 si6
 爲食	wai6 sik6
@@ -5038,6 +5044,7 @@
 致敬	zi3 ging3
 智利	zi3 lei6
 致命	zi3 ming6
+致死	zi3 sei2
 彘	zi6
 自動取款機	zi6 dung6 ceoi2 fun2 gei1
 自動提款機	zi6 dung6 tai4 fun2 gei1
@@ -5231,9 +5238,9 @@
 中秋	zung1 cau1
 中秋節	zung1 cau1 zit3
 中等音量	zung1 dang2 jam1 loeng6
+中點	zung1 dim2
+中點號	zung1 dim2 hou6
 終點旗	zung1 dim2 kei4
-中點	zung1 dim3
-中點號	zung1 dim3 hou6
 中非	zung1 fei1
 中非共和國	zung1 fei1 gung6 wo4 gwok3
 中國	zung1 gwok3
