@@ -58,7 +58,7 @@
 爸	baa1
 爸爸	baa1 baa1
 巴巴多斯	baa1 baa1 do1 si1
-巴布亞新幾內亞	baa1 bou3 aa3 san1 gei1 noi6 aa3
+巴布亞新幾內亞	baa1 bou3 aa3 san1 gei2 noi6 aa3
 巴基斯坦	baa1 gei1 si1 taan2
 巴哈馬	baa1 haa1 maa5
 巴拉圭	baa1 laai1 gwai1
@@ -203,6 +203,7 @@
 不說惡言猿	bat1 syut3 ok3 jin4 jyun4
 不聽惡詞	bat1 ting3 ok3 ci4
 不聽惡詞猿	bat1 ting3 ok3 ci4 jyun4
+不准	bat1 zeon2
 不知所措	bat1 zi1 so2 cou3
 啤	be1
 啤梨	be1 lei2
@@ -405,7 +406,7 @@
 邪惡	ce4 ok3
 尺	cek3
 赤	cek3
-赤道幾內亞	cek3 dou6 gei1 noi6 aa3
+赤道幾內亞	cek3 dou6 gei2 noi6 aa3
 赤色	cek3 sik1
 青	ceng1
 青菜	ceng1 coi3
@@ -1036,6 +1037,7 @@
 氟化氫	fat1 faa3 hing1
 佛得角	fat6 dak1 gok3
 佛珠	fat6 zyu1
+否	fau2
 否定	fau2 ding6
 阜部	fau6 bou6
 阜字邊	fau6 zi6 bin1
@@ -1255,6 +1257,7 @@
 交通號標	gaau1 tung1 hou6 biu1
 膠桶	gaau1 tung2
 餃	gaau2
+攪攪震	gaau2 gaau2 zan3
 狡猾	gaau2 waat6
 餃子	gaau2 zi2
 覺	gaau3
@@ -1385,9 +1388,9 @@
 肌肉	gei1 juk6
 基里巴斯	gei1 lei5 baa1 si1
 基佬	gei1 lou2
-幾內亞	gei1 noi6 aa3
-幾內亞比紹	gei1 noi6 aa3 bei2 siu6
 機長	gei1 zoeng2
+幾內亞	gei2 noi6 aa3
+幾內亞比紹	gei2 noi6 aa3 bei2 siu6
 記	gei3
 記低	gei3 dai1
 記落	gei3 lok6
@@ -1822,6 +1825,7 @@
 氣球	hei3 kau4
 氣泡	hei3 paau1
 氣泡	hei3 pou5
+戲耍	hei3 saa2
 汽水	hei3 seoi2
 氣旋	hei3 syun4
 喫飯	hek3 faan6
@@ -1984,6 +1988,7 @@
 好噁心	hou2 ok3 sam1
 好食	hou2 sik6
 好笑	hou2 siu3
+好玩	hou2 waan2
 好核突	hou2 wat6 dat6
 好奇	hou3 kei4
 蠔	hou4
@@ -4727,6 +4732,7 @@
 圖釘	tou4 deng1
 圖釘	tou4 ding1
 塗黑	tou4 hak1
+淘氣	tou4 hei3
 逃逸	tou4 jat6
 圖瓦盧	tou4 ngaa5 lou4
 圖書	tou4 syu1
@@ -4777,6 +4783,7 @@
 彎鉤	waan1 ngau1
 環保	waan4 bou2
 環釦	waan4 kau3
+頑皮	waan4 pei4
 橫	waang4
 滑板	waat6 baan2
 滑板車	waat6 baan2 ce1
@@ -5095,6 +5102,8 @@
 蒸桑拿	zing1 song1 naa4
 偵探	zing1 taam3
 井	zing2
+整蠱	zing2 gu2
+整蠱作怪	zing2 gu2 zok3 gwaai3
 整數	zing2 sou3
 正	zing3
 正比於	zing3 bei2 jyu1
