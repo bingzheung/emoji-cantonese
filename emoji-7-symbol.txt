@@ -112,7 +112,7 @@
 2747.FE0F	{ ❇️ }	條幅星(tiu4 fuk1 sing1), 火花(fo2 faa1), 星號(sing1 hou6)
 2733.FE0F	{ ✳️ }	八輻星號(baat3 fuk1 sing1 hou6), 八輻星(baat3 fuk1 sing1), 米字(mai5 zi6)
 274E	{ ❎ }	交叉(gaau1 caa1; kaau1 caa1), 叉(caa1), 叉號(caa1 hou6), 錯誤(co3 ng6), 錯(co3), 誤(ng6), 唔啱(m4 ngaam1)
-1F310	{ 🌐 }	地球(dei6 kau4), 世界(sai3 gaai3), 國際(gwok3 zai3), 語言(jyu5 jin4)
+1F310	{ 🌐 }	地球(dei6 kau4), 世界(sai3 gaai3), 國際(gwok3 zai3), 語言(jyu5 jin4), 全球(cyun4 kau4), 寰球(waan4 kau4)
 1F4A0	{ 💠 }	菱形點心鑽(ling4 jing4 dim2 sam1 zyun3), 可愛(ho2 oi3), 得意(dak1 ji3)
 24C2.FE0F	{ Ⓜ️ }	地鐵符號(dei6 tit3 fu4 hou6), 地鐵(dei6 tit3)
 1F300	{ 🌀 }	氣旋(hei3 syun4), 龍捲風(lung4 gyun2 fung1), 颱風(toi4 fung1), 颶風(geoi6 fung1), 漩渦(syun4 wo1)

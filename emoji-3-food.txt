@@ -121,7 +121,7 @@
 1F9C9	{ 🧉 }	瑪黛茶(maa5 doi6 caa4), 瑪黛(maa5 doi6)
 1F37E	{ 🍾 }	香檳(hoeng1 ban1), 開香檳(hoi1 hoeng1 ban1)
 1F9CA	{ 🧊 }	冰(bing1), 冰塊(bing1 faai3)
-1F944	{ 🥄 }	調羹(tiu4 gang1; tiu1 gang1), 匙羹(ci4 gang1), 湯匙(tong1 ci4), 勺仔(soek3 zai2)
+1F944	{ 🥄 }	調羹(tiu4 gang1; tiu1 gang1), 匙羹(ci4 gang1), 湯匙(tong1 ci4), 勺仔(soek3 zai2), 羹仔(gang1 zai2)
 1F374	{ 🍴 }	刀叉(dou1 caa1)
 1F37D	{ 🍽 }	餐具(caan1 geoi6), 用餐(jung6 caan1), 用膳(jung6 sin6), 食飯(sik6 faan6)
 1F963	{ 🥣 }	碗勺(wun2 soek3), 碗(wun2), 飯碗(faan6 wun2)
