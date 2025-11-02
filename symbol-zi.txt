@@ -15,6 +15,7 @@
 2FFE	{ ⿾ }	左右顛倒結構(zo2 jau6 din1 dou2 git3 kau3; zo2 jau6 din1 dou2 git3 gau3), 左右顛倒(zo2 jau6 din1 dou2)
 2FFF	{ ⿿ }	上下顛倒結構(soeng6 haa6 din1 dou2 git3 kau3; soeng6 haa6 din1 dou2 git3 gau3), 上下顛倒(soeng6 haa6 din1 dou2)
 303E	{ 〾 }	相似結構(soeng1 ci5 git3 kau3; soeng1 ci5 git3 gau3)
+303F	{ 〿 }	缺字(kyut3 zi6), 某字(mau5 zi6), 某(mau5), 空缺(hung1 kyut3), 虛缺(heoi1 kyut3)
 31EF	{ ㇯ }	相減結構(soeng1 gaam2 git3 kau3; soeng1 gaam2 git3 gau3)
 2E5	{ ˥ }	調值五(diu6 zik6 ng5)
 2E6	{ ˦ }	調值四(diu6 zik6 sei3)

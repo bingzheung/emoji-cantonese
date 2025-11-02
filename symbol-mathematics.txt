@@ -21,6 +21,8 @@ B1	{ ± }	加減(gaa1 gaam2), 加減號(gaa1 gaam2 hou6), 正負(zing3 fu6), 正
 222B	{ ∫ }	積分(zik1 fan1), 積分符號(zik1 fan1 fu4 hou6)
 222C	{ ∬ }	雙重積分(soeng1 cung4 zik1 fan1), 二重積分(ji6 cung4 zik1 fan1), 兩重積分(loeng2 cung4 zik1 fan1)
 222D	{ ∭ }	三重積分(saam1 cung4 zik1 fan1)
+2032	{ ′ }	角分符號(gok3 fan1 fu4 hou6), 角分(gok3 fan1), 導數(dou6 sou3), 求導(kau4 dou6), 一階導數(jat1 gaai1 dou6 sou3), 一階導(jat1 gaai1 dou6)
+2033	{ ″ }	角秒符號(gok3 miu5 fu4 hou6), 角秒(gok3 miu5), 二階導數(ji6 gaai1 dou6 sou3), 二階導(ji6 gaai1 dou6)
 221D	{ ∝ }	正比於(zing3 bei2 jyu1)
 2205	{ ∅ }	空集(hung1 zaap6)
 2295	{ ⊕ }	異或(ji6 waak6)
