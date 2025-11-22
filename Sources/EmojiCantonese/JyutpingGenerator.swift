@@ -11,7 +11,7 @@ private struct JyutpingEntry: CustomStringConvertible, Hashable, Comparable {
                 let romanizationCompare = lhs.romanization.compare(rhs.romanization, locale: englishLocale)
                 guard romanizationCompare == .orderedSame else { return romanizationCompare == .orderedAscending }
                 let words: [String] = [lhs.word, rhs.word]
-                let sortedWords: [String] = words.sortedWithUnicodeCodePoint()
+                let sortedWords: [String] = words.uniqued().sortedWithUnicodeCodePoint()
                 return sortedWords[0] == words[0]
         }
 }

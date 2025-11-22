@@ -111,7 +111,7 @@
 1FAA0	{ 🪠 }	馬桶吸(maa5 tung2 kap1)
 1F9FA	{ 🧺 }	籃(laam4), 竹籃(zuk1 laam4), 籃筐(laam4 hong1; laam4 kwaang1), 筐(hong1; kwaang1)
 1F9FB	{ 🧻 }	卷紙(gyun2 zi2), 紙卷(zi2 gyun2)
-1F6BD	{ 🚽 }	馬桶(maa5 tung2), 廁所(ci3 so2), 衛生間(wai6 sang1 gaan1), 洗手間(sai2 sau2 gaan1)
+1F6BD	{ 🚽 }	馬桶(maa5 tung2), 如廁(jyu4 ci3), 廁所(ci3 so2), 衛生間(wai6 sang1 gaan1), 洗手間(sai2 sau2 gaan1), 廁(ci3)
 1F6B0	{ 🚰 }	水龍頭(seoi2 lung4 tau4), 水喉(seoi2 hau4), 飲用水(jam2 jung6 seoi2)
 1F6BF	{ 🚿 }	花灑(faa1 saa2), 蓮蓬頭(lin4 pung4 tau4), 沖涼(cung1 loeng4)
 1F6C1	{ 🛁 }	浴缸(juk6 gong1), 浸浴缸(zam3 juk6 gong1)

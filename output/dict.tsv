@@ -441,6 +441,7 @@
 豕	ci2
 齒	ci2
 齒輪	ci2 leon4
+廁	ci3
 翅	ci3
 翅膀	ci3 bong2
 刺身	ci3 san1
@@ -561,6 +562,7 @@
 賽艇男	coi3 teng5 naam4
 賽艇女	coi3 teng5 neoi5
 菜椒	coi3 ziu1
+財	coi4
 裁判	coi4 pun3
 蒼鷹	cong1 jing1
 蒼蠅	cong1 jing4
@@ -761,6 +763,7 @@
 得意	dak1 ji3
 得意洋洋	dak1 ji3 joeng4 joeng4
 德意志	dak1 ji3 zi3
+特	dak6
 特克斯及凱科斯羣島	dak6 hak1 si1 kap6 hoi2 fo1 si1 kwan4 dou2
 抌垃圾	dam2 laap6 saap3
 燈	dang1
@@ -1224,6 +1227,7 @@
 格魯吉亞	gaak3 lou5 gat1 aa3
 格仔餅	gaak3 zai2 beng2
 尷	gaam1
+監	gaam1
 尷尬	gaam1 gaai3
 減	gaam2
 減號	gaam2 hou6
@@ -1298,6 +1302,7 @@
 計程車	gai3 cing4 ce1
 計時	gai3 si4
 柑	gam1
+金	gam1
 金髮	gam1 faat3
 金髮妹	gam1 faat3 mui1
 金髮男	gam1 faat3 naam4
@@ -1878,6 +1883,7 @@
 氫氧化銅	hing1 joeng5 faa3 tung4
 慶典	hing3 din2
 慶祝	hing3 zuk1
+協	hip3
 蠍	hit3
 蠍子	hit3 zi2
 囂	hiu1
@@ -1978,6 +1984,7 @@
 汗顏	hon6 ngaan4
 筐	hong1
 航天員	hong4 tin1 jyun4
+項	hong6
 褐	hot3
 褐心	hot3 sam1
 褐色	hot3 sik1
@@ -2221,6 +2228,8 @@
 日式郵局	jat6 sik1 jau4 guk2
 日式郵局	jat6 sik1 jau4 guk6
 日式城堡	jat6 sik1 sing4 bou2
+休	jau1
+優	jau1
 休閒車	jau1 haan4 ce1
 蚯蚓	jau1 jan5
 休旅車	jau1 leoi5 ce1
@@ -2228,6 +2237,7 @@
 幽靈	jau1 ling4
 憂傷	jau1 soeng1
 憂鬱	jau1 wat1
+幼	jau3
 幼苗	jau3 miu4
 幼芽	jau3 ngaa4
 游	jau4
@@ -2317,6 +2327,7 @@
 野牛	je5 ngau4
 野豬	je5 zyu1
 野豬頭	je5 zyu1 tau4
+夜	je6
 夜橋	je6 kiu4
 夜晚	je6 maan5
 夜晚黑	je6 maan5 hak1
@@ -2522,6 +2533,7 @@
 魚	jyu4
 魚板	jyu4 baan2
 魚餅	jyu4 beng2
+如廁	jyu4 ci3
 蠕蟲	jyu4 cung4
 魚人	jyu4 jan4
 魚類	jyu4 leoi6
@@ -3121,6 +3133,7 @@
 蚊	man1
 蚊蟲	man1 cung4
 蚊子	man1 zi2
+文	man4
 蚊	man4
 蚊蟲	man4 cung4
 文件夾	man4 gin2 gaap3
@@ -3191,6 +3204,7 @@
 面目猙獰	min6 muk6 zang1 ning4
 麪條	min6 tiu4
 面震	min6 zan3
+名	ming4
 名卡	ming4 kaa1
 名卡	ming4 kaat1
 名咭	ming4 kaat1
@@ -4054,6 +4068,7 @@
 寫作	se2 zok3
 蛇	se4
 蛇夫座	se4 fu1 zo6
+社	se5
 射	se6
 射手座	se6 sau2 zo6
 射箭	se6 zin3
@@ -4110,6 +4125,7 @@
 石龍子	sek6 lung4 zi2
 石頭	sek6 tau4
 石像	sek6 zoeng6
+水	seoi2
 水	seoi2
 水獺	seoi2 caat3
 水槍	seoi2 coeng1
@@ -4203,6 +4219,7 @@
 示字邊	si6 zi6 bin1
 示字旁	si6 zi6 pong4
 色	sik1
+適	sik1
 熄機	sik1 gei1
 蜥蜴	sik1 jik6
 釋然	sik1 jin4
@@ -4767,6 +4784,7 @@
 湯麪	tong1 min6
 糖	tong2
 糖果	tong4 gwo2
+土	tou2
 土豆	tou2 dau6
 土庫曼斯坦	tou2 fu3 maan6 si1 taan2
 土狗	tou2 gau2
@@ -5025,6 +5043,7 @@
 震機	zan3 gei1
 震卦	zan3 gwaa3
 陣風	zan6 fung1
+箏	zang1
 猙獰	zang1 ning4
 執筆	zap1 bat1
 執導	zap1 dou6
@@ -5058,6 +5077,7 @@
 准許	zeon2 heoi2
 進入	zeon3 jap6
 卒	zeot1
+資	zi1
 支菸	zi1 jin1
 資料夾	zi1 liu2 gaap3
 齜牙	zi1 ngaa4
@@ -5299,6 +5319,7 @@
 足跡	zuk1 zik1
 竹節	zuk1 zit3
 中	zung1
+宗	zung1
 棕	zung1
 鐘	zung1
 中秋	zung1 cau1
@@ -5405,6 +5426,7 @@
 中的	zung3 dik1
 中肯	zung3 hang2
 中暑	zung3 syu2
+株	zyu1
 蛛	zyu1
 豬	zyu1
 豬鼻	zyu1 bei6
@@ -5420,6 +5442,7 @@
 朱雀	zyu1 zoek3
 豬豬	zyu1 zyu1
 主題公園	zyu2 tai4 gung1 jyun2
+注	zyu3
 註冊	zyu3 caak3
 註冊商標	zyu3 caak3 soeng1 biu1
 注意	zyu3 ji3
