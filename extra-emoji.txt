@@ -11,5 +11,5 @@
 1F468.1F3FF	{ 👨🏿 }	黑人(hak1 jan4), 黑佬(hak1 lou2), 老廣(lou5 gwong2)
 1F469 1F3FF	{ 👩🏿 }	黑人(hak1 jan4), 黑妹(hak1 mui1)
 1F469	{ 👩 }	女人(neoi5 jan2; neoi5 jan4), 女子(neoi5 zi2), 女士(neoi5 si6), 女(neoi5), 靚女(leng3 neoi2; leng3 neoi5), 美女(mei5 neoi5), 女生(neoi5 sang1), 姑娘(gu1 noeng4)
-1F470.200D.2640.FE0F	{ 👰‍♀️ }	婚紗(fan1 saa1), 新娘(san1 noeng4), 新婦(san1 fu5; san1 pou5; sam1 pou5), 新娘子(san1 noeng4 zi2)
+1F470.200D.2640.FE0F	{ 👰‍♀️ }	婚紗(fan1 saa1), 新娘(san1 noeng4), 新婦(san1 fu5; san1 pou5; sam1 pou5), 新娘子(san1 noeng4 zi2), 結婚(git3 fan1)
 1F478	{ 👸 }	公主(gung1 zyu2), 王妃(wong4 fei1), 王女(wong4 neoi5)
