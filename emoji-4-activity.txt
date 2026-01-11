@@ -98,7 +98,7 @@
 1F3A8	{ 🎨 }	調色板(tiu4 sik1 baan2), 繪畫(kui2 waa2; kui3 waa6; kui3 waak6), 畫畫(waak6 waa2)
 1FADF	{ 🫟 }	潑(put3), 濺(zin3), 潑濺(put3 zin3), 濺潑(zin3 put3), 污漬(wu1 zik1)
 1F3AC	{ 🎬 }	場記板(coeng4 gei3 baan2), 場記(coeng4 gei3), 拍攝(paak3 sip3), 拍戲(paak3 hei3), 拍片(paak3 pin2), 片場(pin2 coeng4), 導演(dou6 jin2), 執導(zap1 dou6), 開波(hoi1 bo1)
-1F3A4	{ 🎤 }	咪(mai1), 咪高峯(mai1 gou1 fung1), 咪高風(mai1 gou1 fung1), 話筒(waa6 tung4; waa6 tung2)
+1F3A4	{ 🎤 }	銤(mai1), 銤高風(mai1 gou1 fung1), 話筒(waa6 tung4; waa6 tung2)
 1F3A7	{ 🎧 }	耳機(ji5 gei1)
 1F3BC	{ 🎼 }	樂譜(ngok6 pou2), 曲譜(kuk1 pou2), 歌譜(go1 pou2), 譜(pou2)
 1F3B9	{ 🎹 }	音樂鍵盤(jam1 ngok6 gin6 pun2), 鋼琴鍵(gong3 kam4 gin6), 琴鍵(kam4 gin6), 鋼琴(gong3 kam4), 琴(kam4)

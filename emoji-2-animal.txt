@@ -39,7 +39,7 @@
 1F41D	{ 🐝 }	蜜蜂(mat6 fung1), 蜂(fung1), 黃蜂(wong4 fung1), 馬蜂(maa5 fung1)
 1FAB1	{ 🪱 }	蠕蟲(jyu4 cung4), 蟲(cung4), 寄生蟲(gei3 sang1 cung4), 黃䘆(wong4 hyun2; wong4 hin2), 紅䘆(hung4 hyun2; hung4 hin2), 䘆(hyun2; hin2), 蚯蚓(jau1 jan5), 地龍(dei6 lung4)
 1F41B	{ 🐛 }	蟲(cung4), 毛毛蟲(mou4 mou4 cung4), 毛蟲(mou4 cung4), 一條蟲(jat1 tiu4 cung4)
-1F98B	{ 🦋 }	蝴蝶(wu4 dip6; wu4 dip2), 蝶(dip6; dip2)
+1F98B	{ 🦋 }	蝴蝶(wu4 dip6; wu4 dip2), 蝶(dip6; dip2), 蛺蜨(gaap3 dip6), 蛺(gaap3), 蜨(dip6)
 1F40C	{ 🐌 }	蝸牛(wo1 ngau4), 蝸(wo1)
 1F41E	{ 🐞 }	瓢蟲(piu4 cung4), 七星瓢蟲(cat1 sing1 piu4 cung4)
 1F41C	{ 🐜 }	蟻(ngai5), 螞蟻(maa5 ngai5)
