@@ -179,6 +179,7 @@
 繃帶	bang1 daai2
 繃帶	bang1 daai3
 筆	bat1
+不存在	bat1 cyun4 zoi6
 不丹	bat1 daan1
 不等	bat1 dang2
 不等號	bat1 dang2 hou6
@@ -205,6 +206,7 @@
 不明飛行物體	bat1 ming4 fei1 hang4 mat6 tai2
 不滿	bat1 mun5
 不死鳥	bat1 sei2 niu5
+不屬於	bat1 suk6 jyu1
 不說惡言	bat1 syut3 ok3 jin4
 不說惡言猿	bat1 syut3 ok3 jin4 jyun4
 不聽惡詞	bat1 ting3 ok3 ci4
@@ -274,6 +276,7 @@
 冰字邊	bing1 zi6 bin1
 冰字旁	bing1 zi6 pong4
 丙烷	bing2 jyun4
+並非	bing6 fei1
 別墅	bit6 seoi5
 別針	bit6 zam1
 錶	biu1
@@ -571,6 +574,7 @@
 賽艇女	coi3 teng5 neoi5
 菜椒	coi3 ziu1
 財	coi4
+財富	coi4 fu3
 裁判	coi4 pun3
 蒼鷹	cong1 jing1
 蒼蠅	cong1 jing4
@@ -632,6 +636,7 @@
 傳信箱	cyun4 seon3 soeng1
 傳真	cyun4 zan1
 傳真機	cyun4 zan1 gei1
+存在	cyun4 zoi6
 打	daa2
 打邊爐	daa2 bin1 lou4
 打波	daa2 bo1
@@ -1531,6 +1536,7 @@
 殭屍女	goeng1 si1 neoi5
 蓋飯	goi3 faan6
 角	gok3
+角度	gok3 dou6
 角分	gok3 fan1
 角分符號	gok3 fan1 fu4 hou6
 角秒	gok3 miu5
@@ -2974,6 +2980,7 @@
 老鼠籠	lou5 syu2 lung4
 老撾	lou5 wo1
 露齒笑	lou6 ci2 siu3
+路徑積分	lou6 ging3 zik1 fan1
 露國	lou6 gwok3
 路人	lou6 jan4
 路人男	lou6 jan4 naam4
@@ -3040,6 +3047,7 @@
 戀愛旅館	lyun2 oi3 leoi5 gun2
 聯合國	lyun4 hap6 gwok3
 聯合王國	lyun4 hap6 wong4 gwok3
+唔存在	m4 cyun4 zoi6
 唔得	m4 dak1
 唔等於	m4 dang2 jyu1
 唔等如	m4 dang2 jyu4
@@ -3058,6 +3066,7 @@
 唔愛	m4 oi3
 唔使客氣	m4 sai2 haak3 hei3
 唔想	m4 soeng2
+唔屬於	m4 suk6 jyu1
 唔舒服	m4 syu1 fuk6
 唔同意	m4 tung4 ji3
 唔制	m4 zai3
@@ -3241,6 +3250,7 @@
 面目猙獰	min6 muk6 zang1 ning4
 麪條	min6 tiu4
 面震	min6 zan3
+面積積分	min6 zik1 zik1 fan1
 名	ming4
 名卡	ming4 kaa1
 名卡	ming4 kaat1
@@ -4431,6 +4441,7 @@
 梳化	so1 faa2
 鎖	so2
 鎖定	so2 ding6
+所有	so2 jau5
 所以	so2 ji5
 鎖鏈	so2 lin4
 所羅門羣島	so2 lo4 mun4 kwan4 dou2
@@ -4583,6 +4594,7 @@
 數字號	sou3 zi6 hou6
 數字輸入	sou3 zi6 syu1 jap6
 粟米	suk1 mai5
+屬於	suk6 jyu1
 熟睡	suk6 seoi6
 鬆餅	sung1 beng2
 聳肩	sung2 gin1
@@ -4708,6 +4720,7 @@
 睇書	tai2 syu1
 睇睇	tai2 tai2
 體溫計	tai2 wai6 gai3
+體積積分	tai2 zik1 zik1 fan1
 涕泗	tai3 si3
 涕泗滂沱	tai3 si3 pong4 to4
 涕泗橫流	tai3 si3 waang4 lau4
@@ -5108,6 +5121,8 @@
 皺眉	zau3 mei4
 皺眉男	zau3 mei4 naam4
 皺眉女	zau3 mei4 neoi5
+袖珍光碟	zau6 zan1 gwong1 dip2
+袖珍光盤	zau6 zan1 gwong1 pun2
 遮	ze1
 遮雨	ze1 jyu5
 姐妹	ze2 mui6
@@ -5198,6 +5213,7 @@
 直布羅陀	zik6 bou3 lo4 to4
 直尺	zik6 cek3
 直方圖	zik6 fong1 tou4
+直角	zik6 gok3
 夕陽	zik6 joeng4
 直昇機	zik6 sing1 gei1
 煎餅	zin1 beng2
@@ -5232,6 +5248,7 @@
 整蠱作怪	zing2 gu2 zok3 gwaai3
 整數	zing2 sou3
 正	zing3
+證畢	zing3 bat1
 正比於	zing3 bei2 jyu1
 正方	zing3 fong1
 正方形	zing3 fong1 jing4
