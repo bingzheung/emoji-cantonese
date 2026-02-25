@@ -39,7 +39,7 @@
 1F35E	{ 🍞 }	麪包(min6 baau1), 西式麪包(sai1 sik1 min6 baau1)
 1F956	{ 🥖 }	法式麪包(faat3 sik1 min6 baau1), 法式長棍(faat3 sik1 coeng4 gwan3), 法棍(faat3 gwan3)
 1F968	{ 🥨 }	蝴蝶餅(wu4 dip6 beng2), 蝴蝶脆餅(wu4 dip6 ceoi3 beng2), 椒鹽捲餅(ziu1 jim4 gyun2 beng2)
-1F9C0	{ 🧀 }	芝士(zi1 si2), 奶酪(naai5 lok3), 乳酪(jyu5 lok3)
+1F9C0	{ 🧀 }	芝士(zi1 si2), 奶酪(naai5 lok3), 乾酪(gon1 lok3)
 1F95A	{ 🥚 }	雞蛋(gai1 daan6; gai1 daan2), 雞膥(gai1 ceon1), 蛋(daan6; daan2), 膥(ceon1)
 1F373	{ 🍳 }	煎蛋(zin1 daan6; zin1 daan2), 煎雞蛋(zin1 gai1 daan6; zin1 gai1 daan2), 煎雞膥(zin1 gai1 ceon1)
 1F9C8	{ 🧈 }	牛油(ngau4 jau4), 黃油(wong4 jau4), 奶油(naai5 jau4), 忌廉(gei6 lim1)

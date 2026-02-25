@@ -645,6 +645,7 @@
 打乞嗤	daa2 hat1 ci1
 打印	daa2 jan3
 打印機	daa2 jan3 gei1
+打球	daa2 kau4
 打拳	daa2 kyun2
 打拳	daa2 kyun4
 打籃球	daa2 laam4 kau4
@@ -1545,6 +1546,7 @@
 角子	gok3 zi2
 乾冰	gon1 bing1
 乾杯	gon1 bui1
+乾酪	gon1 lok3
 岡比亞	gong1 bei2 aa3
 剛果	gong1 gwo2
 剛果共和國	gong1 gwo2 gung6 wo4 gwok3
@@ -1691,6 +1693,7 @@
 骨頭	gwat1 tau4
 骨頭肉	gwat1 tau4 juk6
 橘子	gwat1 zi2
+果糖	gwo2 tong4
 果汁	gwo2 zap1
 過氧化氫	gwo3 joeng5 faa3 hing1
 過山車	gwo3 saan1 ce1
@@ -1797,6 +1800,7 @@
 黑面	hak1 min6
 黑妹	hak1 mui1
 黑鳥	hak1 niu5
+黑皮狗	hak1 pei4 gau2
 黑三角	hak1 saam1 gok3
 黑山	hak1 saan1
 黑心	hak1 sam1
@@ -2586,13 +2590,13 @@
 宇航員	jyu5 hong4 jyun4
 乳液瓶	jyu5 jik6 ping4
 語言	jyu5 jin4
-乳酪	jyu5 lok3
 羽毛	jyu5 mou4
 羽毛球	jyu5 mou4 kau4
 雨傘	jyu5 saan3
 語塞	jyu5 sak1
 雨水	jyu5 seoi2
 雨雪	jyu5 syut3
+鳶	jyun1
 鳶尾	jyun1 mei5
 鳶尾花	jyun1 mei5 faa1
 圓	jyun4
@@ -2630,6 +2634,7 @@
 閱讀	jyut6 duk6
 月黑風高	jyut6 hak1 fung1 gou1
 越野車	jyut6 je5 ce1
+月圓	jyut6 jyun4
 閱覽	jyut6 laam5
 月亮	jyut6 loeng6
 越南	jyut6 naam4
@@ -2660,6 +2665,7 @@
 購物車	kau3 mat6 ce1
 購物袋	kau3 mat6 doi2
 釦針	kau3 zam1
+球	kau4
 求導	kau4 dou6
 求救	kau4 gau3
 球鞋	kau4 haai4
@@ -3252,6 +3258,7 @@
 面震	min6 zan3
 面積積分	min6 zik1 zik1 fan1
 名	ming4
+明月	ming4 jyut6
 名卡	ming4 kaa1
 名卡	ming4 kaat1
 名咭	ming4 kaat1
@@ -3703,6 +3710,7 @@
 農夫車	nung4 fu1 ce1
 農民	nung4 man4
 農戶	nung4 wu6
+屙屎	o1 si2
 埃	oi1
 埃塞俄比亞	oi1 coi3 ngo4 bei2 aa3
 埃及	oi1 kap6
@@ -3819,6 +3827,7 @@
 葡提子	pou4 tai4 zi2
 葡萄	pou4 tou4
 葡萄牙	pou4 tou4 ngaa4
+葡萄糖	pou4 tou4 tong4
 葡萄糖酸鋅	pou4 tou4 tong4 syun1 san1
 葡萄酒	pou4 tou4 zau2
 泡	pou5
@@ -4201,6 +4210,7 @@
 水晶球	seoi2 zing1 kau4
 帥	seoi3
 垂釣	seoi4 diu3
+彗	seoi6
 睡	seoi6
 穗	seoi6
 瑞典	seoi6 din2
@@ -4299,6 +4309,8 @@
 閃亮	sim2 loeng6
 閃亮之心	sim2 loeng6 zi1 sam1
 閃閃之心	sim2 sim2 zi1 sam1
+蟾宮	sim4 gung1
+嬋娟	sim4 gyun1
 鮮花	sin1 faa1
 仙人掌	sin1 jan4 zoeng2
 仙女	sin1 neoi2
@@ -4582,6 +4594,7 @@
 蘇州碼四	sou1 zau1 maa5 sei3
 掃	sou3
 掃把	sou3 baa2
+掃把星	sou3 baa2 sing1
 數簿	sou3 bou2
 數簿	sou3 bou6
 掃地	sou3 dei6
@@ -4760,6 +4773,7 @@
 頭震	tau4 zan3
 骰子	tau4 zi2
 踢波	tek3 bo1
+踢球	tek3 kau4
 聽	teng1
 聽診器	teng1 can2 hei3
 聽筒	teng1 tung2
@@ -4937,6 +4951,7 @@
 圍觀	wai4 gun1
 惟利是圖	wai4 lei6 si6 tou4
 圍字框	wai4 zi6 hong1
+彗	wai6
 蝟	wai6
 衛兵	wai6 bing1
 爲何	wai6 ho4
@@ -5121,11 +5136,13 @@
 皺眉	zau3 mei4
 皺眉男	zau3 mei4 naam4
 皺眉女	zau3 mei4 neoi5
+鷲	zau6
 袖珍光碟	zau6 zan1 gwong1 dip2
 袖珍光盤	zau6 zan1 gwong1 pun2
 遮	ze1
 遮雨	ze1 jyu5
 姐妹	ze2 mui6
+蔗糖	ze3 tong4
 織蟀	zek1 seot1
 井	zeng2
 井鍵	zeng2 gin6

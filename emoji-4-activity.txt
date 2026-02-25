@@ -1,5 +1,5 @@
-26BD.FE0F	{ ⚽️ }	足球(zuk1 kau4), 踢波(tek3 bo1), 蹴鞠(cuk1 guk1)
-1F3C0	{ 🏀 }	籃球(laam4 kau4), 打波(daa2 bo1)
+26BD.FE0F	{ ⚽️ }	足球(zuk1 kau4), 踢波(tek3 bo1), 蹴鞠(cuk1 guk1), 踢球(tek3 kau4), 球(kau4)
+1F3C0	{ 🏀 }	籃球(laam4 kau4), 打波(daa2 bo1), 打球(daa2 kau4)
 1F3C8	{ 🏈 }	美式橄欖球(mei5 sik1 gam2 laam5 kau4), 橄欖球(gam2 laam5 kau4)
 26BE.FE0F	{ ⚾️ }	棒球(paang5 kau4)
 1F94E	{ 🥎 }	壘球(leoi5 kau4)
