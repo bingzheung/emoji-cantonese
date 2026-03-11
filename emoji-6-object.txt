@@ -139,7 +139,7 @@
 1FA9F	{ 🪟 }	窗(coeng1), 戶(wu6), 窗戶(coeng1 wu6), 窗口(coeng1 hau2)
 1F6CD	{ 🛍 }	購物袋(kau3 mat6 doi2; gau3 mat6 doi2), 購物(kau3 mat6; gau3 mat6), 袋(doi2)
 1F6D2	{ 🛒 }	購物車(kau3 mat6 ce1; gau3 mat6 ce1), 購物(kau3 mat6; gau3 mat6), 買餸車(maai5 sung3 ce1), 買餸(maai5 sung3), 超級市場(ciu1 kap1 si5 coeng4), 超市(ciu1 si5)
-1F381.FE0F	{ 🎁️ }	禮盒(lai5 hap2; lai5 hap6), 禮品盒(lai5 ban2 hap6), 禮品(lai5 ban2), 禮物(lai5 mat6), 賀禮(ho6 lai5), 手信(sau2 seon3)
+1F381.FE0F	{ 🎁️ }	禮盒(lai5 hap2; lai5 hap6), 禮品盒(lai5 ban2 hap6), 禮品(lai5 ban2), 禮物(lai5 mat6), 賀禮(ho6 lai5), 手信(sau2 seon3), 盒(hap6), 箱(soeng1)
 1F388	{ 🎈 }	氣球(hei3 kau4)
 1F38F	{ 🎏 }	鯉魚旗(lei5 jyu4 kei4)
 1F380	{ 🎀 }	絲帶(si1 daai2), 緞帶(dyun6 daai2), 蝴蝶結(wu4 dip6 git3; wu4 dip2 git3)
