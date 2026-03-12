@@ -10,7 +10,6 @@
 25CF	{ ● }	黑圈(hak1 hyun1), 黑圓(hak1 jyun4), 黑點(hak1 dim2)
 2661	{ ♡ }	心形(sam1 jing4), 愛心(oi3 sam1), 心(sam1)
 2665.FE0E	{ ♥︎ }	心形(sam1 jing4), 愛心(oi3 sam1), 心(sam1)
-2764.FE0E	{ ❤︎ }	心形(sam1 jing4), 愛心(oi3 sam1), 心(sam1)
 2726	{ ✦ }	四角星(sei3 gok3 sing1)
 2727	{ ✧ }	四角星(sei3 gok3 sing1)
 2605	{ ★ }	五角星(ng5 gok3 sing1), 星形(sing1 jing4)

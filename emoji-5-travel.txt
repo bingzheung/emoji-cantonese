@@ -22,7 +22,7 @@
 1F3CD	{ 🏍 }	摩托車(mo1 tok3 ce1), 摩托(mo1 tok3), 電單車(din6 daan1 ce1), 機車(gei1 ce1)
 1F6FA	{ 🛺 }	三輪車(saam1 leon4 ce1)
 1F6DE	{ 🛞 }	車轆(ce1 luk1), 轆(luk1), 車輪(ce1 leon4), 輪(leon4), 輪胎(leon4 toi1), 車胎(ce1 toi1), 備胎(bei6 toi1), 車呔(ce1 taai1), 呔(taai1)
-1F6A8	{ 🚨 }	警車燈(ging2 ce1 dang1), 警燈(ging2 dang1), 警示燈(ging2 si6 dang1)
+1F6A8	{ 🚨 }	警車燈(ging2 ce1 dang1), 警燈(ging2 dang1), 警示燈(ging2 si6 dang1), 警示(ging2 si6), 示警(si6 ging2), 警報(ging2 bou3), 出警(ceot1 ging2), 警笛(ging2 dek6)
 1F694	{ 🚔 }	警車(ging2 ce1)
 1F68D	{ 🚍 }	公交車(gung1 gaau1 ce1), 巴士(baa1 si2)
 1F698	{ 🚘 }	車(ce1), 汽車(hei3 ce1), 轎車(giu2 ce1; giu6 ce1; kiu2 ce1), 小轎車(siu2 giu2 ce1), 私家車(si1 gaa1 ce1)
