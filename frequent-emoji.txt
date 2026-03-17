@@ -14,7 +14,7 @@
 1F60F	{ 😏 }	奸笑(gaan1 siu3)
 1F914	{ 🤔 }	諗(nam2)
 2764.FE0F	{ ❤️ }	心(sam1)
-1F496	{ 💖 }	心(sam1)
+1F496	{ 💖 }	閃閃心(sim2 sim2 sam1)
 1F495	{ 💕 }	心心(sam1 sam1)
 1F49E	{ 💞 }	心心(sam1 sam1)
 1F339	{ 🌹 }	玫瑰(mui4 gwai3)

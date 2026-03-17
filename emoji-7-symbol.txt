@@ -18,7 +18,7 @@
 1F49E	{ 💞 }	雙心(soeng1 sam1), 心心(sam1 sam1), 心心相印(sam1 sam1 soeng1 jan3)
 1F493	{ 💓 }	心動(sam1 dung6), 心跳(sam1 tiu3)
 1F497	{ 💗 }	心動(sam1 dung6), 心跳(sam1 tiu3)
-1F496	{ 💖 }	心閃閃(sam1 sim2 sim2), 心閃(sam1 sim2), 閃心(sim2 sam1)
+1F496	{ 💖 }	心閃閃(sam1 sim2 sim2), 閃閃心(sim2 sim2 sam1), 心閃(sam1 sim2), 閃心(sim2 sam1)
 1F498	{ 💘 }	心中箭(sam1 zung3 zin3), 一箭穿心(jat1 zin3 cyun1 sam1)
 1F49D	{ 💝 }	心意(sam1 ji3), 禮物(lai5 mat6)
 1F49F	{ 💟 }	心形(sam1 jing4), 心田(sam1 tin4), 心間(sam1 gaan1)
