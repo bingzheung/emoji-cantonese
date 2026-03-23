@@ -53,7 +53,7 @@
 1F982	{ 🦂 }	蠍子(hit3 zi2; kit3 zi2), 蠍(hit3; kit3)
 1F422	{ 🐢 }	海龜(hoi2 gwai1), 龜(gwai1), 烏龜(wu1 gwai1)
 1F40D	{ 🐍 }	蛇(se4), 蟒(mong5), 虺(wai2)
-1F98E	{ 🦎 }	變色龍(bin3 sik1 lung4), 蜥蜴(sik1 jik6), 爬行動物(paa4 hang4 dung6 mat6), 四腳蛇(sei3 goek3 se4), 石龍子(sek6 lung4 zi2), 豬仔蛇(zyu1 zai2 se4)
+1F98E	{ 🦎 }	變色龍(bin3 sik1 lung4), 蜥蜴(sik1 jik6), 爬行動物(paa4 hang4 dung6 mat6), 四腳蛇(sei3 goek3 se4), 石龍子(sek6 lung4 zi2), 豬仔蛇(zyu1 zai2 se4), 爬行(paa4 hang4), 爬(paa4)
 1F996	{ 🦖 }	霸王龍(baa3 wong4 lung4), 恐龍(hung2 lung4)
 1F995	{ 🦕 }	恐龍(hung2 lung4)
 1F419	{ 🐙 }	章魚(zoeng1 jyu4), 八爪魚(baat3 zaau2 jyu4), 八帶魚(baat3 daai3 jyu4)

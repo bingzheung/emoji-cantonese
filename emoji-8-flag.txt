@@ -196,7 +196,7 @@
 1F1F8.1F1F2	{ 🇸🇲 }	聖馬力諾(sing3 maa5 lik6 nok6)
 1F1F8.1F1F9	{ 🇸🇹 }	聖多美普林西比(sing3 do1 mei5 pou2 lam4 sai1 bei2)
 1F1E8.1F1F6	{ 🇨🇶 }	薩克(saat3 hak1)
-1F1F8.1F1E6	{ 🇸🇦 }	沙特阿拉伯(saa1 dak6 aa3 laai1 baak3), 沙特(saa1 dak6), 沙烏地阿拉伯(saa1 wu1 dei6 aa3 laai1 baak3), 沙地阿拉伯(saa1 dei6 aa3 laai1 baak3)
+1F1F8.1F1E6	{ 🇸🇦 }	沙特阿拉伯(saa1 dak6 aa3 laai1 baak3), 沙特(saa1 dak6), 沙烏地阿拉伯(saa1 wu1 dei6 aa3 laai1 baak3), 沙烏地(saa1 wu1 dei6), 沙地阿拉伯(saa1 dei6 aa3 laai1 baak3), 沙地(saa1 dei6)
 1F1F8.1F1F3	{ 🇸🇳 }	塞內加爾(coi3 noi6 gaa1 ji5)
 1F1F7.1F1F8	{ 🇷🇸 }	塞爾維亞(coi3 ji5 wai4 aa3)
 1F1F8.1F1E8	{ 🇸🇨 }	塞舌爾(coi3 sit3 ji5)
