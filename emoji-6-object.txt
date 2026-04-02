@@ -56,7 +56,7 @@
 1F4B3	{ 💳 }	信用咭(seon3 jung6 kaat1), 銀行咭(ngan4 hong4 kaat1), 信用卡(seon3 jung6 kaat1; seon3 jung6 kaa1), 銀行卡(ngan4 hong4 kaat1; ngan4 hong4 kaa1), 卡(kaat1; kaa1)
 1FAAA	{ 🪪 }	身份證(san1 fan2 zing3)
 1F48E	{ 💎 }	鑽石(zyun3 sek6), 鑽(zyun3), 金剛石(gam1 gong1 sek6)
-1FA8E	{ 🪎 }	寶箱(bou2 soeng1), 百寶箱(baak3 bou2 soeng1), 財富(coi4 fu3), 財寶(coi4 bou2), 寶物(bou2 mat6), 寶物箱(bou2 mat6 soeng1), 寶貝(bou2 bui3)
+1FA8E	{ 🪎 }	寶箱(bou2 soeng1), 百寶箱(baak3 bou2 soeng1), 財富(coi4 fu3), 財寶(coi4 bou2), 寶藏(bou2 zong6), 寶物(bou2 mat6), 寶物箱(bou2 mat6 soeng1), 寶貝(bou2 bui3)
 2696.FE0F	{ ⚖️ }	天平(tin1 ping4), 秤(cing3)
 1FA9C	{ 🪜 }	人字梯(jan4 zi6 tai1), 梯(tai1)
 1F9F0	{ 🧰 }	工具箱(gung1 geoi6 soeng1)

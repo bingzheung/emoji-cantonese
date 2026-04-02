@@ -1,7 +1,7 @@
 1F34F	{ 🍏 }	青蘋果(ceng1 ping4 gwo2; cing1 ping4 gwo2), 蘋果(ping4 gwo2), 蘋(ping4)
 1F34E	{ 🍎 }	紅蘋果(hung4 ping4 gwo2), 蘋果(ping4 gwo2), 蘋(ping4)
 1F350	{ 🍐 }	梨(lei4), 雪梨(syut3 lei4)
-1F34A	{ 🍊 }	柑橘(gam1 gwat1), 橘(gwat1), 柑(gam1), 橙(caang4; caang2), 橘子(gwat1 zi2), 柑子(gam1 zi2), 橙子(caang4 zi2), 柑桔(gam1 gat1), 桔(gat1), 桔子(gat1 zi2)
+1F34A	{ 🍊 }	柑橘(gam1 gwat1), 橘(gwat1), 柑(gam1), 橙(caang2), 橘子(gwat1 zi2), 柑子(gam1 zi2), 橙子(caang4 zi2), 柑桔(gam1 gat1), 桔(gat1), 桔子(gat1 zi2)
 1F34B	{ 🍋 }	檸檬(ning4 mung1)
 1F34B.200D.1F7E9	{ 🍋‍🟩 }	青檸(cing1 ning4; ceng1 ning4), 青檸檬(cing1 ning4 mung1; ceng1 ning4 mung1)
 1F34C	{ 🍌 }	蕉(ziu1), 香蕉(hoeng1 ziu1)

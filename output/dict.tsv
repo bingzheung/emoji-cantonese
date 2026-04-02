@@ -315,6 +315,7 @@
 寶物	bou2 mat6
 寶物箱	bou2 mat6 soeng1
 寶箱	bou2 soeng1
+寶藏	bou2 zong6
 報	bou3
 報表	bou3 biu2
 布基納法索	bou3 gei1 naap6 faat3 sok3
@@ -376,7 +377,6 @@
 撐艇女	caang1 teng5 neoi5
 撐艇仔	caang1 teng5 zai2
 橙	caang2
-橙色	caang2 sik1
 橙	caang4
 橙心	caang4 sam1
 橙色	caang4 sik1
@@ -535,7 +535,6 @@
 超級市場	ciu1 kap1 si5 coeng4
 超市	ciu1 si5
 昭和	ciu1 wo4
-朝	ciu4
 朝鮮	ciu4 sin1
 初	co1
 初學者	co1 hok6 ze2
@@ -791,7 +790,6 @@
 第三卷	dai6 saam1 gyun2
 第四卷	dai6 sei3 gyun2
 得	dak1
-德	dak1
 得戚	dak1 cik1
 德國	dak1 gwok3
 得意	dak1 ji3
@@ -1039,7 +1037,6 @@
 飯盒	faan6 hap2
 飯糰	faan6 tyun4
 飯碗	faan6 wun2
-法	faat3
 發	faat3
 發財	faat3 coi4
 發件箱	faat3 gin6 soeng1
@@ -1580,7 +1577,6 @@
 剛果共和國	gong1 gwo2 gung6 wo4 gwok3
 剛果民主共和國	gong1 gwo2 man4 zyu2 gung6 wo4 gwok3
 江豚	gong1 tyun4
-港	gong2
 港幣	gong2 bai6
 講大話	gong2 daai6 waa6
 講多無謂	gong2 do1 mou4 wai6
@@ -1971,7 +1967,6 @@
 可惜	ho2 sik1
 可惜貓	ho2 sik1 maau1
 可回收	ho2 wui4 sau1
-荷	ho4
 荷蘭	ho4 laan1
 河馬	ho4 maa5
 荷屬聖馬丁	ho4 suk6 sing3 maa5 ding1
@@ -2051,7 +2046,6 @@
 學士帽	hok6 si6 mou6
 漢堡	hon3 bou2
 漢堡包	hon3 bou2 baau1
-韓	hon4
 韓幣	hon4 bai6
 韓國	hon4 gwok3
 韓元	hon4 jyun4
@@ -2431,7 +2425,6 @@
 衣字邊	ji1 zi6 bin1
 衣字旁	ji1 zi6 pong4
 椅	ji2
-意	ji3
 意大利	ji3 daai6 lei6
 意大利薄餅	ji3 daai6 lei6 bok6 beng2
 意大利粉	ji3 daai6 lei6 fan2
@@ -2522,7 +2515,6 @@
 演	jin5
 嬰	jing1
 櫻	jing1
-英	jing1
 鷹	jing1
 鸚	jing1
 英鎊	jing1 bong6
@@ -2774,6 +2766,7 @@
 葵花	kwai4 faa1
 葵扇	kwai4 sin3
 坤	kwan1
+昆蟲	kwan1 cung4
 坤卦	kwan1 gwaa3
 菌	kwan2
 睏	kwan3
@@ -3018,7 +3011,6 @@
 老虎	lou5 fu2
 老虎機	lou5 fu2 gei1
 老薑	lou5 goeng1
-老廣	lou5 gwong2
 老人	lou5 jan4
 老爺爺	lou5 je4 je2
 老鷹	lou5 jing1
@@ -3225,7 +3217,6 @@
 米穗	mai5 seoi6
 米糰	mai5 tyun4
 米字	mai5 zi6
-墨	mak6
 墨超	mak6 ciu1
 墨鏡	mak6 geng3
 墨魚	mak6 jyu4
@@ -3274,7 +3265,6 @@
 微微皺眉	mei4 mei4 zau3 mei4
 微笑	mei4 siu3
 微笑貓	mei4 siu3 maau1
-美	mei5
 美鈔	mei5 caau1
 美甲	mei5 gaap3
 美金	mei5 gam1
@@ -3431,7 +3421,6 @@
 滿月	mun5 jyut6
 滿足	mun5 zuk1
 懵	mung2
-蒙	mung4
 蒙特塞拉特	mung4 dak6 sak1 laai1 dak6
 蒙古	mung4 gu2
 蒙古國	mung4 gu2 gwok3
@@ -3530,6 +3519,9 @@
 南朝鮮	naam4 ziu1 sin1
 南佐治亞及南三文治	naam4 zo3 zi6 aa3 kap6 naam4 saam1 man4 zi6
 男裝	naam4 zong1
+𧕴蛆	naan3 ceoi1
+𧕴蟲	naan3 cung4
+𧕴蛆	naan3 zeoi1
 難頂	naan4 ding2
 難過	naan4 gwo3
 難以置信	naan4 ji5 zi3 seon3
@@ -3555,6 +3547,7 @@
 紐埃	nau2 oi1
 紐西蘭	nau2 sai1 laan4
 尼泊爾	nei4 bok6 ji5
+尼德蘭	nei4 dak1 laan4
 尼加拉瓜	nei4 gaa1 laai1 gwaa1
 獼猴	nei4 hau4
 獼猴桃	nei4 hau4 tou2
@@ -3749,6 +3742,7 @@
 外匯	ngoi6 wui6
 樂	ngok6
 鱷	ngok6
+樂器	ngok6 hei3
 愕然	ngok6 jin4
 鱷魚	ngok6 jyu4
 鱷梨	ngok6 lei4
@@ -3773,7 +3767,6 @@
 農民	nung4 man4
 農戶	nung4 wu6
 屙屎	o1 si2
-埃	oi1
 埃塞俄比亞	oi1 coi3 ngo4 bei2 aa3
 埃及	oi1 kap6
 哀求	oi1 kau4
@@ -3798,13 +3791,11 @@
 安南	on1 naam4
 安提瓜及巴布達	on1 tai4 gwaa1 kap6 baa1 bou3 daat6
 按摩	on3 mo1
-澳	ou3
 澳大利亞	ou3 daai6 lei6 aa3
 奧地利	ou3 dei6 lei6
 奧蘭羣島	ou3 laan4 kwan4 dou2
 奧姆	ou3 mou5
 澳門	ou3 mun2
-澳門	ou3 mun4
 澳洲	ou3 zau1
 爬	paa4
 爬行	paa4 hang4
@@ -3886,7 +3877,6 @@
 傍晚	pong4 maan5
 彷徨	pong4 wong4
 譜	pou2
-葡	pou4
 蒲隆地	pou4 lung4 dei6
 葡提子	pou4 tai4 zi2
 葡萄	pou4 tou4
@@ -4759,7 +4749,6 @@
 雪嶺	syut3 ling5
 雪山	syut3 saan1
 呔	taai1
-泰	taai3
 泰迪	taai3 dik6
 泰迪熊	taai3 dik6 hung4
 太極	taai3 gik6
@@ -4925,7 +4914,6 @@
 拖手	to1 sau2
 駝	to4
 檯球	toi2 kau4
-臺	toi4
 颱風	toi4 fung1
 檯曆	toi4 lik6
 檯式電腦	toi4 sik1 din6 nou5
@@ -5374,7 +5362,6 @@
 節節高	zit3 zit3 gou1
 捷克	zit6 hak1
 捷豹	zit6 paau3
-朝	ziu1
 椒	ziu1
 蕉	ziu1
 招呼	ziu1 fu1
