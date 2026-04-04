@@ -3,13 +3,16 @@
 1F170.FE0F	{ 🅰️ }	A型, A型血
 1F171.FE0F	{ 🅱️ }	B型, B型血
 1F476.1F3FB	{ 👶🏻 }	bb, baby
+1F192	{ 🆒 }	COOL
 1F9EC	{ 🧬 }	DNA
+1F193	{ 🆓 }	FREE
 1F194	{ 🆔 }	ID
 1FAAA	{ 🪪 }	ID
-1F196	{ 🆖 }	NG
+1F195	{ 🆕 }	NEW
 1F197	{ 🆗 }	OK
 1F17E.FE0F	{ 🅾️ }	O型, O型血
 1F198	{ 🆘 }	SOS
+1F199	{ 🆙 }	UP
 1F6DC	{ 🛜 }	WIFI, WLAN
 1F6BE	{ 🚾 }	WC
 1FA7B	{ 🩻 }	X光
