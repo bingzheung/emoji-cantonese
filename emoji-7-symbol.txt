@@ -109,7 +109,7 @@
 2705	{ ✅ }	勾(ngau1), 勾號(ngau1 hou6), 剔(tik1), 剔號(tik1 hou6), 正確(zing3 kok3), 對(deoi3), 啱(ngaam1)
 1F22F.FE0F	{ 🈯️ }	指(zi2), 指數(zi2 sou3), 指定席(zi2 ding6 zik6)
 1F4B9	{ 💹 }	匯率(wui6 leot2), 外匯(ngoi6 wui6)
-2747.FE0F	{ ❇️ }	條幅星(tiu4 fuk1 sing1), 火花(fo2 faa1), 星號(sing1 hou6)
+2747.FE0F	{ ❇️ }	四角星(sei3 gok3 sing1), 四角星號(sei3 gok3 sing1 hou6)
 2733.FE0F	{ ✳️ }	八輻星號(baat3 fuk1 sing1 hou6), 八輻星(baat3 fuk1 sing1), 米字(mai5 zi6)
 274E	{ ❎ }	交叉(gaau1 caa1; kaau1 caa1), 叉(caa1), 叉號(caa1 hou6), 錯誤(co3 ng6), 錯(co3), 誤(ng6), 唔啱(m4 ngaam1)
 1F310	{ 🌐 }	地球(dei6 kau4), 世界(sai3 gaai3), 國際(gwok3 zai3), 語言(jyu5 jin4), 全球(cyun4 kau4), 寰球(waan4 kau4)
