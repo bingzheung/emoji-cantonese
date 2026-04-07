@@ -144,7 +144,7 @@
 1F201	{ 🈁 }	日語此處(jat6 jyu5 ci2 cyu3), 日文此處(jat6 man4 ci2 cyu3; jat6 man2 ci2 cyu3)
 1F523	{ 🔣 }	符號輸入(fu4 hou6 syu1 jap6), 符號鍵盤(fu4 hou6 gin6 pun2), 符號(fu4 hou6)
 2139.FE0F	{ ℹ️ }	資訊(zi1 seon3), 信息(seon3 sik1)
-1F524	{ 🔤 }	字母輸入(zi6 mou5 syu1 jap6), 字母(zi6 mou5), 英文輸入(jing1 man2 syu1 jap6), 英文鍵盤(jing1 man2 gin6 pun2)
+1F524	{ 🔤 }	字母輸入(zi6 mou5 syu1 jap6), 字母(zi6 mou5), 英文輸入(jing1 man2 syu1 jap6), 英文鍵盤(jing1 man2 gin6 pun2), 英語輸入(jing1 jyu5 syu1 jap6), 英語鍵盤(jing1 jyu5 gin6 pun2)
 1F521	{ 🔡 }	小寫字母(siu2 se2 zi6 mou5), 細楷(sai3 gaai1)
 1F520	{ 🔠 }	大寫字母(daai6 se2 zi6 mou5), 大楷(daai6 gaai1)
 1F196	{ 🆖 }	未夠好(mei6 gau3 hou2)

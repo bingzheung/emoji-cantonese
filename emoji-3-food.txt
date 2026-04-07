@@ -68,7 +68,7 @@
 1FAD9	{ 🫙 }	樽(zeon1), 空樽(hung1 zeon1), 吉樽(gat1 zeon1), 玻璃樽(bo1 lei1 zeon1), 瓶(ping4), 罐(gun3), 空瓶(hung1 ping4), 空罐(hung1 gun3), 玻璃瓶(bo1 lei1 ping4), 玻璃罐(bo1 lei1 gun3)
 1F35D	{ 🍝 }	意大利麪(ji3 daai6 lei6 min6), 意大利粉(ji3 daai6 lei6 fan2), 意麪(ji3 min6), 意粉(ji3 fan2)
 1F35C	{ 🍜 }	湯麪(tong1 min6), 食麪(sik6 min6), 麪(min6), 麪條(min6 tiu4), 碗麪(wun2 min6), 喫麪(hek3 min6), 湯粉(tong1 fan2), 嗦粉(sok3 fan2), 碗粉(wun2 fan2)
-1F372	{ 🍲 }	食物(sik6 mat6), 火鍋(fo2 wo1), 香鍋(hoeng1 wo1), 打邊爐(daa2 bin1 lou4), 邊爐(bin1 lou4)
+1F372	{ 🍲 }	食物(sik6 mat6), 煮嘢(zyu2 je5), 煮嘢食(zyu2 je5 sik6), 火鍋(fo2 wo1), 香鍋(hoeng1 wo1), 打邊爐(daa2 bin1 lou4), 邊爐(bin1 lou4)
 1F35B	{ 🍛 }	咖喱飯(gaa3 lei1 faan6), 蓋飯(goi3 faan6; koi3 faan6)
 1F363	{ 🍣 }	壽司(sau6 si1), 魚生(jyu4 saang1), 刺身(ci3 san1)
 1F371	{ 🍱 }	日式便當(jat6 sik1 bin6 dong3), 便當(bin6 dong3), 便當盒(bin6 dong3 hap6; bin6 dong3 hap2), 飯盒(faan6 hap2)
