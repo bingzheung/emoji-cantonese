@@ -92,7 +92,7 @@
 1F4FF	{ 📿 }	念珠(nim6 zyu1), 佛珠(fat6 zyu1)
 1F9FF	{ 🧿 }	惡魔之眼(ok3 mo1 zi1 ngaan5)
 1FAAC	{ 🪬 }	惡魔之眼(ok3 mo1 zi1 ngaan5)
-1F488	{ 💈 }	髮廊(faat3 long4), 理髮店(lei5 faat3 dim3), 理髮(lei5 faat3), 剪髮(zin2 faat3), 飛髮(fei1 faat3)
+1F488	{ 💈 }	髮廊(faat3 long4), 理髮店(lei5 faat3 dim3), 理髮(lei5 faat3), 剪髮(zin2 faat3), 飛髮(fei1 faat3), 剪頭毛(zin2 tau4 mou1)
 2697.FE0F	{ ⚗️ }	蒸餾器(zing1 lau6 hei3)
 1F52D	{ 🔭 }	望遠鏡(mong6 jyun5 geng3)
 1F52C	{ 🔬 }	顯微鏡(hin2 mei4 geng3)
