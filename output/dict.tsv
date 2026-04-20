@@ -708,6 +708,7 @@
 大於或等於	daai6 jyu1 waak6 dang2 jyu1
 大雨	daai6 jyu5
 大橋	daai6 kiu4
+大括號	daai6 kut3 hou6
 大蠊	daai6 lim4
 大馬	daai6 maa5
 大拇指	daai6 mou5 zi2
@@ -822,6 +823,7 @@
 突尼斯	dat6 nei5 si1
 豆	dau2
 豆	dau6
+逗號	dau6 hou6
 爹地	de1 di4
 地菠蘿	dei6 bo1 lo4
 地豆	dei6 dau6
@@ -850,6 +852,7 @@
 對話	deoi3 waa6
 對陣	deoi3 zan6
 對戰	deoi3 zin3
+頓號	deon6 hou6
 滴	dik1
 滴汗	dik1 hon6
 滴血	dik1 hyut3
@@ -996,6 +999,7 @@
 花椰菜	faa1 je4 coi3
 花旗	faa1 kei4
 花旗國	faa1 kei4 gwok3
+花括號	faa1 kut3 hou6
 花碼八	faa1 maa5 baat3
 花碼七	faa1 maa5 cat1
 花碼九	faa1 maa5 gau2
@@ -1071,6 +1075,7 @@
 肺部	fai3 bou6
 廢棄房屋	fai3 hei3 fong4 uk1
 廢紙簍	fai3 zi2 lau4
+分號	fan1 hou6
 芬蘭	fan1 laan4
 婚禮教堂	fan1 lai5 gaau3 tong2
 婚禮教堂	fan1 lai5 gaau3 tong4
@@ -1163,7 +1168,9 @@
 方根	fong1 gan1
 方根號	fong1 gan1 hou6
 方形	fong1 jing4
+方括號	fong1 kut3 hou6
 荒漠	fong1 mok6
+方頭括號	fong1 tau4 kut3 hou6
 慌張	fong1 zoeng1
 方磚	fong1 zyun1
 放大鏡	fong3 daai6 geng3
@@ -1377,6 +1384,7 @@
 感動	gam2 dung6
 橄欖	gam2 laam5
 橄欖球	gam2 laam5 kau4
+感嘆	gam2 taan3
 感嘆號	gam2 taan3 hou2
 感嘆號	gam2 taan3 hou6
 感謝	gam2 ze6
@@ -1483,6 +1491,8 @@
 舉手男	geoi2 sau2 naam4
 舉手女	geoi2 sau2 neoi5
 鋸	geoi3
+句點	geoi3 dim2
+句號	geoi3 hou6
 颶風	geoi6 fung1
 巨蟹座	geoi6 haai5 zo6
 巨魔	geoi6 mo1
@@ -1514,6 +1524,7 @@
 驚奇	ging1 kei4
 驚訝	ging1 ngaa6
 驚怕	ging1 paa3
+驚嘆	ging1 taan3
 驚嘆號	ging1 taan3 hou2
 驚嘆號	ging1 taan3 hou6
 警報	ging2 bou3
@@ -1690,6 +1701,8 @@
 關機	gwaan1 gei1
 關機模式	gwaan1 gei1 mou4 sik1
 關引號	gwaan1 jan5 hou6
+關括號	gwaan1 kut3 hou6
+關書名號	gwaan1 syu1 ming4 hou6
 颳風	gwaat3 fung1
 龜	gwai1
 圭亞那	gwai1 aa3 naa5
@@ -2024,11 +2037,13 @@
 開香檳	hoi1 hoeng1 ban1
 開引號	hoi1 jan5 hou6
 開啓箭頭	hoi1 kai2 zin3 tau4
+開括號	hoi1 kut3 hou6
 開曼	hoi1 maan6
 開曼羣島	hoi1 maan6 kwan4 dou2
 開眼𡃶	hoi1 ngaan5 sek3
 開心	hoi1 sam1
 開鎖	hoi1 so2
+開書名號	hoi1 syu1 ming4 hou6
 開懷大笑	hoi1 waai4 daai6 siu3
 海貝	hoi2 bui3
 海地	hoi2 dei6
@@ -2376,6 +2391,8 @@
 右邊	jau6 bin1
 右邊	jau6 bin6
 右單引號	jau6 daan1 jan5 hou6
+右花括號	jau6 faa1 kut3 hou6
+右方括號	jau6 fong1 kut3 hou6
 右下	jau6 haa6
 右下包左上	jau6 haa6 baau1 zo2 soeng6
 右下包左上結構	jau6 haa6 baau1 zo2 soeng6 git3 gau3
@@ -2386,6 +2403,8 @@
 右邑	jau6 jap1
 右耳邊	jau6 ji5 bin1
 右耳旁	jau6 ji5 pong4
+右圓括號	jau6 jyun4 kut3 hou6
+右括號	jau6 kut3 hou6
 右拳	jau6 kyun4
 右面	jau6 min6
 右雙引號	jau6 soeng1 jan5 hou6
@@ -2395,6 +2414,7 @@
 右上包左下結構	jau6 soeng6 baau1 zo2 haa6 git3 kau3
 右上環繞	jau6 soeng6 waan4 jiu2
 右上箭頭	jau6 soeng6 zin3 tau4
+右書名號	jau6 syu1 ming4 hou6
 右指	jau6 zi2
 右箭頭	jau6 zin3 tau4
 㖿	je1
@@ -2658,6 +2678,7 @@
 圓圈	jyun4 hyun1
 猿人	jyun4 jan4
 圓形	jyun4 jing4
+圓括號	jyun4 kut3 hou6
 完美	jyun4 mei5
 玄鳥	jyun4 niu5
 眩暈	jyun4 wan4
@@ -2767,6 +2788,8 @@
 曲奇	kuk1 kei4
 蛐蛐	kuk1 kuk1
 曲譜	kuk1 pou2
+括號	kut3 hou6
+括弧	kut3 wu4
 跨性別	kwaa1 sing3 bit6
 跨性別旗	kwaa1 sing3 bit6 kei4
 挎包	kwaa3 baau1
@@ -3073,6 +3096,7 @@
 氯化銅	luk6 faa3 tung4
 六分之一	luk6 fan6 zi1 jat1
 六鍵	luk6 gin6
+六角括號	luk6 gok3 kut3 hou6
 六角星	luk6 gok3 sing1
 六穀	luk6 guk1
 錄音	luk6 jam1
@@ -3405,6 +3429,7 @@
 帽	mou6
 霧	mou6
 墓碑	mou6 bei1
+冒號	mou6 hou6
 霧橋	mou6 kiu4
 梅	mui4
 梅花	mui4 faa1
@@ -4003,8 +4028,10 @@
 閂引號	saan1 jan5 hou6
 山羊	saan1 joeng4
 山區火車	saan1 keoi1 fo2 ce1
+閂括號	saan1 kut3 hou6
 山嶺	saan1 leng5
 山嶺	saan1 ling5
+閂書名號	saan1 syu1 ming4 hou6
 山體滑坡	saan1 tai2 waat6 bo1
 山域治	saan1 wik6 zi6
 珊瑚	saan1 wu4
@@ -4501,6 +4528,7 @@
 小於或等於	siu2 jyu1 waak6 dang2 jyu1
 小雨	siu2 jyu5
 小強	siu2 koeng4
+小括號	siu2 kut3 hou6
 小喇叭	siu2 laa3 baa1
 小鹿	siu2 luk2
 小鹿	siu2 luk6
@@ -4700,6 +4728,7 @@
 書呆子	syu1 daai1 zi2
 舒服	syu1 fuk6
 輸入法	syu1 jap6 faat3
+書名號	syu1 ming4 hou6
 書呆子	syu1 ngoi4 zi2
 書寫	syu1 se2
 書籍	syu1 zik6
@@ -4781,8 +4810,8 @@
 坦桑尼亞	taan2 song1 nei4 aa3
 嘆氣	taan3 hei3
 嘆號	taan3 hou2
+嘆號問號	taan3 hou2 man6 hou2
 嘆號	taan3 hou6
-嘆號問號	taan3 hou6 man6 hou2
 嘆號問號	taan3 hou6 man6 hou6
 嘆號心	taan3 hou6 sam1
 嘆問號	taan3 man6 hou2
@@ -5314,6 +5343,7 @@
 直尺	zik6 cek3
 直方圖	zik6 fong1 tou4
 直角	zik6 gok3
+直角引號	zik6 gok3 jan5 hou6
 夕陽	zik6 joeng4
 直昇機	zik6 sing1 gei1
 煎餅	zin1 beng2
@@ -5391,7 +5421,9 @@
 左邊	zo2 bin1
 左邊	zo2 bin6
 左單引號	zo2 daan1 jan5 hou6
+左花括號	zo2 faa1 kut3 hou6
 左阜	zo2 fau6
+左方括號	zo2 fong1 kut3 hou6
 左下	zo2 haa6
 左下包右上	zo2 haa6 baau1 jau6 soeng6
 左下包右上結構	zo2 haa6 baau1 jau6 soeng6 git3 gau3
@@ -5408,6 +5440,8 @@
 左右箭頭	zo2 jau6 zin3 tau4
 左耳邊	zo2 ji5 bin1
 左耳旁	zo2 ji5 pong4
+左圓括號	zo2 jyun4 kut3 hou6
+左括號	zo2 kut3 hou6
 左拳	zo2 kyun4
 左面	zo2 min6
 左雙引號	zo2 soeng1 jan5 hou6
@@ -5417,6 +5451,7 @@
 左上包右下結構	zo2 soeng6 baau1 jau6 haa6 git3 kau3
 左上環繞	zo2 soeng6 waan4 jiu2
 左上箭頭	zo2 soeng6 zin3 tau4
+左書名號	zo2 syu1 ming4 hou6
 左指	zo2 zi2
 左箭頭	zo2 zin3 tau4
 左中右	zo2 zung1 jau6
@@ -5507,6 +5542,7 @@
 中國大陸	zung1 gwok3 daai6 luk6
 中入	zung1 jap6
 鍾意	zung1 ji3
+中括號	zung1 kut3 hou6
 棕櫚	zung1 leoi4
 棕櫚樹	zung1 leoi4 syu6
 鐘鈴	zung1 ling4
@@ -5603,10 +5639,10 @@
 蛛	zyu1
 豬	zyu1
 豬鼻	zyu1 bei6
+朱古力	zyu1 gu1 lik1
 朱咕叻	zyu1 gu1 lik1
+朱古力圈	zyu1 gu1 lik1 hyun1
 朱咕叻圈	zyu1 gu1 lik1 hyun1
-朱古力	zyu1 gu2 lik6
-朱古力圈	zyu1 gu2 lik6 hyun1
 蛛網	zyu1 mong5
 株式會社	zyu1 sik1 wui6 se5
 珠算	zyu1 syun3
