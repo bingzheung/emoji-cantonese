@@ -9,13 +9,7 @@ let package = Package(
                 .executable(name: "EmojiCantonese", targets: ["EmojiCantonese"])
         ],
         targets: [
-                .executableTarget(
-                        name: "EmojiCantonese"
-                ),
-                .testTarget(
-                        name: "EmojiCantoneseTests",
-                        dependencies: ["EmojiCantonese"]
-                )
+                .executableTarget(name: "EmojiCantonese")
         ],
         swiftLanguageModes: [.v6]
 )

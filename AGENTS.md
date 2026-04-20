@@ -7,7 +7,7 @@ This repository is a Swift executable package that generates Cantonese emoji dic
 - Package: `EmojiCantonese`
 - Entry point: `Sources/EmojiCantonese/EmojiCantonese.swift`
 - Primary command: `swift run`
-- Test command: `swift test`
+- Build command: `swift build`
 
 Always run commands from the repository root. The generator reads input files from `FileManager.default.currentDirectoryPath`, so changing directories will break file discovery.
 
@@ -18,7 +18,6 @@ Always run commands from the repository root. The generator reads input files fr
   - `OpenCCEmoji.swift`: builds `output/emoji.txt`.
   - `JyutpingGenerator.swift`: builds `output/dict.tsv` and `output/essay.txt`.
   - `JyutpingChecker.swift`: validates Jyutping syllables and sequences.
-- `Tests/EmojiCantoneseTests/`: minimal XCTest coverage.
 - Root `emoji-*.txt`, `symbol-*.txt`, and related `.txt` files: source data.
 - `output/`: generated artifacts.
 
@@ -94,7 +93,7 @@ This file maps a default emoji to its light-skin-tone variant and is used only w
   - editing root data files, then regenerating outputs; or
   - updating generator logic, then regenerating outputs.
 - If you touch any generator input or output logic, run `swift run`.
-- Run `swift test` after code or documentation changes that affect workflow expectations.
+- Run `swift build` after package or workflow changes.
 
 ## Style
 
