@@ -1,6 +1,4 @@
 鴉	aa1
-阿爸	aa3 baa1
-阿爸	aa3 baa4
 阿伯	aa3 baak3
 阿塞拜疆	aa3 coi3 baai3 goeng1
 阿富汗	aa3 fu3 hon6
@@ -17,7 +15,6 @@
 亞硫酸鈉	aa3 lau4 syun1 naap6
 阿魯巴	aa3 lou5 baa1
 阿聯酋	aa3 lyun4 jau4
-阿媽	aa3 maa1
 阿嫲	aa3 maa4
 阿曼	aa3 maan6
 亞美尼亞	aa3 mei5 nei4 aa3
@@ -55,8 +52,6 @@
 歐洲城堡	au1 zau1 sing4 bou2
 嘔	au2
 嘔吐	au2 tou3
-爸	baa1
-爸爸	baa1 baa1
 巴巴多斯	baa1 baa1 do1 si1
 巴布亞新幾內亞	baa1 bou3 aa3 san1 gei2 noi6 aa3
 巴基斯坦	baa1 gei1 si1 taan2
@@ -73,7 +68,6 @@
 巴士站	baa1 si2 zaam6
 靶	baa2
 霸王龍	baa3 wong4 lung4
-爸爸	baa4 baa1
 拜拜	baai1 baai3
 拜託	baai3 tok3
 百寶箱	baak3 bou2 soeng1
@@ -537,8 +531,6 @@
 晴天	cing4 tin1
 程序員	cing4 zeoi6 jyun4
 超級英雄	ciu1 kap1 jing1 hung4
-超級市場	ciu1 kap1 si5 coeng4
-超市	ciu1 si5
 昭和	ciu1 wo4
 朝鮮	ciu4 sin1
 初	co1
@@ -574,8 +566,10 @@
 長曲棍球	coeng4 kuk1 gwan3 kau4
 長條圖	coeng4 tiu4 tou4
 長筒靴	coeng4 tung2 hoe1
+採購	coi2 gau3
 彩虹	coi2 hung4
 彩虹旗	coi2 hung4 kei4
+採購	coi2 kau3
 彩色碎紙	coi2 sik1 seoi3 zi2
 采字頭	coi2 zi6 tau4
 菜	coi3
@@ -806,11 +800,13 @@
 抌垃圾	dam2 laap6 saap3
 燈	dang1
 燈膽	dang1 daam2
+燈炬	dang1 geoi6
 燈籠椒	dang1 lung4 ziu1
 燈泡	dang1 paau1
 登山靴	dang1 saan1 hoe1
 燈神	dang1 san4
 登字頭	dang1 zi6 tau4
+燈燭	dang1 zuk1
 等	dang2
 等價	dang2 gaa3
 等價於	dang2 gaa3 jyu1
@@ -826,7 +822,6 @@
 豆	dau2
 豆	dau6
 逗號	dau6 hou6
-爹地	de1 di4
 地菠蘿	dei6 bo1 lo4
 地豆	dei6 dau6
 地點	dei6 dim2
@@ -2357,6 +2352,7 @@
 郵局	jau4 guk6
 遊戲牌	jau4 hei3 paai4
 遊戲手柄	jau4 hei3 sau2 beng3
+悠悠球	jau4 jau4 kau4
 魷魚	jau4 jyu4
 郵輪	jau4 leon4
 遊樂場	jau4 lok6 coeng4
@@ -2594,6 +2590,7 @@
 日頭	jit6 tau4
 鷂	jiu2
 搖滾手勢	jiu4 gwan2 sau2 sai3
+搖搖球	jiu4 jiu4 kau4
 搖頭	jiu4 tau4
 鷂	jiu6
 約旦	joek3 daan3
@@ -2858,6 +2855,7 @@
 冷飲	laang5 jam2
 冷漠	laang5 mok6
 蠟筆	laap6 bat1
+蠟炬	laap6 geoi6
 垃圾	laap6 saap3
 垃圾籃	laap6 saap3 laam1
 垃圾籃	laap6 saap3 laam4
@@ -3048,7 +3046,6 @@
 驢仔	lou4 zai2
 老阿伯	lou5 aa3 baak3
 老阿姨	lou5 aa3 ji1
-老豆	lou5 dau6
 老花鏡	lou5 faa1 geng3
 老虎	lou5 fu2
 老虎機	lou5 fu2 gei1
@@ -3056,8 +3053,6 @@
 老人	lou5 jan4
 老爺爺	lou5 je4 je2
 老鷹	lou5 jing1
-老母	lou5 mou2
-老母	lou5 mou5
 老男人	lou5 naam4 jan2
 老女人	lou5 neoi5 jan2
 老年人	lou5 nin4 jan4
@@ -3160,13 +3155,8 @@
 唔制	m4 zai3
 唔准	m4 zeon2
 唔准抌垃圾	m4 zeon2 dam2 laap6 saap3
-媽	maa1
-媽媽	maa1 maa1
-媽咪	maa1 mi1
-媽咪	maa1 mi4
 麻煩	maa4 faan4
 麻鷹	maa4 jing1
-媽媽	maa4 maa1
 嫲嫲	maa4 maa4
 麻雀	maa4 zoek2
 麻雀	maa4 zoek3
@@ -3202,8 +3192,6 @@
 馬桶	maa5 tung2
 馬桶吸	maa5 tung2 kap1
 碼字	maa5 zi6
-買餸	maai5 sung3
-買餸車	maai5 sung3 ce1
 擘口	maak3 hau2
 擘嘴	maak3 zeoi2
 蔓菁	maan4 zing1
@@ -5522,6 +5510,7 @@
 足部	zuk1 bou6
 竹花頭	zuk1 faa1 tau4
 祝福	zuk1 fuk1
+燭炬	zuk1 geoi6
 祝賀	zuk1 ho6
 足印	zuk1 jan3
 足球	zuk1 kau4
