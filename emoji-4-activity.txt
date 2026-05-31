@@ -120,4 +120,4 @@
 1F3B3	{ 🎳 }	保齡球(bou2 ling4 kau4)
 1F3AE	{ 🎮 }	遊戲手柄(jau4 hei3 sau2 beng3)
 1F3B0	{ 🎰 }	老虎機(lou5 fu2 gei1)
-1F9E9	{ 🧩 }	拼圖(ping3 tou4)
+1F9E9	{ 🧩 }	拼圖(ping3 tou4), 砌圖(cai3 tou4)

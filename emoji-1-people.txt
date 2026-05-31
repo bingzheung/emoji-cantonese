@@ -58,7 +58,7 @@
 1F633	{ 😳 }	愕然(ngok6 jin4), 不知所措(bat1 zi1 so2 cou3), 嗄(haa2), 震驚(zan3 ging1)
 1F975	{ 🥵 }	熱(jit6), 熱辣(jit6 laat6), 火熱(fo2 jit6), 火辣(fo2 laat6), 辣(laat6), 好熱(hou2 jit6), 好辣(hou2 laat6), 熱死(jit6 sei2), 中暑(zung3 syu2), 發熱(faat3 jit6)
 1F976	{ 🥶 }	凍(dung3), 好凍(hou2 dung3), 凍死(dung3 sei2), 死鬼咁凍(sei2 gwai2 gam3 dung3), 鬼死咁凍(gwai2 sei2 gam3 dung3), 冷(laang5), 冰凍(bing1 dung3), 冰冷(bing1 laang5), 好冷(hou2 laang5)
-1F636.200D.1F32B.FE0F	{ 😶‍🌫️ }	一頭霧水(jat1 tau4 mou6 seoi2), 迷霧(mai4 mou6)
+1F636.200D.1F32B.FE0F	{ 😶‍🌫️ }	一頭霧水(jat1 tau4 mou6 seoi2), 迷霧(mai4 mou6), 一嚿雲(jat1 gau6 wan4), 雲裏霧裏(wan4 leoi5 mou6 leoi5)
 1F631	{ 😱 }	恐懼(hung2 geoi6), 驚(ging1; geng1), 驚怕(ging1 paa3), 嚇死(haak3 sei2), 恐怖(hung2 bou3), 害怕(hoi6 paa3), 震驚(zan3 ging1)
 1F628	{ 😨 }	膽怯(daam2 hip3), 發怵(faat3 zeot1), 驚恐(ging1 hung2), 驚(ging1; geng1), 驚怕(ging1 paa3), 害怕(hoi6 paa3)
 1F630	{ 😰 }	焦慮(ziu1 leoi6), 嚇死(haak3 sei2), 驚(ging1; geng1), 害怕(hoi6 paa3)
