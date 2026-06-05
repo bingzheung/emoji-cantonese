@@ -160,7 +160,7 @@
 1F339	{ 🌹 }	玫瑰(mui4 gwai3), 玫瑰花(mui4 gwai3 faa1), 月季(jyut6 gwai3), 月季花(jyut6 gwai3 faa1), 花(faa1), 花朵(faa1 do2; faa1 doe2)
 1F940	{ 🥀 }	枯萎(fu1 wai2), 萎(wai2), 凋謝(diu1 ze6), 凋零(diu1 ling4), 凋落(diu1 lok6)
 1FABB	{ 🪻 }	風信子(fung1 seon3 zi2)
-1FAB7	{ 🪷 }	蓮花(lin4 faa1), 蓮(lin4)
+1FAB7	{ 🪷 }	蓮花(lin4 faa1), 蓮(lin4), 荷花(ho4 faa1), 荷(ho4), 水芙蓉(seoi2 fu4 jung4)
 1F33A	{ 🌺 }	木槿(muk6 gan2), 木槿花(muk6 gan2 faa1), 芙蓉(fu4 jung4), 芙蓉花(fu4 jung4 faa1), 木芙蓉(muk6 fu4 jung4), 紅花(hung4 faa1), 花(faa1), 花朵(faa1 do2; faa1 doe2)
 1F338	{ 🌸 }	櫻花(jing1 faa1), 櫻(jing1), 花(faa1), 花朵(faa1 do2; faa1 doe2)
 1F33C	{ 🌼 }	黃花(wong4 faa1), 菊花(guk1 faa1), 菊(guk1)
