@@ -83,7 +83,7 @@
 1F5E1	{ 🗡 }	劍(gim3), 刀劍(dou1 gim3)
 2694.FE0F	{ ⚔️ }	劍(gim3), 兵器(bing1 hei3), 武器(mou5 hei3)
 1F6E1	{ 🛡 }	盾(teon5), 盾牌(teon5 paai4)
-1F6AC	{ 🚬 }	菸(jin1), 香菸(hoeng1 jin1), 紙菸(zi2 jin1), 旱菸(hon5 jin1), 食菸(sik6 jin1), 食支菸(sik6 zi1 jin1), 嗦菸(sok3 jin1), 嗦啖菸(sok3 daam6 jin1), 嗦支菸(sok3 zi1 jin1), 吸菸(kap1 jin1), 一支菸(jat1 zi1 jin1), 支菸(zi1 jin1), 一啖菸(jat1 daam6 jin1), 一口菸(jat1 hau2 jin1)
+1F6AC	{ 🚬 }	菸(jin1), 香菸(hoeng1 jin1), 紙菸(zi2 jin1), 旱菸(hon5 jin1), 食菸(sik6 jin1), 吸菸(kap1 jin1)
 26B0.FE0F	{ ⚰️ }	棺材(gun1 coi4), 棺(gun1), 棺木(gun1 muk6), 梓宮(zi2 gung1)
 1FAA6	{ 🪦 }	墓碑(mou6 bei1), 墓(mou6), 墳墓(fan4 mou6), 墳(fan4)
 26B1.FE0F	{ ⚱️ }	骨灰盒(gwat1 fui1 hap6; gwat1 fui1 hap2), 骨灰甕(gwat1 fui1 ung3), 骨灰盅(gwat1 fui1 zung1), 骨灰瓶(gwat1 fui1 ping4), 骨灰(gwat1 fui1)
