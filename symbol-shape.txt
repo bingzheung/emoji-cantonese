@@ -2,7 +2,7 @@
 25A1	{ □ }	方形(fong1 jing4), 正方形(zing3 fong1 jing4), 正方(zing3 fong1), 方塊(fong1 faai3), 矩形(geoi2 jing4), 缺字(kyut3 zi6), 某字(mau5 zi6), 某(mau5), 空缺(hung3 kyut3), 虛缺(heoi1 kyut3)
 25A2	{ ▢ }	圓角矩形(jyun4 gok3 geoi2 jing4)
 25AD	{ ▭ }	長方形(coeng4 fong1 jing4), 長方(coeng4 fong1), 矩形(geoi2 jing4)
-25B1	{ ▱ }	梯形(tai1 jing4)
+25B1	{ ▱ }	平行四邊形(ping4 hang4 sei3 bin1 jing4), 四邊形(sei3 bin1 jing4)
 25B2	{ ▲ }	黑三角(hak1 saam1 gok3), 黑色三角形(hak1 sik1 saam1 gok3 jing4), 三角形(saam1 gok3 jing4)
 25B3	{ △ }	三角(saam1 gok3), 三角形(saam1 gok3 jing4)
 25BC	{ ▼ }	倒三角(dou2 saam1 gok3)
