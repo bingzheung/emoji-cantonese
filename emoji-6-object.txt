@@ -152,7 +152,7 @@
 1F3EE	{ 🏮 }	居酒屋燈籠(geoi1 zau2 uk1 dang1 lung4), 居酒屋(geoi1 zau2 uk1)
 1F390	{ 🎐 }	風鈴(fung1 ling4)
 1FAA9	{ 🪩 }	鏡球(geng3 kau4)
-1F9E7	{ 🧧 }	利是(lei6 si6; lai6 si6), 封包(fung1 baau1), 紅包(hung4 baau1)
+1F9E7	{ 🧧 }	利是(lei6 si6; lai6 si6), 封包(fung1 baau1), 紅包(hung4 baau1), 恭喜發財(gung1 hei2 faat3 coi4)
 2709.FE0F	{ ✉️ }	郵件(jau4 gin2; jau4 gin6), 信(seon3), 信件(seon3 gin2; seon3 gin6)
 1F4E9	{ 📩 }	來信(loi4 seon3), 收信(sau1 seon3)
 1F4E8	{ 📨 }	來信(loi4 seon3), 讀信(duk6 seon3)

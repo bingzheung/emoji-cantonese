@@ -25,7 +25,7 @@
 1F952	{ 🥒 }	青瓜(ceng1 gwaa1; cing1 gwaa1), 黃瓜(wong4 gwaa1)
 1F336	{ 🌶 }	辣椒(laat6 ziu1), 紅辣椒(hung4 laat6 ziu1), 紅椒(hung4 ziu1), 椒(ziu1), 辣(laat6)
 1FAD1	{ 🫑 }	甜椒(tim4 ziu1), 菜椒(coi3 ziu1), 燈籠椒(dang1 lung4 ziu1)
-1F33D	{ 🌽 }	粟米(suk1 mai5), 包粟(baau1 suk1), 玉米(juk6 mai5), 六穀(luk6 guk1)
+1F33D	{ 🌽 }	粟米(suk1 mai5), 包粟(baau1 suk1), 玉米(juk6 mai5)
 1F955	{ 🥕 }	胡蘿蔔(wu4 lo4 baak6), 紅蘿蔔(hung4 lo4 baak6), 紅菜頭(hung4 coi3 tau4)
 1FAD2	{ 🫒 }	橄欖(gam2 laam5), 油橄欖(jau4 gam2 laam5)
 1F9C4	{ 🧄 }	蒜(syun3), 蒜頭(syun3 tau4), 大蒜(daai6 syun3)

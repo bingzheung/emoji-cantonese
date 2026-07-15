@@ -29,7 +29,7 @@
 1F928	{ 🤨 }	面目猙獰(min6 muk6 zang1 ning4), 猙獰(zang1 ning4), 不悅(bat1 jyut6), 憤怒(fan5 nou6)
 1F9D0	{ 🧐 }	單片眼鏡(daan1 pin3 ngaan5 geng3), 檢查(gim2 caa4), 睇過(tai2 gwo3), 睇睇(tai2 tai2), 思考(si1 haau2), 檢視(gim2 si6)
 1F913	{ 🤓 }	戴眼鏡(daai3 ngaan5 geng3), 眼鏡(ngaan5 geng3), 眼鏡仔(ngaan5 geng3 zai2), 書呆子(syu1 ngoi4 zi2; syu1 daai1 zi2), 做題家(zou6 tai4 gaa1), 四眼(sei3 ngaan5), 四眼仔(sei3 ngaan5 zai2)
-1F60E	{ 😎 }	墨鏡(mak6 geng3), 墨超(mak6 ciu1), 型(jing4), 有型(jau5 jing4)
+1F60E	{ 😎 }	墨鏡(mak6 geng3), 墨超(mak6 ciu1), 型(jing4), 有型(jau5 jing4), 威水(wai1 seoi2), 威(wai1)
 1F978	{ 🥸 }	僞裝(ngai6 zong1), 虛僞(heoi1 ngai6)
 1F929	{ 🤩 }	開心(hoi1 sam1), 好開心(hou2 hoi1 sam1), 好嘢(hou2 je5), 正(zeng3), 哇(waa1), 驚喜(ging1 hei2), 星星眼(sing1 sing1 ngaan5)
 1F973	{ 🥳 }	開心(hoi1 sam1), 歡喜(fun1 hei2), 高興(gou1 hing3)

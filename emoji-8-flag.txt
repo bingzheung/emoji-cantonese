@@ -241,7 +241,7 @@
 1F1FA.1F1EC	{ 🇺🇬 }	烏干達(wu1 gon1 daat6)
 1F1FA.1F1E6	{ 🇺🇦 }	烏克蘭(wu1 hak1 laan4)
 1F1E6.1F1EA	{ 🇦🇪 }	阿拉伯聯合酋長國(aa3 laai1 baak3 lyun4 hap6 jau4 zoeng2 gwok3), 阿聯酋(aa3 lyun4 jau4)
-1F1EC.1F1E7	{ 🇬🇧 }	英國(jing1 gwok3), 米字旗(mai5 zi6 kei4), 英吉利(jing1 gat1 lei6), 大不列顛(daai6 bat1 lit6 din1), 聯合王國(lyun4 hap6 wong4 gwok3), 大英帝國(daai6 jing1 dai3 gwok3)
+1F1EC.1F1E7	{ 🇬🇧 }	英國(jing1 gwok3), 米字旗(mai5 zi6 kei4), 英吉利(jing1 gat1 lei6), 大不列顛(daai6 bat1 lit6 din1), 聯合王國(lyun4 hap6 wong4 gwok3)
 1F3F4.E0067.E0062.E0065.E006E.E0067.E007F	{ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 }	英格蘭(jing1 gaak3 laan4)
 1F3F4.E0067.E0062.E0073.E0063.E0074.E007F	{ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 }	蘇格蘭(sou1 gaak3 laan4)
 1F3F4.E0067.E0062.E0077.E006C.E0073.E007F	{ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 }	威爾士(wai1 ji5 si6)

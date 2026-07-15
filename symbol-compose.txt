@@ -41,3 +41,5 @@
 7F52	{ 罒 }	四字頭(sei3 zi6 tau4), 網字頭(mong5 zi6 tau4)
 8980	{ 覀 }	西字頭(sai1 zi6 tau4)
 5B80	{ 宀 }	寶蓋頭(bou2 goi3 tau4), 冧寶頭(lam1 bou4 tau4)
+5E7F	{ 广 }	广字邊(jim2 zi6 bin1), 广字旁(jim2 zi6 pong4), 广字頭(jim2 zi6 tau4), 廣字邊(gwong2 zi6 bin1), 廣字旁(gwong2 zi6 pong4), 廣字頭(gwong2 zi6 tau4)
+5382	{ 厂 }	厂字邊(hon3 zi6 bin1), 厂字旁(hon3 zi6 pong4), 厂字頭(hon3 zi6 tau4), 廠字邊(cong2 zi6 bin1), 廠字旁(cong2 zi6 pong4), 廠字頭(cong2 zi6 tau4)
