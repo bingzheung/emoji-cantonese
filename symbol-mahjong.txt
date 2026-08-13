@@ -41,4 +41,4 @@
 1F028	{ 🀨 }	秋(cau1)
 1F029	{ 🀩 }	冬(dung1)
 1F02A	{ 🀪 }	百搭(baak3 daap3)
-1F02B	{ 🀫 }	麻雀背面(maa4 zoek3 bui3 min6), 麻雀(maa4 zoek2; maa4 zoek3)
+1F02B	{ 🀫 }	麻雀背面(maa4 zoek3 bui3 min6)
