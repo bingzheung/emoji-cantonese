@@ -13,3 +13,4 @@
 232B	{ ⌫ }	退格(teoi3 gaak3), 向後刪除(hoeng3 hau6 saan1 ceoi4), 向左刪除(hoeng3 zo2 saan1 ceoi4), 向後刪(hoeng3 hau6 saan1), 向左刪(hoeng3 zo2 saan1), 刪除(saan1 ceoi4), 刪(saan1), 刪除鍵(saan1 ceoi4 gin6)
 2326	{ ⌦ }	向前刪除(hoeng3 cin4 saan1 ceoi4), 向右刪除(hoeng3 jau6 saan1 ceoi4), 向前刪(hoeng3 cin4 saan1), 向右刪(hoeng3 jau6 saan1), 刪除(saan1 ceoi4), 刪(saan1), 刪除鍵(saan1 ceoi4 gin6)
 2327	{ ⌧ }	清空(cing1 hung1), 清除(cing1 ceoi4)
+23FB	{ ⏻ }	電源鍵(din6 jyun4 gin6)
